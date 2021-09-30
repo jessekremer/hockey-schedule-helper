@@ -12,8 +12,8 @@
 
 ## Setup tables in your database and import data
 - Run the following SQL in your database (I used MariaDB/DBeaver on my local machine):
-- - "1 - create_dates_dimension.sql"
-- - "2 - create_team_schedule.sql"
+ - "1 - create_dates_dimension.sql"
+ - "2 - create_team_schedule.sql"
 - Import the CSV into the table titled `team_schedule`
 - Check the correct number of rows were imported against the number or rows in the CSV:  
     `select count(*) from team_schedule ts;`
