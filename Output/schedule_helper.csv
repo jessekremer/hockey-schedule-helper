@@ -1,704 +1,704 @@
 "day_date","matchup","team","opposition","location","off_night","tired","total_games","off_nights","week_info"
-2021-10-12,1,ANA,,,,,3,3,
-2021-10-12,1,ARI,,,,,3,1,
+2021-10-12,1,ANA,,,,,2,2,
+2021-10-12,1,ARI,,,,,2,0,
 2021-10-12,1,BOS,,,,,1,0,Least Games
 2021-10-12,1,BUF,,,,,2,0,
 2021-10-12,1,CAR,,,,,2,0,
 2021-10-12,1,CBJ,,,,,2,0,
-2021-10-12,1,CGY,,,,,2,1,
-2021-10-12,1,CHI,,,,,3,2,
+2021-10-12,1,CGY,,,,,1,0,Least Games
+2021-10-12,1,CHI,,,,,3,2,Most Games
 2021-10-12,1,COL,,,,,2,1,
-2021-10-12,1,DAL,,,,,3,1,
+2021-10-12,1,DAL,,,,,3,1,Most Games
 2021-10-12,1,DET,,,,,2,0,
 2021-10-12,1,EDM,,,,,2,1,
 2021-10-12,1,FLA,,,,,2,0,
 2021-10-12,1,LAK,,,,,2,0,
 2021-10-12,1,MIN,,,,,2,1,
-2021-10-12,1,MTL,,,,,3,1,
+2021-10-12,1,MTL,,,,,3,1,Most Games
 2021-10-12,1,NJD,,,,,1,1,Least Games
 2021-10-12,1,NSH,,,,,2,0,
 2021-10-12,1,NYI,,,,,2,0,
-2021-10-12,1,NYR,,,,,4,2,Most Games
-2021-10-12,1,OTT,,,,,3,1,
-2021-10-12,1,PHI,,,,,2,2,
-2021-10-12,1,PIT,TBL,Away,Y,,3,1,
-2021-10-12,1,SEA,VGK,Away,Y,,4,2,Most Games
+2021-10-12,1,NYR,,,,,3,1,Most Games
+2021-10-12,1,OTT,,,,,3,1,Most Games
+2021-10-12,1,PHI,,,,,1,1,Least Games
+2021-10-12,1,PIT,TBL,Away,Y,,3,1,Most Games
+2021-10-12,1,SEA,VGK,Away,Y,,3,1,Most Games
 2021-10-12,1,SJS,,,,,1,0,Least Games
-2021-10-12,1,STL,,,,,2,1,
-2021-10-12,1,TBL,PIT,Home,Y,,3,1,
-2021-10-12,1,TOR,,,,,4,2,Most Games
-2021-10-12,1,VAN,,,,,3,2,
+2021-10-12,1,STL,,,,,1,0,Least Games
+2021-10-12,1,TBL,PIT,Home,Y,,3,1,Most Games
+2021-10-12,1,TOR,,,,,3,1,Most Games
+2021-10-12,1,VAN,,,,,3,2,Most Games
 2021-10-12,1,VGK,SEA,Home,Y,,2,1,
 2021-10-12,1,WPG,,,,,2,1,
 2021-10-12,1,WSH,,,,,2,1,
-2021-10-13,1,ANA,WPG,Home,Y,,3,3,
-2021-10-13,1,ARI,,,,,3,1,
+2021-10-13,1,ANA,WPG,Home,Y,,2,2,
+2021-10-13,1,ARI,,,,,2,0,
 2021-10-13,1,BOS,,,,,1,0,Least Games
 2021-10-13,1,BUF,,,,,2,0,
 2021-10-13,1,CAR,,,,,2,0,
 2021-10-13,1,CBJ,,,,,2,0,
-2021-10-13,1,CGY,,,,,2,1,
-2021-10-13,1,CHI,COL,Away,Y,,3,2,
+2021-10-13,1,CGY,,,,,1,0,Least Games
+2021-10-13,1,CHI,COL,Away,Y,,3,2,Most Games
 2021-10-13,1,COL,CHI,Home,Y,,2,1,
-2021-10-13,1,DAL,,,,,3,1,
+2021-10-13,1,DAL,,,,,3,1,Most Games
 2021-10-13,1,DET,,,,,2,0,
 2021-10-13,1,EDM,VAN,Home,Y,,2,1,
 2021-10-13,1,FLA,,,,,2,0,
 2021-10-13,1,LAK,,,,,2,0,
 2021-10-13,1,MIN,,,,,2,1,
-2021-10-13,1,MTL,TOR,Away,Y,,3,1,
+2021-10-13,1,MTL,TOR,Away,Y,,3,1,Most Games
 2021-10-13,1,NJD,,,,,1,1,Least Games
 2021-10-13,1,NSH,,,,,2,0,
 2021-10-13,1,NYI,,,,,2,0,
-2021-10-13,1,NYR,WSH,Away,Y,,4,2,Most Games
-2021-10-13,1,OTT,,,,,3,1,
-2021-10-13,1,PHI,,,,,2,2,
-2021-10-13,1,PIT,,,,,3,1,
-2021-10-13,1,SEA,,,,,4,2,Most Games
+2021-10-13,1,NYR,WSH,Away,Y,,3,1,Most Games
+2021-10-13,1,OTT,,,,,3,1,Most Games
+2021-10-13,1,PHI,,,,,1,1,Least Games
+2021-10-13,1,PIT,,,,,3,1,Most Games
+2021-10-13,1,SEA,,,,,3,1,Most Games
 2021-10-13,1,SJS,,,,,1,0,Least Games
-2021-10-13,1,STL,,,,,2,1,
-2021-10-13,1,TBL,,,,,3,1,
-2021-10-13,1,TOR,MTL,Home,Y,,4,2,Most Games
-2021-10-13,1,VAN,EDM,Away,Y,,3,2,
+2021-10-13,1,STL,,,,,1,0,Least Games
+2021-10-13,1,TBL,,,,,3,1,Most Games
+2021-10-13,1,TOR,MTL,Home,Y,,3,1,Most Games
+2021-10-13,1,VAN,EDM,Away,Y,,3,2,Most Games
 2021-10-13,1,VGK,,,,,2,1,
 2021-10-13,1,WPG,ANA,Away,Y,,2,1,
 2021-10-13,1,WSH,NYR,Home,Y,,2,1,
-2021-10-14,1,ANA,,,,,3,3,
-2021-10-14,1,ARI,CBJ,Away,N,,3,1,
+2021-10-14,1,ANA,,,,,2,2,
+2021-10-14,1,ARI,CBJ,Away,N,,2,0,
 2021-10-14,1,BOS,,,,,1,0,Least Games
 2021-10-14,1,BUF,MTL,Home,N,Tired Opposition,2,0,
 2021-10-14,1,CAR,NYI,Home,N,,2,0,
 2021-10-14,1,CBJ,ARI,Home,N,,2,0,
-2021-10-14,1,CGY,,,,,2,1,
-2021-10-14,1,CHI,,,,,3,2,
+2021-10-14,1,CGY,,,,,1,0,Least Games
+2021-10-14,1,CHI,,,,,3,2,Most Games
 2021-10-14,1,COL,,,,,2,1,
-2021-10-14,1,DAL,NYR,Away,N,Tired Opposition,3,1,
+2021-10-14,1,DAL,NYR,Away,N,Tired Opposition,3,1,Most Games
 2021-10-14,1,DET,TBL,Home,N,,2,0,
 2021-10-14,1,EDM,,,,,2,1,
 2021-10-14,1,FLA,PIT,Home,N,,2,0,
 2021-10-14,1,LAK,VGK,Home,N,,2,0,
 2021-10-14,1,MIN,,,,,2,1,
-2021-10-14,1,MTL,BUF,Away,N,Tired,3,1,
+2021-10-14,1,MTL,BUF,Away,N,Tired,3,1,Most Games
 2021-10-14,1,NJD,,,,,1,1,Least Games
 2021-10-14,1,NSH,SEA,Home,N,,2,0,
 2021-10-14,1,NYI,CAR,Away,N,,2,0,
-2021-10-14,1,NYR,DAL,Home,N,Tired,4,2,Most Games
-2021-10-14,1,OTT,TOR,Home,N,Tired Opposition,3,1,
-2021-10-14,1,PHI,,,,,2,2,
-2021-10-14,1,PIT,FLA,Away,N,,3,1,
-2021-10-14,1,SEA,NSH,Away,N,,4,2,Most Games
+2021-10-14,1,NYR,DAL,Home,N,Tired,3,1,Most Games
+2021-10-14,1,OTT,TOR,Home,N,Tired Opposition,3,1,Most Games
+2021-10-14,1,PHI,,,,,1,1,Least Games
+2021-10-14,1,PIT,FLA,Away,N,,3,1,Most Games
+2021-10-14,1,SEA,NSH,Away,N,,3,1,Most Games
 2021-10-14,1,SJS,,,,,1,0,Least Games
-2021-10-14,1,STL,,,,,2,1,
-2021-10-14,1,TBL,DET,Away,N,,3,1,
-2021-10-14,1,TOR,OTT,Away,N,Tired,4,2,Most Games
-2021-10-14,1,VAN,,,,,3,2,
+2021-10-14,1,STL,,,,,1,0,Least Games
+2021-10-14,1,TBL,DET,Away,N,,3,1,Most Games
+2021-10-14,1,TOR,OTT,Away,N,Tired,3,1,Most Games
+2021-10-14,1,VAN,,,,,3,2,Most Games
 2021-10-14,1,VGK,LAK,Away,N,,2,1,
 2021-10-14,1,WPG,,,,,2,1,
 2021-10-14,1,WSH,,,,,2,1,
-2021-10-15,1,ANA,MIN,Home,Y,,3,3,
-2021-10-15,1,ARI,,,,,3,1,
+2021-10-15,1,ANA,MIN,Home,Y,,2,2,
+2021-10-15,1,ARI,,,,,2,0,
 2021-10-15,1,BOS,,,,,1,0,Least Games
 2021-10-15,1,BUF,,,,,2,0,
 2021-10-15,1,CAR,,,,,2,0,
 2021-10-15,1,CBJ,,,,,2,0,
-2021-10-15,1,CGY,,,,,2,1,
-2021-10-15,1,CHI,NJD,Away,Y,,3,2,
+2021-10-15,1,CGY,,,,,1,0,Least Games
+2021-10-15,1,CHI,NJD,Away,Y,,3,2,Most Games
 2021-10-15,1,COL,,,,,2,1,
-2021-10-15,1,DAL,,,,,3,1,
+2021-10-15,1,DAL,,,,,3,1,Most Games
 2021-10-15,1,DET,,,,,2,0,
 2021-10-15,1,EDM,,,,,2,1,
 2021-10-15,1,FLA,,,,,2,0,
 2021-10-15,1,LAK,,,,,2,0,
 2021-10-15,1,MIN,ANA,Away,Y,,2,1,
-2021-10-15,1,MTL,,,,,3,1,
+2021-10-15,1,MTL,,,,,3,1,Most Games
 2021-10-15,1,NJD,CHI,Home,Y,,1,1,Least Games
 2021-10-15,1,NSH,,,,,2,0,
 2021-10-15,1,NYI,,,,,2,0,
-2021-10-15,1,NYR,,,,,4,2,Most Games
-2021-10-15,1,OTT,,,,,3,1,
-2021-10-15,1,PHI,VAN,Home,Y,,2,2,
-2021-10-15,1,PIT,,,,,3,1,
-2021-10-15,1,SEA,,,,,4,2,Most Games
+2021-10-15,1,NYR,,,,,3,1,Most Games
+2021-10-15,1,OTT,,,,,3,1,Most Games
+2021-10-15,1,PHI,VAN,Home,Y,,1,1,Least Games
+2021-10-15,1,PIT,,,,,3,1,Most Games
+2021-10-15,1,SEA,,,,,3,1,Most Games
 2021-10-15,1,SJS,,,,,1,0,Least Games
-2021-10-15,1,STL,,,,,2,1,
-2021-10-15,1,TBL,,,,,3,1,
-2021-10-15,1,TOR,,,,,4,2,Most Games
-2021-10-15,1,VAN,PHI,Away,Y,,3,2,
+2021-10-15,1,STL,,,,,1,0,Least Games
+2021-10-15,1,TBL,,,,,3,1,Most Games
+2021-10-15,1,TOR,,,,,3,1,Most Games
+2021-10-15,1,VAN,PHI,Away,Y,,3,2,Most Games
 2021-10-15,1,VGK,,,,,2,1,
 2021-10-15,1,WPG,,,,,2,1,
 2021-10-15,1,WSH,,,,,2,1,
-2021-10-16,1,ANA,,,,,3,3,
-2021-10-16,1,ARI,BUF,Away,N,,3,1,
+2021-10-16,1,ANA,,,,,2,2,
+2021-10-16,1,ARI,BUF,Away,N,,2,0,
 2021-10-16,1,BOS,DAL,Home,N,,1,0,Least Games
 2021-10-16,1,BUF,ARI,Home,N,,2,0,
 2021-10-16,1,CAR,NSH,Away,N,,2,0,
 2021-10-16,1,CBJ,SEA,Home,N,,2,0,
-2021-10-16,1,CGY,EDM,Away,N,,2,1,
-2021-10-16,1,CHI,PIT,Away,N,Tired,3,2,
+2021-10-16,1,CGY,EDM,Away,N,,1,0,Least Games
+2021-10-16,1,CHI,PIT,Away,N,Tired,3,2,Most Games
 2021-10-16,1,COL,STL,Home,N,,2,1,
-2021-10-16,1,DAL,BOS,Away,N,,3,1,
+2021-10-16,1,DAL,BOS,Away,N,,3,1,Most Games
 2021-10-16,1,DET,VAN,Home,N,Tired Opposition,2,0,
 2021-10-16,1,EDM,CGY,Home,N,,2,1,
 2021-10-16,1,FLA,NYI,Home,N,,2,0,
 2021-10-16,1,LAK,MIN,Home,N,Tired Opposition,2,0,
 2021-10-16,1,MIN,LAK,Away,N,Tired,2,1,
-2021-10-16,1,MTL,NYR,Home,N,,3,1,
+2021-10-16,1,MTL,NYR,Home,N,,3,1,Most Games
 2021-10-16,1,NJD,,,,,1,1,Least Games
 2021-10-16,1,NSH,CAR,Home,N,,2,0,
 2021-10-16,1,NYI,FLA,Away,N,,2,0,
-2021-10-16,1,NYR,MTL,Away,N,,4,2,Most Games
-2021-10-16,1,OTT,TOR,Away,N,,3,1,
-2021-10-16,1,PHI,,,,,2,2,
-2021-10-16,1,PIT,CHI,Home,N,Tired Opposition,3,1,
-2021-10-16,1,SEA,CBJ,Away,N,,4,2,Most Games
+2021-10-16,1,NYR,MTL,Away,N,,3,1,Most Games
+2021-10-16,1,OTT,TOR,Away,N,,3,1,Most Games
+2021-10-16,1,PHI,,,,,1,1,Least Games
+2021-10-16,1,PIT,CHI,Home,N,Tired Opposition,3,1,Most Games
+2021-10-16,1,SEA,CBJ,Away,N,,3,1,Most Games
 2021-10-16,1,SJS,WPG,Home,N,,1,0,Least Games
-2021-10-16,1,STL,COL,Away,N,,2,1,
-2021-10-16,1,TBL,WSH,Away,N,,3,1,
-2021-10-16,1,TOR,OTT,Home,N,,4,2,Most Games
-2021-10-16,1,VAN,DET,Away,N,Tired,3,2,
+2021-10-16,1,STL,COL,Away,N,,1,0,Least Games
+2021-10-16,1,TBL,WSH,Away,N,,3,1,Most Games
+2021-10-16,1,TOR,OTT,Home,N,,3,1,Most Games
+2021-10-16,1,VAN,DET,Away,N,Tired,3,2,Most Games
 2021-10-16,1,VGK,,,,,2,1,
 2021-10-16,1,WPG,SJS,Away,N,,2,1,
 2021-10-16,1,WSH,TBL,Home,N,,2,1,
-2021-10-17,1,ANA,,,,,3,3,
-2021-10-17,1,ARI,,,,,3,1,
+2021-10-17,1,ANA,,,,,2,2,
+2021-10-17,1,ARI,,,,,2,0,
 2021-10-17,1,BOS,,,,,1,0,Least Games
 2021-10-17,1,BUF,,,,,2,0,
 2021-10-17,1,CAR,,,,,2,0,
 2021-10-17,1,CBJ,,,,,2,0,
-2021-10-17,1,CGY,,,,,2,1,
-2021-10-17,1,CHI,,,,,3,2,
+2021-10-17,1,CGY,,,,,1,0,Least Games
+2021-10-17,1,CHI,,,,,3,2,Most Games
 2021-10-17,1,COL,,,,,2,1,
-2021-10-17,1,DAL,OTT,Away,Y,Both Tired,3,1,
+2021-10-17,1,DAL,OTT,Away,Y,Both Tired,3,1,Most Games
 2021-10-17,1,DET,,,,,2,0,
 2021-10-17,1,EDM,,,,,2,1,
 2021-10-17,1,FLA,,,,,2,0,
 2021-10-17,1,LAK,,,,,2,0,
 2021-10-17,1,MIN,,,,,2,1,
-2021-10-17,1,MTL,,,,,3,1,
+2021-10-17,1,MTL,,,,,3,1,Most Games
 2021-10-17,1,NJD,,,,,1,1,Least Games
 2021-10-17,1,NSH,,,,,2,0,
 2021-10-17,1,NYI,,,,,2,0,
-2021-10-17,1,NYR,,,,,4,2,Most Games
-2021-10-17,1,OTT,DAL,Home,Y,Both Tired,3,1,
-2021-10-17,1,PHI,,,,,2,2,
-2021-10-17,1,PIT,,,,,3,1,
-2021-10-17,1,SEA,,,,,4,2,Most Games
+2021-10-17,1,NYR,,,,,3,1,Most Games
+2021-10-17,1,OTT,DAL,Home,Y,Both Tired,3,1,Most Games
+2021-10-17,1,PHI,,,,,1,1,Least Games
+2021-10-17,1,PIT,,,,,3,1,Most Games
+2021-10-17,1,SEA,,,,,3,1,Most Games
 2021-10-17,1,SJS,,,,,1,0,Least Games
-2021-10-17,1,STL,,,,,2,1,
-2021-10-17,1,TBL,,,,,3,1,
-2021-10-17,1,TOR,,,,,4,2,Most Games
-2021-10-17,1,VAN,,,,,3,2,
+2021-10-17,1,STL,,,,,1,0,Least Games
+2021-10-17,1,TBL,,,,,3,1,Most Games
+2021-10-17,1,TOR,,,,,3,1,Most Games
+2021-10-17,1,VAN,,,,,3,2,Most Games
 2021-10-17,1,VGK,,,,,2,1,
 2021-10-17,1,WPG,,,,,2,1,
 2021-10-17,1,WSH,,,,,2,1,
-2021-10-18,1,ANA,CGY,Away,Y,,3,3,
-2021-10-18,1,ARI,STL,Home,Y,,3,1,
-2021-10-18,1,BOS,,,,,1,0,Least Games
-2021-10-18,1,BUF,,,,,2,0,
-2021-10-18,1,CAR,,,,,2,0,
-2021-10-18,1,CBJ,,,,,2,0,
-2021-10-18,1,CGY,ANA,Home,Y,,2,1,
-2021-10-18,1,CHI,,,,,3,2,
-2021-10-18,1,COL,,,,,2,1,
-2021-10-18,1,DAL,,,,,3,1,
-2021-10-18,1,DET,,,,,2,0,
-2021-10-18,1,EDM,,,,,2,1,
-2021-10-18,1,FLA,,,,,2,0,
-2021-10-18,1,LAK,,,,,2,0,
-2021-10-18,1,MIN,,,,,2,1,
-2021-10-18,1,MTL,,,,,3,1,
-2021-10-18,1,NJD,,,,,1,1,Least Games
-2021-10-18,1,NSH,,,,,2,0,
-2021-10-18,1,NYI,,,,,2,0,
-2021-10-18,1,NYR,TOR,Away,Y,,4,2,Most Games
-2021-10-18,1,OTT,,,,,3,1,
-2021-10-18,1,PHI,SEA,Home,Y,,2,2,
-2021-10-18,1,PIT,,,,,3,1,
-2021-10-18,1,SEA,PHI,Away,Y,,4,2,Most Games
-2021-10-18,1,SJS,,,,,1,0,Least Games
-2021-10-18,1,STL,ARI,Away,Y,,2,1,
-2021-10-18,1,TBL,,,,,3,1,
-2021-10-18,1,TOR,NYR,Home,Y,,4,2,Most Games
-2021-10-18,1,VAN,,,,,3,2,
-2021-10-18,1,VGK,,,,,2,1,
-2021-10-18,1,WPG,,,,,2,1,
-2021-10-18,1,WSH,,,,,2,1,
-2021-10-19,2,ANA,EDM,Away,N,Tired,3,0,
+2021-10-18,2,ANA,CGY,Away,Y,,4,1,Most Games
+2021-10-18,2,ARI,STL,Home,Y,,3,1,
+2021-10-18,2,BOS,,,,,3,3,
+2021-10-18,2,BUF,,,,,3,1,
+2021-10-18,2,CAR,,,,,2,0,Least Games
+2021-10-18,2,CBJ,,,,,3,0,
+2021-10-18,2,CGY,ANA,Home,Y,,3,1,
+2021-10-18,2,CHI,,,,,3,1,
+2021-10-18,2,COL,,,,,3,0,
+2021-10-18,2,DAL,,,,,2,1,Least Games
+2021-10-18,2,DET,,,,,4,1,Most Games
+2021-10-18,2,EDM,,,,,3,1,
+2021-10-18,2,FLA,,,,,3,0,
+2021-10-18,2,LAK,,,,,3,1,
+2021-10-18,2,MIN,,,,,3,1,
+2021-10-18,2,MTL,,,,,3,0,
+2021-10-18,2,NJD,,,,,3,0,
+2021-10-18,2,NSH,,,,,4,1,Most Games
+2021-10-18,2,NYI,,,,,4,1,Most Games
+2021-10-18,2,NYR,TOR,Away,Y,,3,1,
+2021-10-18,2,OTT,,,,,2,0,Least Games
+2021-10-18,2,PHI,SEA,Home,Y,,3,2,
+2021-10-18,2,PIT,,,,,2,0,Least Games
+2021-10-18,2,SEA,PHI,Away,Y,,3,1,
+2021-10-18,2,SJS,,,,,4,2,Most Games
+2021-10-18,2,STL,ARI,Away,Y,,3,2,
+2021-10-18,2,TBL,,,,,2,0,Least Games
+2021-10-18,2,TOR,NYR,Home,Y,,3,2,
+2021-10-18,2,VAN,,,,,3,0,
+2021-10-18,2,VGK,,,,,3,3,
+2021-10-18,2,WPG,,,,,3,0,
+2021-10-18,2,WSH,,,,,3,0,
+2021-10-19,2,ANA,EDM,Away,N,Tired,4,1,Most Games
 2021-10-19,2,ARI,,,,,3,1,
 2021-10-19,2,BOS,,,,,3,3,
-2021-10-19,2,BUF,VAN,Home,N,,4,2,Most Games
-2021-10-19,2,CAR,,,,,3,1,
-2021-10-19,2,CBJ,DET,Away,N,,4,1,Most Games
+2021-10-19,2,BUF,VAN,Home,N,,3,1,
+2021-10-19,2,CAR,,,,,2,0,Least Games
+2021-10-19,2,CBJ,DET,Away,N,,3,0,
 2021-10-19,2,CGY,,,,,3,1,
 2021-10-19,2,CHI,NYI,Home,N,,3,1,
 2021-10-19,2,COL,WSH,Away,N,,3,0,
-2021-10-19,2,DAL,PIT,Away,N,,3,2,
+2021-10-19,2,DAL,PIT,Away,N,,2,1,Least Games
 2021-10-19,2,DET,CBJ,Home,N,,4,1,Most Games
 2021-10-19,2,EDM,ANA,Home,N,Tired Opposition,3,1,
-2021-10-19,2,FLA,TBL,Away,N,,4,1,Most Games
-2021-10-19,2,LAK,NSH,Away,N,,4,2,Most Games
+2021-10-19,2,FLA,TBL,Away,N,,3,0,
+2021-10-19,2,LAK,NSH,Away,N,,3,1,
 2021-10-19,2,MIN,WPG,Home,N,,3,1,
 2021-10-19,2,MTL,SJS,Home,N,,3,0,
 2021-10-19,2,NJD,SEA,Home,N,Tired Opposition,3,0,
 2021-10-19,2,NSH,LAK,Home,N,,4,1,Most Games
 2021-10-19,2,NYI,CHI,Away,N,,4,1,Most Games
 2021-10-19,2,NYR,,,,,3,1,
-2021-10-19,2,OTT,,,,,3,1,
-2021-10-19,2,PHI,,,,,2,1,Least Games
+2021-10-19,2,OTT,,,,,2,0,Least Games
+2021-10-19,2,PHI,,,,,3,2,
 2021-10-19,2,PIT,DAL,Home,N,,2,0,Least Games
-2021-10-19,2,SEA,NJD,Away,N,Tired,2,0,Least Games
+2021-10-19,2,SEA,NJD,Away,N,Tired,3,1,
 2021-10-19,2,SJS,MTL,Away,N,,4,2,Most Games
 2021-10-19,2,STL,,,,,3,2,
-2021-10-19,2,TBL,FLA,Home,N,,3,1,
+2021-10-19,2,TBL,FLA,Home,N,,2,0,Least Games
 2021-10-19,2,TOR,,,,,3,2,
 2021-10-19,2,VAN,BUF,Away,N,,3,0,
 2021-10-19,2,VGK,,,,,3,3,
 2021-10-19,2,WPG,MIN,Away,N,,3,0,
-2021-10-19,2,WSH,COL,Home,N,,4,1,Most Games
-2021-10-20,2,ANA,,,,,3,0,
+2021-10-19,2,WSH,COL,Home,N,,3,0,
+2021-10-20,2,ANA,,,,,4,1,Most Games
 2021-10-20,2,ARI,,,,,3,1,
 2021-10-20,2,BOS,PHI,Away,Y,,3,3,
-2021-10-20,2,BUF,,,,,4,2,Most Games
-2021-10-20,2,CAR,,,,,3,1,
-2021-10-20,2,CBJ,,,,,4,1,Most Games
+2021-10-20,2,BUF,,,,,3,1,
+2021-10-20,2,CAR,,,,,2,0,Least Games
+2021-10-20,2,CBJ,,,,,3,0,
 2021-10-20,2,CGY,,,,,3,1,
 2021-10-20,2,CHI,,,,,3,1,
 2021-10-20,2,COL,,,,,3,0,
-2021-10-20,2,DAL,,,,,3,2,
+2021-10-20,2,DAL,,,,,2,1,Least Games
 2021-10-20,2,DET,,,,,4,1,Most Games
 2021-10-20,2,EDM,,,,,3,1,
-2021-10-20,2,FLA,,,,,4,1,Most Games
-2021-10-20,2,LAK,,,,,4,2,Most Games
+2021-10-20,2,FLA,,,,,3,0,
+2021-10-20,2,LAK,,,,,3,1,
 2021-10-20,2,MIN,,,,,3,1,
 2021-10-20,2,MTL,,,,,3,0,
 2021-10-20,2,NJD,,,,,3,0,
 2021-10-20,2,NSH,,,,,4,1,Most Games
 2021-10-20,2,NYI,,,,,4,1,Most Games
 2021-10-20,2,NYR,,,,,3,1,
-2021-10-20,2,OTT,,,,,3,1,
-2021-10-20,2,PHI,BOS,Home,Y,,2,1,Least Games
+2021-10-20,2,OTT,,,,,2,0,Least Games
+2021-10-20,2,PHI,BOS,Home,Y,,3,2,
 2021-10-20,2,PIT,,,,,2,0,Least Games
-2021-10-20,2,SEA,,,,,2,0,Least Games
+2021-10-20,2,SEA,,,,,3,1,
 2021-10-20,2,SJS,,,,,4,2,Most Games
 2021-10-20,2,STL,VGK,Away,Y,,3,2,
-2021-10-20,2,TBL,,,,,3,1,
+2021-10-20,2,TBL,,,,,2,0,Least Games
 2021-10-20,2,TOR,,,,,3,2,
 2021-10-20,2,VAN,,,,,3,0,
 2021-10-20,2,VGK,STL,Home,Y,,3,3,
 2021-10-20,2,WPG,,,,,3,0,
-2021-10-20,2,WSH,,,,,4,1,Most Games
-2021-10-21,2,ANA,WPG,Away,N,,3,0,
+2021-10-20,2,WSH,,,,,3,0,
+2021-10-21,2,ANA,WPG,Away,N,,4,1,Most Games
 2021-10-21,2,ARI,EDM,Home,N,,3,1,
 2021-10-21,2,BOS,,,,,3,3,
-2021-10-21,2,BUF,,,,,4,2,Most Games
-2021-10-21,2,CAR,MTL,Away,N,,3,1,
-2021-10-21,2,CBJ,NYI,Home,N,,4,1,Most Games
+2021-10-21,2,BUF,,,,,3,1,
+2021-10-21,2,CAR,MTL,Away,N,,2,0,Least Games
+2021-10-21,2,CBJ,NYI,Home,N,,3,0,
 2021-10-21,2,CGY,DET,Away,N,,3,1,
 2021-10-21,2,CHI,VAN,Home,N,,3,1,
 2021-10-21,2,COL,FLA,Away,N,,3,0,
-2021-10-21,2,DAL,,,,,3,2,
+2021-10-21,2,DAL,,,,,2,1,Least Games
 2021-10-21,2,DET,CGY,Home,N,,4,1,Most Games
 2021-10-21,2,EDM,ARI,Away,N,,3,1,
-2021-10-21,2,FLA,COL,Home,N,,4,1,Most Games
-2021-10-21,2,LAK,,,,,4,2,Most Games
+2021-10-21,2,FLA,COL,Home,N,,3,0,
+2021-10-21,2,LAK,,,,,3,1,
 2021-10-21,2,MIN,,,,,3,1,
 2021-10-21,2,MTL,CAR,Home,N,,3,0,
 2021-10-21,2,NJD,WSH,Home,N,,3,0,
 2021-10-21,2,NSH,NYR,Home,N,,4,1,Most Games
 2021-10-21,2,NYI,CBJ,Away,N,,4,1,Most Games
 2021-10-21,2,NYR,NSH,Away,N,,3,1,
-2021-10-21,2,OTT,SJS,Home,N,,3,1,
-2021-10-21,2,PHI,,,,,2,1,Least Games
+2021-10-21,2,OTT,SJS,Home,N,,2,0,Least Games
+2021-10-21,2,PHI,,,,,3,2,
 2021-10-21,2,PIT,,,,,2,0,Least Games
-2021-10-21,2,SEA,,,,,2,0,Least Games
+2021-10-21,2,SEA,,,,,3,1,
 2021-10-21,2,SJS,OTT,Away,N,,4,2,Most Games
 2021-10-21,2,STL,,,,,3,2,
-2021-10-21,2,TBL,,,,,3,1,
+2021-10-21,2,TBL,,,,,2,0,Least Games
 2021-10-21,2,TOR,,,,,3,2,
 2021-10-21,2,VAN,CHI,Away,N,,3,0,
 2021-10-21,2,VGK,,,,,3,3,
 2021-10-21,2,WPG,ANA,Home,N,,3,0,
-2021-10-21,2,WSH,NJD,Away,N,,4,1,Most Games
-2021-10-22,2,ANA,,,,,3,0,
+2021-10-21,2,WSH,NJD,Away,N,,3,0,
+2021-10-22,2,ANA,,,,,4,1,Most Games
 2021-10-22,2,ARI,,,,,3,1,
 2021-10-22,2,BOS,BUF,Away,Y,,3,3,
-2021-10-22,2,BUF,BOS,Home,Y,,4,2,Most Games
-2021-10-22,2,CAR,,,,,3,1,
-2021-10-22,2,CBJ,,,,,4,1,Most Games
+2021-10-22,2,BUF,BOS,Home,Y,,3,1,
+2021-10-22,2,CAR,,,,,2,0,Least Games
+2021-10-22,2,CBJ,,,,,3,0,
 2021-10-22,2,CGY,,,,,3,1,
 2021-10-22,2,CHI,,,,,3,1,
 2021-10-22,2,COL,,,,,3,0,
-2021-10-22,2,DAL,LAK,Home,Y,,3,2,
+2021-10-22,2,DAL,LAK,Home,Y,,2,1,Least Games
 2021-10-22,2,DET,,,,,4,1,Most Games
 2021-10-22,2,EDM,VGK,Away,Y,Tired,3,1,
-2021-10-22,2,FLA,,,,,4,1,Most Games
-2021-10-22,2,LAK,DAL,Away,Y,,4,2,Most Games
+2021-10-22,2,FLA,,,,,3,0,
+2021-10-22,2,LAK,DAL,Away,Y,,3,1,
 2021-10-22,2,MIN,,,,,3,1,
 2021-10-22,2,MTL,,,,,3,0,
 2021-10-22,2,NJD,,,,,3,0,
 2021-10-22,2,NSH,,,,,4,1,Most Games
 2021-10-22,2,NYI,,,,,4,1,Most Games
 2021-10-22,2,NYR,,,,,3,1,
-2021-10-22,2,OTT,,,,,3,1,
-2021-10-22,2,PHI,,,,,2,1,Least Games
+2021-10-22,2,OTT,,,,,2,0,Least Games
+2021-10-22,2,PHI,,,,,3,2,
 2021-10-22,2,PIT,,,,,2,0,Least Games
-2021-10-22,2,SEA,,,,,2,0,Least Games
+2021-10-22,2,SEA,,,,,3,1,
 2021-10-22,2,SJS,TOR,Away,Y,Tired,4,2,Most Games
 2021-10-22,2,STL,,,,,3,2,
-2021-10-22,2,TBL,,,,,3,1,
+2021-10-22,2,TBL,,,,,2,0,Least Games
 2021-10-22,2,TOR,SJS,Home,Y,Tired Opposition,3,2,
 2021-10-22,2,VAN,,,,,3,0,
 2021-10-22,2,VGK,EDM,Home,Y,Tired Opposition,3,3,
 2021-10-22,2,WPG,,,,,3,0,
-2021-10-22,2,WSH,,,,,4,1,Most Games
-2021-10-23,2,ANA,MIN,Away,N,,3,0,
+2021-10-22,2,WSH,,,,,3,0,
+2021-10-23,2,ANA,MIN,Away,N,,4,1,Most Games
 2021-10-23,2,ARI,NYI,Home,N,,3,1,
 2021-10-23,2,BOS,,,,,3,3,
-2021-10-23,2,BUF,NJD,Away,N,Tired,4,2,Most Games
-2021-10-23,2,CAR,CBJ,Away,N,,3,1,
-2021-10-23,2,CBJ,CAR,Home,N,,4,1,Most Games
+2021-10-23,2,BUF,NJD,Away,N,Tired,3,1,
+2021-10-23,2,CAR,CBJ,Away,N,,2,0,Least Games
+2021-10-23,2,CBJ,CAR,Home,N,,3,0,
 2021-10-23,2,CGY,WSH,Away,N,,3,1,
 2021-10-23,2,CHI,,,,,3,1,
 2021-10-23,2,COL,TBL,Away,N,,3,0,
-2021-10-23,2,DAL,,,,,3,2,
+2021-10-23,2,DAL,,,,,2,1,Least Games
 2021-10-23,2,DET,MTL,Away,N,,4,1,Most Games
 2021-10-23,2,EDM,,,,,3,1,
-2021-10-23,2,FLA,PHI,Away,N,,4,1,Most Games
-2021-10-23,2,LAK,STL,Away,N,Tired,4,2,Most Games
+2021-10-23,2,FLA,PHI,Away,N,,3,0,
+2021-10-23,2,LAK,STL,Away,N,Tired,3,1,
 2021-10-23,2,MIN,ANA,Home,N,,3,1,
 2021-10-23,2,MTL,DET,Home,N,,3,0,
 2021-10-23,2,NJD,BUF,Home,N,Tired Opposition,3,0,
 2021-10-23,2,NSH,WPG,Away,N,,4,1,Most Games
 2021-10-23,2,NYI,ARI,Away,N,,4,1,Most Games
 2021-10-23,2,NYR,OTT,Away,N,,3,1,
-2021-10-23,2,OTT,NYR,Home,N,,3,1,
-2021-10-23,2,PHI,FLA,Home,N,,2,1,Least Games
+2021-10-23,2,OTT,NYR,Home,N,,2,0,Least Games
+2021-10-23,2,PHI,FLA,Home,N,,3,2,
 2021-10-23,2,PIT,TOR,Home,N,Tired Opposition,2,0,Least Games
-2021-10-23,2,SEA,VAN,Home,N,,2,0,Least Games
+2021-10-23,2,SEA,VAN,Home,N,,3,1,
 2021-10-23,2,SJS,,,,,4,2,Most Games
 2021-10-23,2,STL,LAK,Home,N,Tired Opposition,3,2,
-2021-10-23,2,TBL,COL,Home,N,,3,1,
+2021-10-23,2,TBL,COL,Home,N,,2,0,Least Games
 2021-10-23,2,TOR,PIT,Away,N,Tired,3,2,
 2021-10-23,2,VAN,SEA,Away,N,,3,0,
 2021-10-23,2,VGK,,,,,3,3,
 2021-10-23,2,WPG,NSH,Home,N,,3,0,
-2021-10-23,2,WSH,CGY,Home,N,,4,1,Most Games
-2021-10-24,2,ANA,,,,,3,0,
+2021-10-23,2,WSH,CGY,Home,N,,3,0,
+2021-10-24,2,ANA,,,,,4,1,Most Games
 2021-10-24,2,ARI,,,,,3,1,
 2021-10-24,2,BOS,SJS,Home,Y,,3,3,
-2021-10-24,2,BUF,,,,,4,2,Most Games
-2021-10-24,2,CAR,,,,,3,1,
-2021-10-24,2,CBJ,,,,,4,1,Most Games
+2021-10-24,2,BUF,,,,,3,1,
+2021-10-24,2,CAR,,,,,2,0,Least Games
+2021-10-24,2,CBJ,,,,,3,0,
 2021-10-24,2,CGY,,,,,3,1,
 2021-10-24,2,CHI,DET,Home,Y,Tired Opposition,3,1,
 2021-10-24,2,COL,,,,,3,0,
-2021-10-24,2,DAL,,,,,3,2,
+2021-10-24,2,DAL,,,,,2,1,Least Games
 2021-10-24,2,DET,CHI,Away,Y,Tired,4,1,Most Games
 2021-10-24,2,EDM,,,,,3,1,
-2021-10-24,2,FLA,,,,,4,1,Most Games
-2021-10-24,2,LAK,,,,,4,2,Most Games
+2021-10-24,2,FLA,,,,,3,0,
+2021-10-24,2,LAK,,,,,3,1,
 2021-10-24,2,MIN,NSH,Home,Y,Both Tired,3,1,
 2021-10-24,2,MTL,,,,,3,0,
 2021-10-24,2,NJD,,,,,3,0,
 2021-10-24,2,NSH,MIN,Away,Y,Both Tired,4,1,Most Games
 2021-10-24,2,NYI,VGK,Away,Y,Tired,4,1,Most Games
 2021-10-24,2,NYR,,,,,3,1,
-2021-10-24,2,OTT,,,,,3,1,
-2021-10-24,2,PHI,,,,,2,1,Least Games
+2021-10-24,2,OTT,,,,,2,0,Least Games
+2021-10-24,2,PHI,,,,,3,2,
 2021-10-24,2,PIT,,,,,2,0,Least Games
-2021-10-24,2,SEA,,,,,2,0,Least Games
+2021-10-24,2,SEA,,,,,3,1,
 2021-10-24,2,SJS,BOS,Away,Y,,4,2,Most Games
 2021-10-24,2,STL,,,,,3,2,
-2021-10-24,2,TBL,,,,,3,1,
+2021-10-24,2,TBL,,,,,2,0,Least Games
 2021-10-24,2,TOR,,,,,3,2,
 2021-10-24,2,VAN,,,,,3,0,
 2021-10-24,2,VGK,NYI,Home,Y,Tired Opposition,3,3,
 2021-10-24,2,WPG,,,,,3,0,
-2021-10-24,2,WSH,,,,,4,1,Most Games
-2021-10-25,2,ANA,,,,,3,0,
-2021-10-25,2,ARI,FLA,Away,Y,,3,1,
-2021-10-25,2,BOS,,,,,3,3,
-2021-10-25,2,BUF,TBL,Home,Y,,4,2,Most Games
-2021-10-25,2,CAR,TOR,Home,Y,,3,1,
-2021-10-25,2,CBJ,DAL,Home,Y,,4,1,Most Games
-2021-10-25,2,CGY,NYR,Away,Y,,3,1,
-2021-10-25,2,CHI,,,,,3,1,
-2021-10-25,2,COL,,,,,3,0,
-2021-10-25,2,DAL,CBJ,Away,Y,,3,2,
-2021-10-25,2,DET,,,,,4,1,Most Games
-2021-10-25,2,EDM,,,,,3,1,
-2021-10-25,2,FLA,ARI,Home,Y,,4,1,Most Games
-2021-10-25,2,LAK,STL,Away,Y,,4,2,Most Games
-2021-10-25,2,MIN,,,,,3,1,
-2021-10-25,2,MTL,,,,,3,0,
-2021-10-25,2,NJD,,,,,3,0,
-2021-10-25,2,NSH,,,,,4,1,Most Games
-2021-10-25,2,NYI,,,,,4,1,Most Games
-2021-10-25,2,NYR,CGY,Home,Y,,3,1,
-2021-10-25,2,OTT,WSH,Home,Y,,3,1,
-2021-10-25,2,PHI,,,,,2,1,Least Games
-2021-10-25,2,PIT,,,,,2,0,Least Games
-2021-10-25,2,SEA,,,,,2,0,Least Games
-2021-10-25,2,SJS,,,,,4,2,Most Games
-2021-10-25,2,STL,LAK,Home,Y,,3,2,
-2021-10-25,2,TBL,BUF,Away,Y,,3,1,
-2021-10-25,2,TOR,CAR,Away,Y,,3,2,
-2021-10-25,2,VAN,,,,,3,0,
-2021-10-25,2,VGK,,,,,3,3,
-2021-10-25,2,WPG,,,,,3,0,
-2021-10-25,2,WSH,OTT,Away,Y,,4,1,Most Games
+2021-10-24,2,WSH,,,,,3,0,
+2021-10-25,3,ANA,,,,,4,3,Most Games
+2021-10-25,3,ARI,FLA,Away,Y,,4,3,Most Games
+2021-10-25,3,BOS,,,,,3,1,
+2021-10-25,3,BUF,TBL,Home,Y,,3,2,
+2021-10-25,3,CAR,TOR,Home,Y,,4,3,Most Games
+2021-10-25,3,CBJ,DAL,Home,Y,,3,3,
+2021-10-25,3,CGY,NYR,Away,Y,,4,2,Most Games
+2021-10-25,3,CHI,,,,,3,2,
+2021-10-25,3,COL,,,,,3,1,
+2021-10-25,3,DAL,CBJ,Away,Y,,3,3,
+2021-10-25,3,DET,,,,,3,2,
+2021-10-25,3,EDM,,,,,2,1,
+2021-10-25,3,FLA,ARI,Home,Y,,4,3,Most Games
+2021-10-25,3,LAK,STL,Away,Y,,4,2,Most Games
+2021-10-25,3,MIN,,,,,3,1,
+2021-10-25,3,MTL,,,,,4,2,Most Games
+2021-10-25,3,NJD,,,,,3,2,
+2021-10-25,3,NSH,,,,,2,1,
+2021-10-25,3,NYI,,,,,1,0,Least Games
+2021-10-25,3,NYR,CGY,Home,Y,,3,3,
+2021-10-25,3,OTT,WSH,Home,Y,,2,2,
+2021-10-25,3,PHI,,,,,3,1,
+2021-10-25,3,PIT,,,,,3,1,
+2021-10-25,3,SEA,,,,,3,2,
+2021-10-25,3,SJS,,,,,3,1,
+2021-10-25,3,STL,LAK,Home,Y,,3,1,
+2021-10-25,3,TBL,BUF,Away,Y,,3,2,
+2021-10-25,3,TOR,CAR,Away,Y,,3,2,
+2021-10-25,3,VAN,,,,,3,1,
+2021-10-25,3,VGK,,,,,3,3,
+2021-10-25,3,WPG,,,,,3,1,
+2021-10-25,3,WSH,OTT,Away,Y,,3,3,
 2021-10-26,3,ANA,WPG,Home,Y,,4,3,Most Games
-2021-10-26,3,ARI,,,,,3,2,
+2021-10-26,3,ARI,,,,,4,3,Most Games
 2021-10-26,3,BOS,,,,,3,1,
-2021-10-26,3,BUF,,,,,2,1,
-2021-10-26,3,CAR,,,,,3,2,
-2021-10-26,3,CBJ,,,,,2,2,
-2021-10-26,3,CGY,NJD,Away,Y,Tired,3,1,
-2021-10-26,3,CHI,,,,,4,3,Most Games
+2021-10-26,3,BUF,,,,,3,2,
+2021-10-26,3,CAR,,,,,4,3,Most Games
+2021-10-26,3,CBJ,,,,,3,3,
+2021-10-26,3,CGY,NJD,Away,Y,Tired,4,2,Most Games
+2021-10-26,3,CHI,,,,,3,2,
 2021-10-26,3,COL,VGK,Home,Y,,3,1,
-2021-10-26,3,DAL,,,,,2,2,
+2021-10-26,3,DAL,,,,,3,3,
 2021-10-26,3,DET,,,,,3,2,
-2021-10-26,3,EDM,,,,,3,2,
-2021-10-26,3,FLA,,,,,3,2,
-2021-10-26,3,LAK,,,,,3,1,
+2021-10-26,3,EDM,,,,,2,1,
+2021-10-26,3,FLA,,,,,4,3,Most Games
+2021-10-26,3,LAK,,,,,4,2,Most Games
 2021-10-26,3,MIN,VAN,Away,Y,,3,1,
 2021-10-26,3,MTL,SEA,Away,Y,,4,2,Most Games
 2021-10-26,3,NJD,CGY,Home,Y,Tired Opposition,3,2,
 2021-10-26,3,NSH,SJS,Home,Y,,2,1,
 2021-10-26,3,NYI,,,,,1,0,Least Games
-2021-10-26,3,NYR,,,,,2,2,
+2021-10-26,3,NYR,,,,,3,3,
 2021-10-26,3,OTT,,,,,2,2,
 2021-10-26,3,PHI,,,,,3,1,
 2021-10-26,3,PIT,TBL,Home,Y,Tired Opposition,3,1,
-2021-10-26,3,SEA,MTL,Home,Y,,4,3,Most Games
+2021-10-26,3,SEA,MTL,Home,Y,,3,2,
 2021-10-26,3,SJS,NSH,Away,Y,,3,1,
-2021-10-26,3,STL,,,,,2,0,
+2021-10-26,3,STL,,,,,3,1,
 2021-10-26,3,TBL,PIT,Away,Y,Tired,3,2,
-2021-10-26,3,TOR,,,,,2,1,
+2021-10-26,3,TOR,,,,,3,2,
 2021-10-26,3,VAN,MIN,Home,Y,,3,1,
 2021-10-26,3,VGK,COL,Away,Y,,3,3,
 2021-10-26,3,WPG,ANA,Away,Y,,3,1,
 2021-10-26,3,WSH,,,,,3,3,
 2021-10-27,3,ANA,,,,,4,3,Most Games
-2021-10-27,3,ARI,,,,,3,2,
+2021-10-27,3,ARI,,,,,4,3,Most Games
 2021-10-27,3,BOS,FLA,Away,Y,,3,1,
-2021-10-27,3,BUF,,,,,2,1,
-2021-10-27,3,CAR,,,,,3,2,
-2021-10-27,3,CBJ,,,,,2,2,
-2021-10-27,3,CGY,,,,,3,1,
-2021-10-27,3,CHI,TOR,Home,Y,,4,3,Most Games
+2021-10-27,3,BUF,,,,,3,2,
+2021-10-27,3,CAR,,,,,4,3,Most Games
+2021-10-27,3,CBJ,,,,,3,3,
+2021-10-27,3,CGY,,,,,4,2,Most Games
+2021-10-27,3,CHI,TOR,Home,Y,,3,2,
 2021-10-27,3,COL,,,,,3,1,
-2021-10-27,3,DAL,VGK,Home,Y,Tired Opposition,2,2,
+2021-10-27,3,DAL,VGK,Home,Y,Tired Opposition,3,3,
 2021-10-27,3,DET,WSH,Away,Y,,3,2,
-2021-10-27,3,EDM,PHI,Home,Y,,3,2,
-2021-10-27,3,FLA,BOS,Home,Y,,3,2,
-2021-10-27,3,LAK,,,,,3,1,
+2021-10-27,3,EDM,PHI,Home,Y,,2,1,
+2021-10-27,3,FLA,BOS,Home,Y,,4,3,Most Games
+2021-10-27,3,LAK,,,,,4,2,Most Games
 2021-10-27,3,MIN,,,,,3,1,
 2021-10-27,3,MTL,,,,,4,2,Most Games
 2021-10-27,3,NJD,,,,,3,2,
 2021-10-27,3,NSH,,,,,2,1,
 2021-10-27,3,NYI,,,,,1,0,Least Games
-2021-10-27,3,NYR,,,,,2,2,
+2021-10-27,3,NYR,,,,,3,3,
 2021-10-27,3,OTT,,,,,2,2,
 2021-10-27,3,PHI,EDM,Away,Y,,3,1,
 2021-10-27,3,PIT,,,,,3,1,
-2021-10-27,3,SEA,,,,,4,3,Most Games
+2021-10-27,3,SEA,,,,,3,2,
 2021-10-27,3,SJS,,,,,3,1,
-2021-10-27,3,STL,,,,,2,0,
+2021-10-27,3,STL,,,,,3,1,
 2021-10-27,3,TBL,,,,,3,2,
-2021-10-27,3,TOR,CHI,Away,Y,,2,1,
+2021-10-27,3,TOR,CHI,Away,Y,,3,2,
 2021-10-27,3,VAN,,,,,3,1,
 2021-10-27,3,VGK,DAL,Away,Y,Tired,3,3,
 2021-10-27,3,WPG,,,,,3,1,
 2021-10-27,3,WSH,DET,Home,Y,,3,3,
 2021-10-28,3,ANA,BUF,Home,N,,4,3,Most Games
-2021-10-28,3,ARI,TBL,Away,N,,3,2,
+2021-10-28,3,ARI,TBL,Away,N,,4,3,Most Games
 2021-10-28,3,BOS,CAR,Away,N,Tired,3,1,
-2021-10-28,3,BUF,ANA,Away,N,,2,1,
-2021-10-28,3,CAR,BOS,Home,N,Tired Opposition,3,2,
-2021-10-28,3,CBJ,,,,,2,2,
-2021-10-28,3,CGY,PIT,Away,N,,3,1,
-2021-10-28,3,CHI,,,,,4,3,Most Games
+2021-10-28,3,BUF,ANA,Away,N,,3,2,
+2021-10-28,3,CAR,BOS,Home,N,Tired Opposition,4,3,Most Games
+2021-10-28,3,CBJ,,,,,3,3,
+2021-10-28,3,CGY,PIT,Away,N,,4,2,Most Games
+2021-10-28,3,CHI,,,,,3,2,
 2021-10-28,3,COL,STL,Away,N,,3,1,
-2021-10-28,3,DAL,,,,,2,2,
+2021-10-28,3,DAL,,,,,3,3,
 2021-10-28,3,DET,,,,,3,2,
-2021-10-28,3,EDM,,,,,3,2,
-2021-10-28,3,FLA,,,,,3,2,
-2021-10-28,3,LAK,WPG,Home,N,,3,1,
+2021-10-28,3,EDM,,,,,2,1,
+2021-10-28,3,FLA,,,,,4,3,Most Games
+2021-10-28,3,LAK,WPG,Home,N,,4,2,Most Games
 2021-10-28,3,MIN,SEA,Away,N,,3,1,
 2021-10-28,3,MTL,SJS,Away,N,,4,2,Most Games
 2021-10-28,3,NJD,,,,,3,2,
 2021-10-28,3,NSH,,,,,2,1,
 2021-10-28,3,NYI,,,,,1,0,Least Games
-2021-10-28,3,NYR,,,,,2,2,
+2021-10-28,3,NYR,,,,,3,3,
 2021-10-28,3,OTT,,,,,2,2,
 2021-10-28,3,PHI,VAN,Away,N,Tired,3,1,
 2021-10-28,3,PIT,CGY,Home,N,,3,1,
-2021-10-28,3,SEA,MIN,Home,N,,4,3,Most Games
+2021-10-28,3,SEA,MIN,Home,N,,3,2,
 2021-10-28,3,SJS,MTL,Home,N,,3,1,
-2021-10-28,3,STL,COL,Home,N,,2,0,
+2021-10-28,3,STL,COL,Home,N,,3,1,
 2021-10-28,3,TBL,ARI,Home,N,,3,2,
-2021-10-28,3,TOR,,,,,2,1,
+2021-10-28,3,TOR,,,,,3,2,
 2021-10-28,3,VAN,PHI,Home,N,Tired Opposition,3,1,
 2021-10-28,3,VGK,,,,,3,3,
 2021-10-28,3,WPG,LAK,Away,N,,3,1,
 2021-10-28,3,WSH,,,,,3,3,
 2021-10-29,3,ANA,VGK,Away,Y,Tired,4,3,Most Games
-2021-10-29,3,ARI,WSH,Away,Y,Tired,3,2,
+2021-10-29,3,ARI,WSH,Away,Y,Tired,4,3,Most Games
 2021-10-29,3,BOS,,,,,3,1,
-2021-10-29,3,BUF,,,,,2,1,
-2021-10-29,3,CAR,CHI,Home,Y,Tired,3,2,
-2021-10-29,3,CBJ,NYR,Away,Y,,2,2,
-2021-10-29,3,CGY,,,,,3,1,
-2021-10-29,3,CHI,CAR,Away,Y,Tired Opposition,4,3,Most Games
+2021-10-29,3,BUF,,,,,3,2,
+2021-10-29,3,CAR,CHI,Home,Y,Tired,4,3,Most Games
+2021-10-29,3,CBJ,NYR,Away,Y,,3,3,
+2021-10-29,3,CGY,,,,,4,2,Most Games
+2021-10-29,3,CHI,CAR,Away,Y,Tired Opposition,3,2,
 2021-10-29,3,COL,,,,,3,1,
-2021-10-29,3,DAL,OTT,Home,Y,,2,2,
+2021-10-29,3,DAL,OTT,Home,Y,,3,3,
 2021-10-29,3,DET,FLA,Home,Y,,3,2,
-2021-10-29,3,EDM,,,,,3,2,
-2021-10-29,3,FLA,DET,Away,Y,,3,2,
-2021-10-29,3,LAK,,,,,3,1,
+2021-10-29,3,EDM,,,,,2,1,
+2021-10-29,3,FLA,DET,Away,Y,,4,3,Most Games
+2021-10-29,3,LAK,,,,,4,2,Most Games
 2021-10-29,3,MIN,,,,,3,1,
 2021-10-29,3,MTL,,,,,4,2,Most Games
 2021-10-29,3,NJD,,,,,3,2,
 2021-10-29,3,NSH,,,,,2,1,
 2021-10-29,3,NYI,,,,,1,0,Least Games
-2021-10-29,3,NYR,CBJ,Home,Y,,2,2,
+2021-10-29,3,NYR,CBJ,Home,Y,,3,3,
 2021-10-29,3,OTT,DAL,Away,Y,,2,2,
 2021-10-29,3,PHI,,,,,3,1,
 2021-10-29,3,PIT,,,,,3,1,
-2021-10-29,3,SEA,,,,,4,3,Most Games
+2021-10-29,3,SEA,,,,,3,2,
 2021-10-29,3,SJS,,,,,3,1,
-2021-10-29,3,STL,,,,,2,0,
+2021-10-29,3,STL,,,,,3,1,
 2021-10-29,3,TBL,,,,,3,2,
-2021-10-29,3,TOR,,,,,2,1,
+2021-10-29,3,TOR,,,,,3,2,
 2021-10-29,3,VAN,,,,,3,1,
 2021-10-29,3,VGK,ANA,Home,Y,Tired Opposition,3,3,
 2021-10-29,3,WPG,,,,,3,1,
 2021-10-29,3,WSH,ARI,Home,Y,Tired Opposition,3,3,
 2021-10-30,3,ANA,,,,,4,3,Most Games
-2021-10-30,3,ARI,,,,,3,2,
+2021-10-30,3,ARI,,,,,4,3,Most Games
 2021-10-30,3,BOS,FLA,Home,N,Tired Opposition,3,1,
-2021-10-30,3,BUF,,,,,2,1,
-2021-10-30,3,CAR,,,,,3,2,
-2021-10-30,3,CBJ,,,,,2,2,
-2021-10-30,3,CGY,PHI,Home,N,,3,1,
-2021-10-30,3,CHI,STL,Away,N,Tired,4,3,Most Games
+2021-10-30,3,BUF,,,,,3,2,
+2021-10-30,3,CAR,,,,,4,3,Most Games
+2021-10-30,3,CBJ,,,,,3,3,
+2021-10-30,3,CGY,PHI,Home,N,,4,2,Most Games
+2021-10-30,3,CHI,STL,Away,N,Tired,3,2,
 2021-10-30,3,COL,MIN,Home,N,,3,1,
-2021-10-30,3,DAL,,,,,2,2,
+2021-10-30,3,DAL,,,,,3,3,
 2021-10-30,3,DET,TOR,Away,N,Tired,3,2,
-2021-10-30,3,EDM,VAN,Away,N,,3,2,
-2021-10-30,3,FLA,BOS,Away,N,Tired,3,2,
-2021-10-30,3,LAK,MTL,Home,N,,3,1,
+2021-10-30,3,EDM,VAN,Away,N,,2,1,
+2021-10-30,3,FLA,BOS,Away,N,Tired,4,3,Most Games
+2021-10-30,3,LAK,MTL,Home,N,,4,2,Most Games
 2021-10-30,3,MIN,COL,Away,N,,3,1,
 2021-10-30,3,MTL,LAK,Away,N,,4,2,Most Games
 2021-10-30,3,NJD,PIT,Away,N,,3,2,
 2021-10-30,3,NSH,NYI,Home,N,,2,1,
 2021-10-30,3,NYI,NSH,Away,N,,1,0,Least Games
-2021-10-30,3,NYR,,,,,2,2,
+2021-10-30,3,NYR,,,,,3,3,
 2021-10-30,3,OTT,,,,,2,2,
 2021-10-30,3,PHI,CGY,Away,N,,3,1,
 2021-10-30,3,PIT,NJD,Home,N,,3,1,
-2021-10-30,3,SEA,,,,,4,3,Most Games
+2021-10-30,3,SEA,,,,,3,2,
 2021-10-30,3,SJS,WPG,Home,N,,3,1,
-2021-10-30,3,STL,CHI,Home,N,Tired Opposition,2,0,
+2021-10-30,3,STL,CHI,Home,N,Tired Opposition,3,1,
 2021-10-30,3,TBL,,,,,3,2,
-2021-10-30,3,TOR,DET,Home,N,Tired Opposition,2,1,
+2021-10-30,3,TOR,DET,Home,N,Tired Opposition,3,2,
 2021-10-30,3,VAN,EDM,Home,N,,3,1,
 2021-10-30,3,VGK,,,,,3,3,
 2021-10-30,3,WPG,SJS,Away,N,,3,1,
 2021-10-30,3,WSH,,,,,3,3,
 2021-10-31,3,ANA,MTL,Home,Y,Tired Opposition,4,3,Most Games
-2021-10-31,3,ARI,CAR,Away,Y,,3,2,
+2021-10-31,3,ARI,CAR,Away,Y,,4,3,Most Games
 2021-10-31,3,BOS,,,,,3,1,
-2021-10-31,3,BUF,LAK,Away,Y,Tired Opposition,2,1,
-2021-10-31,3,CAR,ARI,Home,Y,,3,2,
-2021-10-31,3,CBJ,NJD,Away,Y,Tired Opposition,2,2,
-2021-10-31,3,CGY,,,,,3,1,
-2021-10-31,3,CHI,,,,,4,3,Most Games
+2021-10-31,3,BUF,LAK,Away,Y,Tired Opposition,3,2,
+2021-10-31,3,CAR,ARI,Home,Y,,4,3,Most Games
+2021-10-31,3,CBJ,NJD,Away,Y,Tired Opposition,3,3,
+2021-10-31,3,CGY,,,,,4,2,Most Games
+2021-10-31,3,CHI,,,,,3,2,
 2021-10-31,3,COL,,,,,3,1,
-2021-10-31,3,DAL,,,,,2,2,
+2021-10-31,3,DAL,,,,,3,3,
 2021-10-31,3,DET,,,,,3,2,
-2021-10-31,3,EDM,,,,,3,2,
-2021-10-31,3,FLA,,,,,3,2,
-2021-10-31,3,LAK,BUF,Home,Y,Tired,3,1,
+2021-10-31,3,EDM,,,,,2,1,
+2021-10-31,3,FLA,,,,,4,3,Most Games
+2021-10-31,3,LAK,BUF,Home,Y,Tired,4,2,Most Games
 2021-10-31,3,MIN,,,,,3,1,
 2021-10-31,3,MTL,ANA,Away,Y,Tired,4,2,Most Games
 2021-10-31,3,NJD,CBJ,Home,Y,Tired,3,2,
 2021-10-31,3,NSH,,,,,2,1,
 2021-10-31,3,NYI,,,,,1,0,Least Games
-2021-10-31,3,NYR,SEA,Away,Y,,2,2,
+2021-10-31,3,NYR,SEA,Away,Y,,3,3,
 2021-10-31,3,OTT,,,,,2,2,
 2021-10-31,3,PHI,,,,,3,1,
 2021-10-31,3,PIT,,,,,3,1,
-2021-10-31,3,SEA,NYR,Home,Y,,4,3,Most Games
+2021-10-31,3,SEA,NYR,Home,Y,,3,2,
 2021-10-31,3,SJS,,,,,3,1,
-2021-10-31,3,STL,,,,,2,0,
+2021-10-31,3,STL,,,,,3,1,
 2021-10-31,3,TBL,,,,,3,2,
-2021-10-31,3,TOR,,,,,2,1,
+2021-10-31,3,TOR,,,,,3,2,
 2021-10-31,3,VAN,,,,,3,1,
 2021-10-31,3,VGK,,,,,3,3,
 2021-10-31,3,WPG,,,,,3,1,
 2021-10-31,3,WSH,,,,,3,3,
-2021-11-01,3,ANA,,,,,4,3,Most Games
-2021-11-01,3,ARI,,,,,3,2,
-2021-11-01,3,BOS,,,,,3,1,
-2021-11-01,3,BUF,,,,,2,1,
-2021-11-01,3,CAR,,,,,3,2,
-2021-11-01,3,CBJ,,,,,2,2,
-2021-11-01,3,CGY,,,,,3,1,
-2021-11-01,3,CHI,OTT,Home,Y,,4,3,Most Games
-2021-11-01,3,COL,,,,,3,1,
-2021-11-01,3,DAL,,,,,2,2,
-2021-11-01,3,DET,,,,,3,2,
-2021-11-01,3,EDM,SEA,Home,Y,,3,2,
-2021-11-01,3,FLA,,,,,3,2,
-2021-11-01,3,LAK,,,,,3,1,
-2021-11-01,3,MIN,,,,,3,1,
-2021-11-01,3,MTL,,,,,4,2,Most Games
-2021-11-01,3,NJD,,,,,3,2,
-2021-11-01,3,NSH,,,,,2,1,
-2021-11-01,3,NYI,,,,,1,0,Least Games
-2021-11-01,3,NYR,,,,,2,2,
-2021-11-01,3,OTT,CHI,Away,Y,,2,2,
-2021-11-01,3,PHI,,,,,3,1,
-2021-11-01,3,PIT,,,,,3,1,
-2021-11-01,3,SEA,EDM,Away,Y,,4,3,Most Games
-2021-11-01,3,SJS,,,,,3,1,
-2021-11-01,3,STL,,,,,2,0,
-2021-11-01,3,TBL,WSH,Home,Y,,3,2,
-2021-11-01,3,TOR,,,,,2,1,
-2021-11-01,3,VAN,,,,,3,1,
-2021-11-01,3,VGK,,,,,3,3,
-2021-11-01,3,WPG,,,,,3,1,
-2021-11-01,3,WSH,TBL,Away,Y,,3,3,
+2021-11-01,4,ANA,,,,,3,2,
+2021-11-01,4,ARI,,,,,3,1,
+2021-11-01,4,BOS,,,,,2,0,Least Games
+2021-11-01,4,BUF,,,,,3,0,
+2021-11-01,4,CAR,,,,,2,1,Least Games
+2021-11-01,4,CBJ,,,,,2,1,Least Games
+2021-11-01,4,CGY,,,,,3,0,
+2021-11-01,4,CHI,OTT,Home,Y,,4,4,Most Games
+2021-11-01,4,COL,,,,,2,1,Least Games
+2021-11-01,4,DAL,,,,,3,1,
+2021-11-01,4,DET,,,,,4,1,Most Games
+2021-11-01,4,EDM,SEA,Home,Y,,3,3,
+2021-11-01,4,FLA,,,,,2,0,Least Games
+2021-11-01,4,LAK,,,,,2,2,Least Games
+2021-11-01,4,MIN,,,,,3,1,
+2021-11-01,4,MTL,,,,,3,0,
+2021-11-01,4,NJD,,,,,3,1,
+2021-11-01,4,NSH,,,,,4,3,Most Games
+2021-11-01,4,NYI,,,,,3,1,
+2021-11-01,4,NYR,,,,,3,1,
+2021-11-01,4,OTT,CHI,Away,Y,,4,1,Most Games
+2021-11-01,4,PHI,,,,,3,0,
+2021-11-01,4,PIT,,,,,2,0,Least Games
+2021-11-01,4,SEA,EDM,Away,Y,,3,1,
+2021-11-01,4,SJS,,,,,3,0,
+2021-11-01,4,STL,,,,,3,2,
+2021-11-01,4,TBL,WSH,Home,Y,,3,1,
+2021-11-01,4,TOR,,,,,3,0,
+2021-11-01,4,VAN,,,,,3,2,
+2021-11-01,4,VGK,,,,,4,1,Most Games
+2021-11-01,4,WPG,,,,,3,1,
+2021-11-01,4,WSH,TBL,Away,Y,,3,1,
 2021-11-02,4,ANA,NJD,Home,N,,3,2,
 2021-11-02,4,ARI,PHI,Away,N,,3,1,
 2021-11-02,4,BOS,,,,,2,0,Least Games
-2021-11-02,4,BUF,SJS,Away,N,,4,1,Most Games
+2021-11-02,4,BUF,SJS,Away,N,,3,0,
 2021-11-02,4,CAR,,,,,2,1,Least Games
 2021-11-02,4,CBJ,,,,,2,1,Least Games
 2021-11-02,4,CGY,NSH,Home,N,,3,0,
-2021-11-02,4,CHI,,,,,3,3,
+2021-11-02,4,CHI,,,,,4,4,Most Games
 2021-11-02,4,COL,,,,,2,1,Least Games
 2021-11-02,4,DAL,WPG,Away,N,,3,1,
 2021-11-02,4,DET,MTL,Away,N,,4,1,Most Games
-2021-11-02,4,EDM,,,,,2,2,Least Games
-2021-11-02,4,FLA,,,,,3,1,
-2021-11-02,4,LAK,,,,,3,3,
+2021-11-02,4,EDM,,,,,3,3,
+2021-11-02,4,FLA,,,,,2,0,Least Games
+2021-11-02,4,LAK,,,,,2,2,Least Games
 2021-11-02,4,MIN,OTT,Home,N,Tired Opposition,3,1,
 2021-11-02,4,MTL,DET,Home,N,,3,0,
 2021-11-02,4,NJD,ANA,Away,N,,3,1,
 2021-11-02,4,NSH,CGY,Away,N,,4,3,Most Games
 2021-11-02,4,NYI,,,,,3,1,
-2021-11-02,4,NYR,VAN,Away,N,,4,2,Most Games
-2021-11-02,4,OTT,MIN,Away,N,Tired,3,0,
+2021-11-02,4,NYR,VAN,Away,N,,3,1,
+2021-11-02,4,OTT,MIN,Away,N,Tired,4,1,Most Games
 2021-11-02,4,PHI,ARI,Home,N,,3,0,
 2021-11-02,4,PIT,,,,,2,0,Least Games
-2021-11-02,4,SEA,,,,,2,0,Least Games
+2021-11-02,4,SEA,,,,,3,1,
 2021-11-02,4,SJS,BUF,Home,N,,3,0,
 2021-11-02,4,STL,,,,,3,2,
-2021-11-02,4,TBL,,,,,2,0,Least Games
-2021-11-02,4,TOR,VGK,Home,N,,4,1,Most Games
+2021-11-02,4,TBL,,,,,3,1,
+2021-11-02,4,TOR,VGK,Home,N,,3,0,
 2021-11-02,4,VAN,NYR,Home,N,,3,2,
 2021-11-02,4,VGK,TOR,Away,N,,4,1,Most Games
 2021-11-02,4,WPG,DAL,Home,N,,3,1,
@@ -706,31 +706,31 @@
 2021-11-03,4,ANA,,,,,3,2,
 2021-11-03,4,ARI,,,,,3,1,
 2021-11-03,4,BOS,,,,,2,0,Least Games
-2021-11-03,4,BUF,,,,,4,1,Most Games
+2021-11-03,4,BUF,,,,,3,0,
 2021-11-03,4,CAR,CHI,Away,Y,,2,1,Least Games
 2021-11-03,4,CBJ,COL,Away,Y,,2,1,Least Games
 2021-11-03,4,CGY,,,,,3,0,
-2021-11-03,4,CHI,CAR,Home,Y,,3,3,
+2021-11-03,4,CHI,CAR,Home,Y,,4,4,Most Games
 2021-11-03,4,COL,CBJ,Home,Y,,2,1,Least Games
 2021-11-03,4,DAL,,,,,3,1,
 2021-11-03,4,DET,,,,,4,1,Most Games
-2021-11-03,4,EDM,NSH,Home,Y,Tired Opposition,2,2,Least Games
-2021-11-03,4,FLA,,,,,3,1,
-2021-11-03,4,LAK,STL,Home,Y,,3,3,
+2021-11-03,4,EDM,NSH,Home,Y,Tired Opposition,3,3,
+2021-11-03,4,FLA,,,,,2,0,Least Games
+2021-11-03,4,LAK,STL,Home,Y,,2,2,Least Games
 2021-11-03,4,MIN,,,,,3,1,
 2021-11-03,4,MTL,,,,,3,0,
 2021-11-03,4,NJD,,,,,3,1,
 2021-11-03,4,NSH,EDM,Away,Y,Tired,4,3,Most Games
 2021-11-03,4,NYI,,,,,3,1,
-2021-11-03,4,NYR,,,,,4,2,Most Games
-2021-11-03,4,OTT,,,,,3,0,
+2021-11-03,4,NYR,,,,,3,1,
+2021-11-03,4,OTT,,,,,4,1,Most Games
 2021-11-03,4,PHI,,,,,3,0,
 2021-11-03,4,PIT,,,,,2,0,Least Games
-2021-11-03,4,SEA,,,,,2,0,Least Games
+2021-11-03,4,SEA,,,,,3,1,
 2021-11-03,4,SJS,,,,,3,0,
 2021-11-03,4,STL,LAK,Away,Y,,3,2,
-2021-11-03,4,TBL,,,,,2,0,Least Games
-2021-11-03,4,TOR,,,,,4,1,Most Games
+2021-11-03,4,TBL,,,,,3,1,
+2021-11-03,4,TOR,,,,,3,0,
 2021-11-03,4,VAN,,,,,3,2,
 2021-11-03,4,VGK,,,,,4,1,Most Games
 2021-11-03,4,WPG,,,,,3,1,
@@ -738,31 +738,31 @@
 2021-11-04,4,ANA,,,,,3,2,
 2021-11-04,4,ARI,,,,,3,1,
 2021-11-04,4,BOS,DET,Home,N,,2,0,Least Games
-2021-11-04,4,BUF,SEA,Away,N,,4,1,Most Games
+2021-11-04,4,BUF,SEA,Away,N,,3,0,
 2021-11-04,4,CAR,,,,,2,1,Least Games
 2021-11-04,4,CBJ,,,,,2,1,Least Games
 2021-11-04,4,CGY,DAL,Home,N,,3,0,
-2021-11-04,4,CHI,,,,,3,3,
+2021-11-04,4,CHI,,,,,4,4,Most Games
 2021-11-04,4,COL,,,,,2,1,Least Games
 2021-11-04,4,DAL,CGY,Away,N,,3,1,
 2021-11-04,4,DET,BOS,Away,N,,4,1,Most Games
-2021-11-04,4,EDM,,,,,2,2,Least Games
-2021-11-04,4,FLA,WSH,Home,N,,3,1,
-2021-11-04,4,LAK,,,,,3,3,
+2021-11-04,4,EDM,,,,,3,3,
+2021-11-04,4,FLA,WSH,Home,N,,2,0,Least Games
+2021-11-04,4,LAK,,,,,2,2,Least Games
 2021-11-04,4,MIN,,,,,3,1,
 2021-11-04,4,MTL,NYI,Home,N,,3,0,
 2021-11-04,4,NJD,,,,,3,1,
 2021-11-04,4,NSH,,,,,4,3,Most Games
 2021-11-04,4,NYI,MTL,Away,N,,3,1,
-2021-11-04,4,NYR,,,,,4,2,Most Games
-2021-11-04,4,OTT,VGK,Home,N,,3,0,
+2021-11-04,4,NYR,,,,,3,1,
+2021-11-04,4,OTT,VGK,Home,N,,4,1,Most Games
 2021-11-04,4,PHI,PIT,Away,N,,3,0,
 2021-11-04,4,PIT,PHI,Home,N,,2,0,Least Games
-2021-11-04,4,SEA,BUF,Home,N,,2,0,Least Games
+2021-11-04,4,SEA,BUF,Home,N,,3,1,
 2021-11-04,4,SJS,STL,Home,N,Tired Opposition,3,0,
 2021-11-04,4,STL,SJS,Away,N,Tired,3,2,
-2021-11-04,4,TBL,TOR,Away,N,,2,0,Least Games
-2021-11-04,4,TOR,TBL,Home,N,,4,1,Most Games
+2021-11-04,4,TBL,TOR,Away,N,,3,1,
+2021-11-04,4,TOR,TBL,Home,N,,3,0,
 2021-11-04,4,VAN,,,,,3,2,
 2021-11-04,4,VGK,OTT,Away,N,,4,1,Most Games
 2021-11-04,4,WPG,,,,,3,1,
@@ -770,31 +770,31 @@
 2021-11-05,4,ANA,ARI,Home,Y,,3,2,
 2021-11-05,4,ARI,ANA,Away,Y,,3,1,
 2021-11-05,4,BOS,,,,,2,0,Least Games
-2021-11-05,4,BUF,,,,,4,1,Most Games
+2021-11-05,4,BUF,,,,,3,0,
 2021-11-05,4,CAR,,,,,2,1,Least Games
 2021-11-05,4,CBJ,,,,,2,1,Least Games
 2021-11-05,4,CGY,,,,,3,0,
-2021-11-05,4,CHI,WPG,Away,Y,,3,3,
+2021-11-05,4,CHI,WPG,Away,Y,,4,4,Most Games
 2021-11-05,4,COL,,,,,2,1,Least Games
 2021-11-05,4,DAL,,,,,3,1,
 2021-11-05,4,DET,,,,,4,1,Most Games
-2021-11-05,4,EDM,NYR,Home,Y,,2,2,Least Games
-2021-11-05,4,FLA,,,,,3,1,
-2021-11-05,4,LAK,NJD,Home,Y,,3,3,
+2021-11-05,4,EDM,NYR,Home,Y,,3,3,
+2021-11-05,4,FLA,,,,,2,0,Least Games
+2021-11-05,4,LAK,NJD,Home,Y,,2,2,Least Games
 2021-11-05,4,MIN,,,,,3,1,
 2021-11-05,4,MTL,,,,,3,0,
 2021-11-05,4,NJD,LAK,Away,Y,,3,1,
 2021-11-05,4,NSH,VAN,Away,Y,,4,3,Most Games
 2021-11-05,4,NYI,,,,,3,1,
-2021-11-05,4,NYR,EDM,Away,Y,,4,2,Most Games
-2021-11-05,4,OTT,,,,,3,0,
+2021-11-05,4,NYR,EDM,Away,Y,,3,1,
+2021-11-05,4,OTT,,,,,4,1,Most Games
 2021-11-05,4,PHI,,,,,3,0,
 2021-11-05,4,PIT,,,,,2,0,Least Games
-2021-11-05,4,SEA,,,,,2,0,Least Games
+2021-11-05,4,SEA,,,,,3,1,
 2021-11-05,4,SJS,,,,,3,0,
 2021-11-05,4,STL,,,,,3,2,
-2021-11-05,4,TBL,,,,,2,0,Least Games
-2021-11-05,4,TOR,,,,,4,1,Most Games
+2021-11-05,4,TBL,,,,,3,1,
+2021-11-05,4,TOR,,,,,3,0,
 2021-11-05,4,VAN,NSH,Home,Y,,3,2,
 2021-11-05,4,VGK,,,,,4,1,Most Games
 2021-11-05,4,WPG,CHI,Home,Y,,3,1,
@@ -802,31 +802,31 @@
 2021-11-06,4,ANA,,,,,3,2,
 2021-11-06,4,ARI,SEA,Home,N,Tired,3,1,
 2021-11-06,4,BOS,TOR,Away,N,,2,0,Least Games
-2021-11-06,4,BUF,DET,Home,N,,4,1,Most Games
+2021-11-06,4,BUF,DET,Home,N,,3,0,
 2021-11-06,4,CAR,FLA,Away,N,,2,1,Least Games
 2021-11-06,4,CBJ,COL,Home,N,,2,1,Least Games
 2021-11-06,4,CGY,NYR,Home,N,Tired Opposition,3,0,
-2021-11-06,4,CHI,,,,,3,3,
+2021-11-06,4,CHI,,,,,4,4,Most Games
 2021-11-06,4,COL,CBJ,Away,N,,2,1,Least Games
 2021-11-06,4,DAL,,,,,3,1,
 2021-11-06,4,DET,BUF,Away,N,,4,1,Most Games
-2021-11-06,4,EDM,,,,,2,2,Least Games
-2021-11-06,4,FLA,CAR,Home,N,,3,1,
-2021-11-06,4,LAK,,,,,3,3,
+2021-11-06,4,EDM,,,,,3,3,
+2021-11-06,4,FLA,CAR,Home,N,,2,0,Least Games
+2021-11-06,4,LAK,,,,,2,2,Least Games
 2021-11-06,4,MIN,PIT,Away,N,,3,1,
 2021-11-06,4,MTL,VGK,Home,N,,3,0,
 2021-11-06,4,NJD,SJS,Away,N,Tired,3,1,
 2021-11-06,4,NSH,,,,,4,3,Most Games
 2021-11-06,4,NYI,WPG,Away,N,Tired Opposition,3,1,
-2021-11-06,4,NYR,CGY,Away,N,Tired,4,2,Most Games
-2021-11-06,4,OTT,TBL,Home,N,,3,0,
+2021-11-06,4,NYR,CGY,Away,N,Tired,3,1,
+2021-11-06,4,OTT,TBL,Home,N,,4,1,Most Games
 2021-11-06,4,PHI,WSH,Away,N,,3,0,
 2021-11-06,4,PIT,MIN,Home,N,,2,0,Least Games
-2021-11-06,4,SEA,ARI,Away,N,Tired Opposition,2,0,Least Games
+2021-11-06,4,SEA,ARI,Away,N,Tired Opposition,3,1,
 2021-11-06,4,SJS,NJD,Home,N,Tired Opposition,3,0,
 2021-11-06,4,STL,,,,,3,2,
-2021-11-06,4,TBL,OTT,Away,N,,2,0,Least Games
-2021-11-06,4,TOR,BOS,Home,N,,4,1,Most Games
+2021-11-06,4,TBL,OTT,Away,N,,3,1,
+2021-11-06,4,TOR,BOS,Home,N,,3,0,
 2021-11-06,4,VAN,,,,,3,2,
 2021-11-06,4,VGK,MTL,Away,N,,4,1,Most Games
 2021-11-06,4,WPG,NYI,Home,N,Tired,3,1,
@@ -834,761 +834,761 @@
 2021-11-07,4,ANA,STL,Home,Y,,3,2,
 2021-11-07,4,ARI,,,,,3,1,
 2021-11-07,4,BOS,,,,,2,0,Least Games
-2021-11-07,4,BUF,,,,,4,1,Most Games
+2021-11-07,4,BUF,,,,,3,0,
 2021-11-07,4,CAR,,,,,2,1,Least Games
 2021-11-07,4,CBJ,,,,,2,1,Least Games
 2021-11-07,4,CGY,,,,,3,0,
-2021-11-07,4,CHI,NSH,Home,Y,,3,3,
+2021-11-07,4,CHI,NSH,Home,Y,,4,4,Most Games
 2021-11-07,4,COL,,,,,2,1,Least Games
 2021-11-07,4,DAL,VAN,Away,Y,,3,1,
 2021-11-07,4,DET,VGK,Home,Y,Both Tired,4,1,Most Games
-2021-11-07,4,EDM,,,,,2,2,Least Games
-2021-11-07,4,FLA,,,,,3,1,
-2021-11-07,4,LAK,,,,,3,3,
+2021-11-07,4,EDM,,,,,3,3,
+2021-11-07,4,FLA,,,,,2,0,Least Games
+2021-11-07,4,LAK,,,,,2,2,Least Games
 2021-11-07,4,MIN,NYI,Home,Y,Both Tired,3,1,
 2021-11-07,4,MTL,,,,,3,0,
 2021-11-07,4,NJD,,,,,3,1,
 2021-11-07,4,NSH,CHI,Away,Y,,4,3,Most Games
 2021-11-07,4,NYI,MIN,Away,Y,Both Tired,3,1,
-2021-11-07,4,NYR,,,,,4,2,Most Games
-2021-11-07,4,OTT,,,,,3,0,
+2021-11-07,4,NYR,,,,,3,1,
+2021-11-07,4,OTT,,,,,4,1,Most Games
 2021-11-07,4,PHI,,,,,3,0,
 2021-11-07,4,PIT,,,,,2,0,Least Games
-2021-11-07,4,SEA,,,,,2,0,Least Games
+2021-11-07,4,SEA,,,,,3,1,
 2021-11-07,4,SJS,,,,,3,0,
 2021-11-07,4,STL,ANA,Away,Y,,3,2,
-2021-11-07,4,TBL,,,,,2,0,Least Games
-2021-11-07,4,TOR,,,,,4,1,Most Games
+2021-11-07,4,TBL,,,,,3,1,
+2021-11-07,4,TOR,,,,,3,0,
 2021-11-07,4,VAN,DAL,Home,Y,,3,2,
 2021-11-07,4,VGK,DET,Away,Y,Both Tired,4,1,Most Games
 2021-11-07,4,WPG,,,,,3,1,
 2021-11-07,4,WSH,,,,,3,1,
-2021-11-08,4,ANA,,,,,3,2,
-2021-11-08,4,ARI,,,,,3,1,
-2021-11-08,4,BOS,,,,,2,0,Least Games
-2021-11-08,4,BUF,WSH,Away,Y,,4,1,Most Games
-2021-11-08,4,CAR,,,,,2,1,Least Games
-2021-11-08,4,CBJ,,,,,2,1,Least Games
-2021-11-08,4,CGY,,,,,3,0,
-2021-11-08,4,CHI,,,,,3,3,
-2021-11-08,4,COL,,,,,2,1,Least Games
-2021-11-08,4,DAL,,,,,3,1,
-2021-11-08,4,DET,,,,,4,1,Most Games
-2021-11-08,4,EDM,,,,,2,2,Least Games
-2021-11-08,4,FLA,NYR,Away,Y,,3,1,
-2021-11-08,4,LAK,TOR,Away,Y,,3,3,
-2021-11-08,4,MIN,,,,,3,1,
-2021-11-08,4,MTL,,,,,3,0,
-2021-11-08,4,NJD,,,,,3,1,
-2021-11-08,4,NSH,,,,,4,3,Most Games
-2021-11-08,4,NYI,,,,,3,1,
-2021-11-08,4,NYR,FLA,Home,Y,,4,2,Most Games
-2021-11-08,4,OTT,,,,,3,0,
-2021-11-08,4,PHI,,,,,3,0,
-2021-11-08,4,PIT,,,,,2,0,Least Games
-2021-11-08,4,SEA,,,,,2,0,Least Games
-2021-11-08,4,SJS,,,,,3,0,
-2021-11-08,4,STL,,,,,3,2,
-2021-11-08,4,TBL,,,,,2,0,Least Games
-2021-11-08,4,TOR,LAK,Home,Y,,4,1,Most Games
-2021-11-08,4,VAN,,,,,3,2,
-2021-11-08,4,VGK,,,,,4,1,Most Games
-2021-11-08,4,WPG,,,,,3,1,
-2021-11-08,4,WSH,BUF,Home,Y,,3,1,
+2021-11-08,5,ANA,,,,,3,1,
+2021-11-08,5,ARI,,,,,3,2,
+2021-11-08,5,BOS,,,,,4,1,Most Games
+2021-11-08,5,BUF,WSH,Away,Y,,3,2,
+2021-11-08,5,CAR,,,,,3,1,
+2021-11-08,5,CBJ,,,,,2,1,
+2021-11-08,5,CGY,,,,,4,2,Most Games
+2021-11-08,5,CHI,,,,,2,1,
+2021-11-08,5,COL,,,,,2,0,
+2021-11-08,5,DAL,,,,,2,1,
+2021-11-08,5,DET,,,,,3,0,
+2021-11-08,5,EDM,,,,,4,2,Most Games
+2021-11-08,5,FLA,NYR,Away,Y,,4,1,Most Games
+2021-11-08,5,LAK,TOR,Away,Y,,4,1,Most Games
+2021-11-08,5,MIN,,,,,3,1,
+2021-11-08,5,MTL,,,,,4,1,Most Games
+2021-11-08,5,NJD,,,,,4,1,Most Games
+2021-11-08,5,NSH,,,,,3,1,
+2021-11-08,5,NYI,,,,,1,0,Least Games
+2021-11-08,5,NYR,FLA,Home,Y,,3,2,
+2021-11-08,5,OTT,,,,,4,1,Most Games
+2021-11-08,5,PHI,,,,,3,2,
+2021-11-08,5,PIT,,,,,4,1,Most Games
+2021-11-08,5,SEA,,,,,3,0,
+2021-11-08,5,SJS,,,,,3,0,
+2021-11-08,5,STL,,,,,4,1,Most Games
+2021-11-08,5,TBL,,,,,2,0,
+2021-11-08,5,TOR,LAK,Home,Y,,4,3,Most Games
+2021-11-08,5,VAN,,,,,4,1,Most Games
+2021-11-08,5,VGK,,,,,3,0,
+2021-11-08,5,WPG,,,,,3,0,
+2021-11-08,5,WSH,BUF,Home,Y,,4,3,Most Games
 2021-11-09,5,ANA,VAN,Away,N,,3,1,
 2021-11-09,5,ARI,,,,,3,2,
 2021-11-09,5,BOS,OTT,Home,N,,4,1,Most Games
-2021-11-09,5,BUF,,,,,2,1,Least Games
+2021-11-09,5,BUF,,,,,3,2,
 2021-11-09,5,CAR,TBL,Away,N,,3,1,
-2021-11-09,5,CBJ,,,,,3,2,
+2021-11-09,5,CBJ,,,,,2,1,
 2021-11-09,5,CGY,SJS,Home,N,,4,2,Most Games
-2021-11-09,5,CHI,PIT,Home,N,,2,1,Least Games
-2021-11-09,5,COL,,,,,2,0,Least Games
-2021-11-09,5,DAL,,,,,2,1,Least Games
-2021-11-09,5,DET,EDM,Home,N,,4,1,Most Games
+2021-11-09,5,CHI,PIT,Home,N,,2,1,
+2021-11-09,5,COL,,,,,2,0,
+2021-11-09,5,DAL,,,,,2,1,
+2021-11-09,5,DET,EDM,Home,N,,3,0,
 2021-11-09,5,EDM,DET,Away,N,,4,2,Most Games
-2021-11-09,5,FLA,NJD,Away,N,Tired,3,0,
-2021-11-09,5,LAK,MTL,Away,N,Tired,3,0,
+2021-11-09,5,FLA,NJD,Away,N,Tired,4,1,Most Games
+2021-11-09,5,LAK,MTL,Away,N,Tired,4,1,Most Games
 2021-11-09,5,MIN,,,,,3,1,
 2021-11-09,5,MTL,LAK,Home,N,Tired Opposition,4,1,Most Games
 2021-11-09,5,NJD,FLA,Home,N,Tired Opposition,4,1,Most Games
 2021-11-09,5,NSH,,,,,3,1,
-2021-11-09,5,NYI,,,,,2,1,Least Games
-2021-11-09,5,NYR,,,,,2,1,Least Games
+2021-11-09,5,NYI,,,,,1,0,Least Games
+2021-11-09,5,NYR,,,,,3,2,
 2021-11-09,5,OTT,BOS,Away,N,,4,1,Most Games
 2021-11-09,5,PHI,,,,,3,2,
 2021-11-09,5,PIT,CHI,Away,N,,4,1,Most Games
 2021-11-09,5,SEA,VGK,Away,N,,3,0,
 2021-11-09,5,SJS,CGY,Away,N,,3,0,
 2021-11-09,5,STL,WPG,Away,N,,4,1,Most Games
-2021-11-09,5,TBL,CAR,Home,N,,3,1,
-2021-11-09,5,TOR,,,,,3,2,
+2021-11-09,5,TBL,CAR,Home,N,,2,0,
+2021-11-09,5,TOR,,,,,4,3,Most Games
 2021-11-09,5,VAN,ANA,Home,N,,4,1,Most Games
 2021-11-09,5,VGK,SEA,Home,N,,3,0,
 2021-11-09,5,WPG,STL,Home,N,,3,0,
-2021-11-09,5,WSH,,,,,3,2,
+2021-11-09,5,WSH,,,,,4,3,Most Games
 2021-11-10,5,ANA,,,,,3,1,
 2021-11-10,5,ARI,MIN,Home,Y,,3,2,
 2021-11-10,5,BOS,,,,,4,1,Most Games
-2021-11-10,5,BUF,,,,,2,1,Least Games
+2021-11-10,5,BUF,,,,,3,2,
 2021-11-10,5,CAR,,,,,3,1,
-2021-11-10,5,CBJ,,,,,3,2,
+2021-11-10,5,CBJ,,,,,2,1,
 2021-11-10,5,CGY,,,,,4,2,Most Games
-2021-11-10,5,CHI,,,,,2,1,Least Games
-2021-11-10,5,COL,,,,,2,0,Least Games
-2021-11-10,5,DAL,NSH,Home,Y,,2,1,Least Games
-2021-11-10,5,DET,,,,,4,1,Most Games
+2021-11-10,5,CHI,,,,,2,1,
+2021-11-10,5,COL,,,,,2,0,
+2021-11-10,5,DAL,NSH,Home,Y,,2,1,
+2021-11-10,5,DET,,,,,3,0,
 2021-11-10,5,EDM,,,,,4,2,Most Games
-2021-11-10,5,FLA,,,,,3,0,
-2021-11-10,5,LAK,,,,,3,0,
+2021-11-10,5,FLA,,,,,4,1,Most Games
+2021-11-10,5,LAK,,,,,4,1,Most Games
 2021-11-10,5,MIN,ARI,Away,Y,,3,1,
 2021-11-10,5,MTL,,,,,4,1,Most Games
 2021-11-10,5,NJD,,,,,4,1,Most Games
 2021-11-10,5,NSH,DAL,Away,Y,,3,1,
-2021-11-10,5,NYI,,,,,2,1,Least Games
-2021-11-10,5,NYR,,,,,2,1,Least Games
+2021-11-10,5,NYI,,,,,1,0,Least Games
+2021-11-10,5,NYR,,,,,3,2,
 2021-11-10,5,OTT,,,,,4,1,Most Games
 2021-11-10,5,PHI,TOR,Home,Y,,3,2,
 2021-11-10,5,PIT,,,,,4,1,Most Games
 2021-11-10,5,SEA,,,,,3,0,
 2021-11-10,5,SJS,,,,,3,0,
 2021-11-10,5,STL,,,,,4,1,Most Games
-2021-11-10,5,TBL,,,,,3,1,
-2021-11-10,5,TOR,PHI,Away,Y,,3,2,
+2021-11-10,5,TBL,,,,,2,0,
+2021-11-10,5,TOR,PHI,Away,Y,,4,3,Most Games
 2021-11-10,5,VAN,,,,,4,1,Most Games
 2021-11-10,5,VGK,,,,,3,0,
 2021-11-10,5,WPG,,,,,3,0,
-2021-11-10,5,WSH,,,,,3,2,
+2021-11-10,5,WSH,,,,,4,3,Most Games
 2021-11-11,5,ANA,SEA,Away,N,,3,1,
 2021-11-11,5,ARI,,,,,3,2,
 2021-11-11,5,BOS,EDM,Home,N,,4,1,Most Games
-2021-11-11,5,BUF,,,,,2,1,Least Games
+2021-11-11,5,BUF,,,,,3,2,
 2021-11-11,5,CAR,,,,,3,1,
-2021-11-11,5,CBJ,,,,,3,2,
+2021-11-11,5,CBJ,,,,,2,1,
 2021-11-11,5,CGY,MTL,Away,N,,4,2,Most Games
-2021-11-11,5,CHI,,,,,2,1,Least Games
-2021-11-11,5,COL,VAN,Home,N,,2,0,Least Games
-2021-11-11,5,DAL,,,,,2,1,Least Games
-2021-11-11,5,DET,WSH,Home,N,,4,1,Most Games
+2021-11-11,5,CHI,,,,,2,1,
+2021-11-11,5,COL,VAN,Home,N,,2,0,
+2021-11-11,5,DAL,,,,,2,1,
+2021-11-11,5,DET,WSH,Home,N,,3,0,
 2021-11-11,5,EDM,BOS,Away,N,,4,2,Most Games
-2021-11-11,5,FLA,PIT,Away,N,,3,0,
-2021-11-11,5,LAK,OTT,Away,N,,3,0,
+2021-11-11,5,FLA,PIT,Away,N,,4,1,Most Games
+2021-11-11,5,LAK,OTT,Away,N,,4,1,Most Games
 2021-11-11,5,MIN,VGK,Away,N,Tired,3,1,
 2021-11-11,5,MTL,CGY,Home,N,,4,1,Most Games
 2021-11-11,5,NJD,NYI,Home,N,,4,1,Most Games
 2021-11-11,5,NSH,STL,Away,N,Tired,3,1,
-2021-11-11,5,NYI,NJD,Away,N,,2,1,Least Games
-2021-11-11,5,NYR,,,,,2,1,Least Games
+2021-11-11,5,NYI,NJD,Away,N,,1,0,Least Games
+2021-11-11,5,NYR,,,,,3,2,
 2021-11-11,5,OTT,LAK,Home,N,,4,1,Most Games
 2021-11-11,5,PHI,,,,,3,2,
 2021-11-11,5,PIT,FLA,Home,N,,4,1,Most Games
 2021-11-11,5,SEA,ANA,Home,N,,3,0,
 2021-11-11,5,SJS,WPG,Away,N,,3,0,
 2021-11-11,5,STL,NSH,Home,N,Tired Opposition,4,1,Most Games
-2021-11-11,5,TBL,,,,,3,1,
-2021-11-11,5,TOR,,,,,3,2,
+2021-11-11,5,TBL,,,,,2,0,
+2021-11-11,5,TOR,,,,,4,3,Most Games
 2021-11-11,5,VAN,COL,Away,N,,4,1,Most Games
 2021-11-11,5,VGK,MIN,Home,N,Tired Opposition,3,0,
 2021-11-11,5,WPG,SJS,Home,N,,3,0,
-2021-11-11,5,WSH,DET,Away,N,,3,2,
+2021-11-11,5,WSH,DET,Away,N,,4,3,Most Games
 2021-11-12,5,ANA,,,,,3,1,
 2021-11-12,5,ARI,CHI,Away,Y,,3,2,
 2021-11-12,5,BOS,,,,,4,1,Most Games
-2021-11-12,5,BUF,EDM,Home,Y,Tired Opposition,2,1,Least Games
+2021-11-12,5,BUF,EDM,Home,Y,Tired Opposition,3,2,
 2021-11-12,5,CAR,PHI,Home,Y,,3,1,
-2021-11-12,5,CBJ,WSH,Home,Y,Tired Opposition,3,2,
+2021-11-12,5,CBJ,WSH,Home,Y,Tired Opposition,2,1,
 2021-11-12,5,CGY,TOR,Away,Y,Tired,4,2,Most Games
-2021-11-12,5,CHI,ARI,Home,Y,,2,1,Least Games
-2021-11-12,5,COL,,,,,2,0,Least Games
-2021-11-12,5,DAL,,,,,2,1,Least Games
-2021-11-12,5,DET,,,,,4,1,Most Games
+2021-11-12,5,CHI,ARI,Home,Y,,2,1,
+2021-11-12,5,COL,,,,,2,0,
+2021-11-12,5,DAL,,,,,2,1,
+2021-11-12,5,DET,,,,,3,0,
 2021-11-12,5,EDM,BUF,Away,Y,Tired,4,2,Most Games
-2021-11-12,5,FLA,,,,,3,0,
-2021-11-12,5,LAK,,,,,3,0,
+2021-11-12,5,FLA,,,,,4,1,Most Games
+2021-11-12,5,LAK,,,,,4,1,Most Games
 2021-11-12,5,MIN,,,,,3,1,
 2021-11-12,5,MTL,,,,,4,1,Most Games
 2021-11-12,5,NJD,,,,,4,1,Most Games
 2021-11-12,5,NSH,,,,,3,1,
-2021-11-12,5,NYI,,,,,2,1,Least Games
-2021-11-12,5,NYR,,,,,2,1,Least Games
+2021-11-12,5,NYI,,,,,1,0,Least Games
+2021-11-12,5,NYR,,,,,3,2,
 2021-11-12,5,OTT,,,,,4,1,Most Games
 2021-11-12,5,PHI,CAR,Away,Y,,3,2,
 2021-11-12,5,PIT,,,,,4,1,Most Games
 2021-11-12,5,SEA,,,,,3,0,
 2021-11-12,5,SJS,,,,,3,0,
 2021-11-12,5,STL,,,,,4,1,Most Games
-2021-11-12,5,TBL,,,,,3,1,
-2021-11-12,5,TOR,CGY,Home,Y,Tired Opposition,3,2,
+2021-11-12,5,TBL,,,,,2,0,
+2021-11-12,5,TOR,CGY,Home,Y,Tired Opposition,4,3,Most Games
 2021-11-12,5,VAN,,,,,4,1,Most Games
 2021-11-12,5,VGK,,,,,3,0,
 2021-11-12,5,WPG,,,,,3,0,
-2021-11-12,5,WSH,CBJ,Away,Y,Tired,3,2,
+2021-11-12,5,WSH,CBJ,Away,Y,Tired,4,3,Most Games
 2021-11-13,5,ANA,,,,,3,1,
 2021-11-13,5,ARI,NSH,Away,N,Tired,3,2,
 2021-11-13,5,BOS,NJD,Away,N,,4,1,Most Games
-2021-11-13,5,BUF,TOR,Home,N,Both Tired,2,1,Least Games
+2021-11-13,5,BUF,TOR,Home,N,Both Tired,3,2,
 2021-11-13,5,CAR,STL,Home,N,Tired,3,1,
-2021-11-13,5,CBJ,NYR,Home,N,Tired,3,2,
+2021-11-13,5,CBJ,NYR,Home,N,Tired,2,1,
 2021-11-13,5,CGY,,,,,4,2,Most Games
-2021-11-13,5,CHI,,,,,2,1,Least Games
-2021-11-13,5,COL,SJS,Home,N,,2,0,Least Games
-2021-11-13,5,DAL,PHI,Home,N,Tired Opposition,2,1,Least Games
-2021-11-13,5,DET,MTL,Home,N,,4,1,Most Games
+2021-11-13,5,CHI,,,,,2,1,
+2021-11-13,5,COL,SJS,Home,N,,2,0,
+2021-11-13,5,DAL,PHI,Home,N,Tired Opposition,2,1,
+2021-11-13,5,DET,MTL,Home,N,,3,0,
 2021-11-13,5,EDM,,,,,4,2,Most Games
-2021-11-13,5,FLA,TBL,Away,N,,3,0,
-2021-11-13,5,LAK,WPG,Away,N,,3,0,
+2021-11-13,5,FLA,TBL,Away,N,,4,1,Most Games
+2021-11-13,5,LAK,WPG,Away,N,,4,1,Most Games
 2021-11-13,5,MIN,SEA,Away,N,,3,1,
 2021-11-13,5,MTL,DET,Away,N,,4,1,Most Games
 2021-11-13,5,NJD,BOS,Home,N,,4,1,Most Games
 2021-11-13,5,NSH,ARI,Home,N,Tired Opposition,3,1,
-2021-11-13,5,NYI,,,,,2,1,Least Games
-2021-11-13,5,NYR,CBJ,Away,N,Tired Opposition,2,1,Least Games
+2021-11-13,5,NYI,,,,,1,0,Least Games
+2021-11-13,5,NYR,CBJ,Away,N,Tired Opposition,3,2,
 2021-11-13,5,OTT,PIT,Home,N,,4,1,Most Games
 2021-11-13,5,PHI,DAL,Away,N,Tired,3,2,
 2021-11-13,5,PIT,OTT,Away,N,,4,1,Most Games
 2021-11-13,5,SEA,MIN,Home,N,,3,0,
 2021-11-13,5,SJS,COL,Away,N,,3,0,
 2021-11-13,5,STL,CAR,Away,N,Tired Opposition,4,1,Most Games
-2021-11-13,5,TBL,FLA,Home,N,,3,1,
-2021-11-13,5,TOR,BUF,Away,N,Both Tired,3,2,
+2021-11-13,5,TBL,FLA,Home,N,,2,0,
+2021-11-13,5,TOR,BUF,Away,N,Both Tired,4,3,Most Games
 2021-11-13,5,VAN,VGK,Away,N,,4,1,Most Games
 2021-11-13,5,VGK,VAN,Home,N,,3,0,
 2021-11-13,5,WPG,LAK,Home,N,,3,0,
-2021-11-13,5,WSH,,,,,3,2,
+2021-11-13,5,WSH,,,,,4,3,Most Games
 2021-11-14,5,ANA,VAN,Home,Y,Tired Opposition,3,1,
 2021-11-14,5,ARI,,,,,3,2,
 2021-11-14,5,BOS,MTL,Home,Y,Both Tired,4,1,Most Games
-2021-11-14,5,BUF,,,,,2,1,Least Games
+2021-11-14,5,BUF,,,,,3,2,
 2021-11-14,5,CAR,,,,,3,1,
-2021-11-14,5,CBJ,,,,,3,2,
+2021-11-14,5,CBJ,,,,,2,1,
 2021-11-14,5,CGY,OTT,Away,Y,Tired Opposition,4,2,Most Games
-2021-11-14,5,CHI,,,,,2,1,Least Games
-2021-11-14,5,COL,,,,,2,0,Least Games
-2021-11-14,5,DAL,,,,,2,1,Least Games
-2021-11-14,5,DET,,,,,4,1,Most Games
+2021-11-14,5,CHI,,,,,2,1,
+2021-11-14,5,COL,,,,,2,0,
+2021-11-14,5,DAL,,,,,2,1,
+2021-11-14,5,DET,,,,,3,0,
 2021-11-14,5,EDM,STL,Away,Y,Tired Opposition,4,2,Most Games
-2021-11-14,5,FLA,,,,,3,0,
-2021-11-14,5,LAK,,,,,3,0,
+2021-11-14,5,FLA,,,,,4,1,Most Games
+2021-11-14,5,LAK,,,,,4,1,Most Games
 2021-11-14,5,MIN,,,,,3,1,
 2021-11-14,5,MTL,BOS,Away,Y,Both Tired,4,1,Most Games
 2021-11-14,5,NJD,NYR,Away,Y,Both Tired,4,1,Most Games
 2021-11-14,5,NSH,,,,,3,1,
-2021-11-14,5,NYI,,,,,2,1,Least Games
-2021-11-14,5,NYR,NJD,Home,Y,Both Tired,2,1,Least Games
+2021-11-14,5,NYI,,,,,1,0,Least Games
+2021-11-14,5,NYR,NJD,Home,Y,Both Tired,3,2,
 2021-11-14,5,OTT,CGY,Home,Y,Tired,4,1,Most Games
 2021-11-14,5,PHI,,,,,3,2,
 2021-11-14,5,PIT,WSH,Away,Y,Tired,4,1,Most Games
 2021-11-14,5,SEA,,,,,3,0,
 2021-11-14,5,SJS,,,,,3,0,
 2021-11-14,5,STL,EDM,Home,Y,Tired,4,1,Most Games
-2021-11-14,5,TBL,,,,,3,1,
-2021-11-14,5,TOR,,,,,3,2,
+2021-11-14,5,TBL,,,,,2,0,
+2021-11-14,5,TOR,,,,,4,3,Most Games
 2021-11-14,5,VAN,ANA,Away,Y,Tired,4,1,Most Games
 2021-11-14,5,VGK,,,,,3,0,
 2021-11-14,5,WPG,,,,,3,0,
-2021-11-14,5,WSH,PIT,Home,Y,Tired Opposition,3,2,
-2021-11-15,5,ANA,,,,,3,1,
-2021-11-15,5,ARI,,,,,3,2,
-2021-11-15,5,BOS,,,,,4,1,Most Games
-2021-11-15,5,BUF,,,,,2,1,Least Games
-2021-11-15,5,CAR,,,,,3,1,
-2021-11-15,5,CBJ,DET,Home,Y,,3,2,
-2021-11-15,5,CGY,,,,,4,2,Most Games
-2021-11-15,5,CHI,,,,,2,1,Least Games
-2021-11-15,5,COL,,,,,2,0,Least Games
-2021-11-15,5,DAL,,,,,2,1,Least Games
-2021-11-15,5,DET,CBJ,Away,Y,,4,1,Most Games
-2021-11-15,5,EDM,,,,,4,2,Most Games
-2021-11-15,5,FLA,,,,,3,0,
-2021-11-15,5,LAK,,,,,3,0,
-2021-11-15,5,MIN,,,,,3,1,
-2021-11-15,5,MTL,,,,,4,1,Most Games
-2021-11-15,5,NJD,,,,,4,1,Most Games
-2021-11-15,5,NSH,,,,,3,1,
-2021-11-15,5,NYI,TBL,Away,Y,,2,1,Least Games
-2021-11-15,5,NYR,,,,,2,1,Least Games
-2021-11-15,5,OTT,,,,,4,1,Most Games
-2021-11-15,5,PHI,,,,,3,2,
-2021-11-15,5,PIT,,,,,4,1,Most Games
-2021-11-15,5,SEA,,,,,3,0,
-2021-11-15,5,SJS,,,,,3,0,
-2021-11-15,5,STL,,,,,4,1,Most Games
-2021-11-15,5,TBL,NYI,Home,Y,,3,1,
-2021-11-15,5,TOR,,,,,3,2,
-2021-11-15,5,VAN,,,,,4,1,Most Games
-2021-11-15,5,VGK,,,,,3,0,
-2021-11-15,5,WPG,,,,,3,0,
-2021-11-15,5,WSH,,,,,3,2,
-2021-11-16,6,ANA,WSH,Home,N,,3,1,
+2021-11-14,5,WSH,PIT,Home,Y,Tired Opposition,4,3,Most Games
+2021-11-15,6,ANA,,,,,2,0,Least Games
+2021-11-15,6,ARI,,,,,4,1,Most Games
+2021-11-15,6,BOS,,,,,2,1,Least Games
+2021-11-15,6,BUF,,,,,3,1,
+2021-11-15,6,CAR,,,,,3,0,
+2021-11-15,6,CBJ,DET,Home,Y,,3,1,
+2021-11-15,6,CGY,,,,,4,1,Most Games
+2021-11-15,6,CHI,,,,,3,2,
+2021-11-15,6,COL,,,,,2,2,Least Games
+2021-11-15,6,DAL,,,,,3,0,
+2021-11-15,6,DET,CBJ,Away,Y,,4,1,Most Games
+2021-11-15,6,EDM,,,,,3,0,
+2021-11-15,6,FLA,,,,,3,0,
+2021-11-15,6,LAK,,,,,3,2,
+2021-11-15,6,MIN,,,,,4,1,Most Games
+2021-11-15,6,MTL,,,,,3,0,
+2021-11-15,6,NJD,,,,,3,0,
+2021-11-15,6,NSH,,,,,3,0,
+2021-11-15,6,NYI,TBL,Away,Y,,4,2,Most Games
+2021-11-15,6,NYR,,,,,4,1,Most Games
+2021-11-15,6,OTT,,,,,3,0,
+2021-11-15,6,PHI,,,,,3,0,
+2021-11-15,6,PIT,,,,,3,0,
+2021-11-15,6,SEA,,,,,3,3,
+2021-11-15,6,SJS,,,,,3,0,
+2021-11-15,6,STL,,,,,3,0,
+2021-11-15,6,TBL,NYI,Home,Y,,4,2,Most Games
+2021-11-15,6,TOR,,,,,4,1,Most Games
+2021-11-15,6,VAN,,,,,3,3,
+2021-11-15,6,VGK,,,,,3,0,
+2021-11-15,6,WPG,,,,,3,1,
+2021-11-15,6,WSH,,,,,4,2,Most Games
+2021-11-16,6,ANA,WSH,Home,N,,2,0,Least Games
 2021-11-16,6,ARI,STL,Away,N,,4,1,Most Games
 2021-11-16,6,BOS,,,,,2,1,Least Games
-2021-11-16,6,BUF,PIT,Away,N,,4,2,Most Games
-2021-11-16,6,CAR,VGK,Away,N,,4,1,Most Games
+2021-11-16,6,BUF,PIT,Away,N,,3,1,
+2021-11-16,6,CAR,VGK,Away,N,,3,0,
 2021-11-16,6,CBJ,,,,,3,1,
 2021-11-16,6,CGY,PHI,Away,N,,4,1,Most Games
 2021-11-16,6,CHI,,,,,3,2,
-2021-11-16,6,COL,,,,,3,3,
+2021-11-16,6,COL,,,,,2,2,Least Games
 2021-11-16,6,DAL,DET,Home,N,Tired Opposition,3,0,
-2021-11-16,6,DET,DAL,Away,N,Tired,3,0,
+2021-11-16,6,DET,DAL,Away,N,Tired,4,1,Most Games
 2021-11-16,6,EDM,WPG,Away,N,,3,0,
 2021-11-16,6,FLA,NYI,Home,N,Tired Opposition,3,0,
 2021-11-16,6,LAK,,,,,3,2,
 2021-11-16,6,MIN,SJS,Home,N,,4,1,Most Games
 2021-11-16,6,MTL,NYR,Away,N,,3,0,
 2021-11-16,6,NJD,OTT,Home,N,,3,0,
-2021-11-16,6,NSH,TOR,Away,N,,4,1,Most Games
-2021-11-16,6,NYI,FLA,Away,N,Tired,3,1,
+2021-11-16,6,NSH,TOR,Away,N,,3,0,
+2021-11-16,6,NYI,FLA,Away,N,Tired,4,2,Most Games
 2021-11-16,6,NYR,MTL,Home,N,,4,1,Most Games
-2021-11-16,6,OTT,NJD,Away,N,,4,1,Most Games
+2021-11-16,6,OTT,NJD,Away,N,,3,0,
 2021-11-16,6,PHI,CGY,Home,N,,3,0,
-2021-11-16,6,PIT,BUF,Home,N,,4,1,Most Games
+2021-11-16,6,PIT,BUF,Home,N,,3,0,
 2021-11-16,6,SEA,,,,,3,3,
-2021-11-16,6,SJS,MIN,Away,N,,4,1,Most Games
-2021-11-16,6,STL,ARI,Home,N,,4,1,Most Games
-2021-11-16,6,TBL,,,,,3,1,
+2021-11-16,6,SJS,MIN,Away,N,,3,0,
+2021-11-16,6,STL,ARI,Home,N,,3,0,
+2021-11-16,6,TBL,,,,,4,2,Most Games
 2021-11-16,6,TOR,NSH,Home,N,,4,1,Most Games
 2021-11-16,6,VAN,,,,,3,3,
-2021-11-16,6,VGK,CAR,Home,N,,4,1,Most Games
-2021-11-16,6,WPG,EDM,Home,N,,4,2,Most Games
+2021-11-16,6,VGK,CAR,Home,N,,3,0,
+2021-11-16,6,WPG,EDM,Home,N,,3,1,
 2021-11-16,6,WSH,ANA,Away,N,,4,2,Most Games
-2021-11-17,6,ANA,,,,,3,1,
+2021-11-17,6,ANA,,,,,2,0,Least Games
 2021-11-17,6,ARI,,,,,4,1,Most Games
 2021-11-17,6,BOS,,,,,2,1,Least Games
-2021-11-17,6,BUF,,,,,4,2,Most Games
-2021-11-17,6,CAR,,,,,4,1,Most Games
+2021-11-17,6,BUF,,,,,3,1,
+2021-11-17,6,CAR,,,,,3,0,
 2021-11-17,6,CBJ,,,,,3,1,
 2021-11-17,6,CGY,,,,,4,1,Most Games
 2021-11-17,6,CHI,SEA,Away,Y,,3,2,
-2021-11-17,6,COL,VAN,Away,Y,,3,3,
+2021-11-17,6,COL,VAN,Away,Y,,2,2,Least Games
 2021-11-17,6,DAL,,,,,3,0,
-2021-11-17,6,DET,,,,,3,0,
+2021-11-17,6,DET,,,,,4,1,Most Games
 2021-11-17,6,EDM,,,,,3,0,
 2021-11-17,6,FLA,,,,,3,0,
 2021-11-17,6,LAK,WSH,Home,Y,Tired Opposition,3,2,
 2021-11-17,6,MIN,,,,,4,1,Most Games
 2021-11-17,6,MTL,,,,,3,0,
 2021-11-17,6,NJD,,,,,3,0,
-2021-11-17,6,NSH,,,,,4,1,Most Games
-2021-11-17,6,NYI,,,,,3,1,
+2021-11-17,6,NSH,,,,,3,0,
+2021-11-17,6,NYI,,,,,4,2,Most Games
 2021-11-17,6,NYR,,,,,4,1,Most Games
-2021-11-17,6,OTT,,,,,4,1,Most Games
+2021-11-17,6,OTT,,,,,3,0,
 2021-11-17,6,PHI,,,,,3,0,
-2021-11-17,6,PIT,,,,,4,1,Most Games
+2021-11-17,6,PIT,,,,,3,0,
 2021-11-17,6,SEA,CHI,Home,Y,,3,3,
-2021-11-17,6,SJS,,,,,4,1,Most Games
-2021-11-17,6,STL,,,,,4,1,Most Games
-2021-11-17,6,TBL,,,,,3,1,
+2021-11-17,6,SJS,,,,,3,0,
+2021-11-17,6,STL,,,,,3,0,
+2021-11-17,6,TBL,,,,,4,2,Most Games
 2021-11-17,6,TOR,,,,,4,1,Most Games
 2021-11-17,6,VAN,COL,Home,Y,,3,3,
-2021-11-17,6,VGK,,,,,4,1,Most Games
-2021-11-17,6,WPG,,,,,4,2,Most Games
+2021-11-17,6,VGK,,,,,3,0,
+2021-11-17,6,WPG,,,,,3,1,
 2021-11-17,6,WSH,LAK,Away,Y,Tired,4,2,Most Games
-2021-11-18,6,ANA,CAR,Home,N,,3,1,
+2021-11-18,6,ANA,CAR,Home,N,,2,0,Least Games
 2021-11-18,6,ARI,CBJ,Home,N,,4,1,Most Games
 2021-11-18,6,BOS,,,,,2,1,Least Games
-2021-11-18,6,BUF,CGY,Home,N,,4,2,Most Games
-2021-11-18,6,CAR,ANA,Away,N,,4,1,Most Games
+2021-11-18,6,BUF,CGY,Home,N,,3,1,
+2021-11-18,6,CAR,ANA,Away,N,,3,0,
 2021-11-18,6,CBJ,ARI,Away,N,,3,1,
 2021-11-18,6,CGY,BUF,Away,N,,4,1,Most Games
 2021-11-18,6,CHI,,,,,3,2,
-2021-11-18,6,COL,,,,,3,3,
+2021-11-18,6,COL,,,,,2,2,Least Games
 2021-11-18,6,DAL,MIN,Away,N,,3,0,
-2021-11-18,6,DET,VGK,Away,N,,3,0,
+2021-11-18,6,DET,VGK,Away,N,,4,1,Most Games
 2021-11-18,6,EDM,WPG,Home,N,,3,0,
 2021-11-18,6,FLA,NJD,Home,N,,3,0,
 2021-11-18,6,LAK,,,,,3,2,
 2021-11-18,6,MIN,DAL,Home,N,,4,1,Most Games
 2021-11-18,6,MTL,PIT,Home,N,,3,0,
 2021-11-18,6,NJD,FLA,Away,N,,3,0,
-2021-11-18,6,NSH,OTT,Away,N,,4,1,Most Games
-2021-11-18,6,NYI,,,,,3,1,
+2021-11-18,6,NSH,OTT,Away,N,,3,0,
+2021-11-18,6,NYI,,,,,4,2,Most Games
 2021-11-18,6,NYR,TOR,Away,N,,4,1,Most Games
-2021-11-18,6,OTT,NSH,Home,N,,4,1,Most Games
+2021-11-18,6,OTT,NSH,Home,N,,3,0,
 2021-11-18,6,PHI,TBL,Home,N,,3,0,
-2021-11-18,6,PIT,MTL,Away,N,,4,1,Most Games
+2021-11-18,6,PIT,MTL,Away,N,,3,0,
 2021-11-18,6,SEA,,,,,3,3,
-2021-11-18,6,SJS,STL,Away,N,,4,1,Most Games
-2021-11-18,6,STL,SJS,Home,N,,4,1,Most Games
-2021-11-18,6,TBL,PHI,Away,N,,3,1,
+2021-11-18,6,SJS,STL,Away,N,,3,0,
+2021-11-18,6,STL,SJS,Home,N,,3,0,
+2021-11-18,6,TBL,PHI,Away,N,,4,2,Most Games
 2021-11-18,6,TOR,NYR,Home,N,,4,1,Most Games
 2021-11-18,6,VAN,,,,,3,3,
-2021-11-18,6,VGK,DET,Home,N,,4,1,Most Games
-2021-11-18,6,WPG,EDM,Away,N,,4,2,Most Games
+2021-11-18,6,VGK,DET,Home,N,,3,0,
+2021-11-18,6,WPG,EDM,Away,N,,3,1,
 2021-11-18,6,WSH,,,,,4,2,Most Games
-2021-11-19,6,ANA,,,,,3,1,
+2021-11-19,6,ANA,,,,,2,0,Least Games
 2021-11-19,6,ARI,,,,,4,1,Most Games
 2021-11-19,6,BOS,,,,,2,1,Least Games
-2021-11-19,6,BUF,,,,,4,2,Most Games
-2021-11-19,6,CAR,,,,,4,1,Most Games
+2021-11-19,6,BUF,,,,,3,1,
+2021-11-19,6,CAR,,,,,3,0,
 2021-11-19,6,CBJ,,,,,3,1,
 2021-11-19,6,CGY,,,,,4,1,Most Games
 2021-11-19,6,CHI,,,,,3,2,
-2021-11-19,6,COL,SEA,Away,Y,,3,3,
+2021-11-19,6,COL,SEA,Away,Y,,2,2,Least Games
 2021-11-19,6,DAL,,,,,3,0,
-2021-11-19,6,DET,,,,,3,0,
+2021-11-19,6,DET,,,,,4,1,Most Games
 2021-11-19,6,EDM,,,,,3,0,
 2021-11-19,6,FLA,,,,,3,0,
 2021-11-19,6,LAK,,,,,3,2,
 2021-11-19,6,MIN,,,,,4,1,Most Games
 2021-11-19,6,MTL,,,,,3,0,
 2021-11-19,6,NJD,,,,,3,0,
-2021-11-19,6,NSH,,,,,4,1,Most Games
-2021-11-19,6,NYI,,,,,3,1,
+2021-11-19,6,NSH,,,,,3,0,
+2021-11-19,6,NYI,,,,,4,2,Most Games
 2021-11-19,6,NYR,,,,,4,1,Most Games
-2021-11-19,6,OTT,,,,,4,1,Most Games
+2021-11-19,6,OTT,,,,,3,0,
 2021-11-19,6,PHI,,,,,3,0,
-2021-11-19,6,PIT,,,,,4,1,Most Games
+2021-11-19,6,PIT,,,,,3,0,
 2021-11-19,6,SEA,COL,Home,Y,,3,3,
-2021-11-19,6,SJS,,,,,4,1,Most Games
-2021-11-19,6,STL,,,,,4,1,Most Games
-2021-11-19,6,TBL,,,,,3,1,
+2021-11-19,6,SJS,,,,,3,0,
+2021-11-19,6,STL,,,,,3,0,
+2021-11-19,6,TBL,,,,,4,2,Most Games
 2021-11-19,6,TOR,,,,,4,1,Most Games
 2021-11-19,6,VAN,WPG,Home,Y,Tired Opposition,3,3,
-2021-11-19,6,VGK,,,,,4,1,Most Games
-2021-11-19,6,WPG,VAN,Away,Y,Tired,4,2,Most Games
+2021-11-19,6,VGK,,,,,3,0,
+2021-11-19,6,WPG,VAN,Away,Y,Tired,3,1,
 2021-11-19,6,WSH,,,,,4,2,Most Games
-2021-11-20,6,ANA,,,,,3,1,
+2021-11-20,6,ANA,,,,,2,0,Least Games
 2021-11-20,6,ARI,DET,Home,N,,4,1,Most Games
 2021-11-20,6,BOS,PHI,Away,N,,2,1,Least Games
-2021-11-20,6,BUF,,,,,4,2,Most Games
-2021-11-20,6,CAR,LAK,Away,N,,4,1,Most Games
+2021-11-20,6,BUF,,,,,3,1,
+2021-11-20,6,CAR,LAK,Away,N,,3,0,
 2021-11-20,6,CBJ,VGK,Away,N,,3,1,
 2021-11-20,6,CGY,NYI,Away,N,,4,1,Most Games
 2021-11-20,6,CHI,EDM,Away,N,,3,2,
-2021-11-20,6,COL,,,,,3,3,
+2021-11-20,6,COL,,,,,2,2,Least Games
 2021-11-20,6,DAL,STL,Home,N,,3,0,
-2021-11-20,6,DET,ARI,Away,N,,3,0,
+2021-11-20,6,DET,ARI,Away,N,,4,1,Most Games
 2021-11-20,6,EDM,CHI,Home,N,,3,0,
 2021-11-20,6,FLA,MIN,Home,N,,3,0,
 2021-11-20,6,LAK,CAR,Home,N,,3,2,
 2021-11-20,6,MIN,FLA,Away,N,,4,1,Most Games
 2021-11-20,6,MTL,NSH,Home,N,,3,0,
 2021-11-20,6,NJD,TBL,Away,N,,3,0,
-2021-11-20,6,NSH,MTL,Away,N,,4,1,Most Games
-2021-11-20,6,NYI,CGY,Home,N,,3,1,
+2021-11-20,6,NSH,MTL,Away,N,,3,0,
+2021-11-20,6,NYI,CGY,Home,N,,4,2,Most Games
 2021-11-20,6,NYR,OTT,Away,N,,4,1,Most Games
-2021-11-20,6,OTT,NYR,Home,N,,4,1,Most Games
+2021-11-20,6,OTT,NYR,Home,N,,3,0,
 2021-11-20,6,PHI,BOS,Home,N,,3,0,
-2021-11-20,6,PIT,TOR,Away,N,,4,1,Most Games
+2021-11-20,6,PIT,TOR,Away,N,,3,0,
 2021-11-20,6,SEA,,,,,3,3,
-2021-11-20,6,SJS,WSH,Home,N,,4,1,Most Games
-2021-11-20,6,STL,DAL,Away,N,,4,1,Most Games
-2021-11-20,6,TBL,NJD,Home,N,,3,1,
+2021-11-20,6,SJS,WSH,Home,N,,3,0,
+2021-11-20,6,STL,DAL,Away,N,,3,0,
+2021-11-20,6,TBL,NJD,Home,N,,4,2,Most Games
 2021-11-20,6,TOR,PIT,Home,N,,4,1,Most Games
 2021-11-20,6,VAN,,,,,3,3,
-2021-11-20,6,VGK,CBJ,Home,N,,4,1,Most Games
-2021-11-20,6,WPG,,,,,4,2,Most Games
+2021-11-20,6,VGK,CBJ,Home,N,,3,0,
+2021-11-20,6,WPG,,,,,3,1,
 2021-11-20,6,WSH,SJS,Away,N,,4,2,Most Games
-2021-11-21,6,ANA,,,,,3,1,
+2021-11-21,6,ANA,,,,,2,0,Least Games
 2021-11-21,6,ARI,LAK,Away,Y,Both Tired,4,1,Most Games
 2021-11-21,6,BOS,CGY,Home,Y,Both Tired,2,1,Least Games
-2021-11-21,6,BUF,NYR,Away,Y,Tired Opposition,4,2,Most Games
-2021-11-21,6,CAR,,,,,4,1,Most Games
+2021-11-21,6,BUF,NYR,Away,Y,Tired Opposition,3,1,
+2021-11-21,6,CAR,,,,,3,0,
 2021-11-21,6,CBJ,,,,,3,1,
 2021-11-21,6,CGY,BOS,Away,Y,Both Tired,4,1,Most Games
 2021-11-21,6,CHI,VAN,Away,Y,Tired,3,2,
-2021-11-21,6,COL,,,,,3,3,
+2021-11-21,6,COL,,,,,2,2,Least Games
 2021-11-21,6,DAL,,,,,3,0,
-2021-11-21,6,DET,,,,,3,0,
+2021-11-21,6,DET,,,,,4,1,Most Games
 2021-11-21,6,EDM,,,,,3,0,
 2021-11-21,6,FLA,,,,,3,0,
 2021-11-21,6,LAK,ARI,Home,Y,Both Tired,3,2,
 2021-11-21,6,MIN,TBL,Away,Y,Both Tired,4,1,Most Games
 2021-11-21,6,MTL,,,,,3,0,
 2021-11-21,6,NJD,,,,,3,0,
-2021-11-21,6,NSH,,,,,4,1,Most Games
-2021-11-21,6,NYI,TOR,Home,Y,Both Tired,3,1,
+2021-11-21,6,NSH,,,,,3,0,
+2021-11-21,6,NYI,TOR,Home,Y,Both Tired,4,2,Most Games
 2021-11-21,6,NYR,BUF,Home,Y,Tired,4,1,Most Games
-2021-11-21,6,OTT,,,,,4,1,Most Games
+2021-11-21,6,OTT,,,,,3,0,
 2021-11-21,6,PHI,,,,,3,0,
-2021-11-21,6,PIT,,,,,4,1,Most Games
+2021-11-21,6,PIT,,,,,3,0,
 2021-11-21,6,SEA,WSH,Home,Y,Tired Opposition,3,3,
-2021-11-21,6,SJS,,,,,4,1,Most Games
-2021-11-21,6,STL,,,,,4,1,Most Games
-2021-11-21,6,TBL,MIN,Home,Y,Both Tired,3,1,
+2021-11-21,6,SJS,,,,,3,0,
+2021-11-21,6,STL,,,,,3,0,
+2021-11-21,6,TBL,MIN,Home,Y,Both Tired,4,2,Most Games
 2021-11-21,6,TOR,NYI,Away,Y,Both Tired,4,1,Most Games
 2021-11-21,6,VAN,CHI,Home,Y,Tired Opposition,3,3,
-2021-11-21,6,VGK,,,,,4,1,Most Games
-2021-11-21,6,WPG,,,,,4,2,Most Games
+2021-11-21,6,VGK,,,,,3,0,
+2021-11-21,6,WPG,,,,,3,1,
 2021-11-21,6,WSH,SEA,Away,Y,Tired,4,2,Most Games
-2021-11-22,6,ANA,NSH,Away,Y,,3,1,
-2021-11-22,6,ARI,,,,,4,1,Most Games
-2021-11-22,6,BOS,,,,,2,1,Least Games
-2021-11-22,6,BUF,CBJ,Home,Y,Tired,4,2,Most Games
-2021-11-22,6,CAR,SJS,Away,Y,,4,1,Most Games
-2021-11-22,6,CBJ,BUF,Away,Y,Tired Opposition,3,1,
-2021-11-22,6,CGY,,,,,4,1,Most Games
-2021-11-22,6,CHI,,,,,3,2,
-2021-11-22,6,COL,OTT,Home,Y,,3,3,
-2021-11-22,6,DAL,,,,,3,0,
-2021-11-22,6,DET,,,,,3,0,
-2021-11-22,6,EDM,,,,,3,0,
-2021-11-22,6,FLA,,,,,3,0,
-2021-11-22,6,LAK,,,,,3,2,
-2021-11-22,6,MIN,,,,,4,1,Most Games
-2021-11-22,6,MTL,,,,,3,0,
-2021-11-22,6,NJD,,,,,3,0,
-2021-11-22,6,NSH,ANA,Home,Y,,4,1,Most Games
-2021-11-22,6,NYI,,,,,3,1,
-2021-11-22,6,NYR,,,,,4,1,Most Games
-2021-11-22,6,OTT,COL,Away,Y,,4,1,Most Games
-2021-11-22,6,PHI,,,,,3,0,
-2021-11-22,6,PIT,WPG,Away,Y,,4,1,Most Games
-2021-11-22,6,SEA,,,,,3,3,
-2021-11-22,6,SJS,CAR,Home,Y,,4,1,Most Games
-2021-11-22,6,STL,VGK,Home,Y,,4,1,Most Games
-2021-11-22,6,TBL,,,,,3,1,
-2021-11-22,6,TOR,,,,,4,1,Most Games
-2021-11-22,6,VAN,,,,,3,3,
-2021-11-22,6,VGK,STL,Away,Y,,4,1,Most Games
-2021-11-22,6,WPG,PIT,Home,Y,,4,2,Most Games
-2021-11-22,6,WSH,,,,,4,2,Most Games
-2021-11-23,7,ANA,,,,,3,1,
-2021-11-23,7,ARI,,,,,3,1,
+2021-11-22,7,ANA,NSH,Away,Y,,4,2,Most Games
+2021-11-22,7,ARI,,,,,2,0,Least Games
+2021-11-22,7,BOS,,,,,3,1,
+2021-11-22,7,BUF,CBJ,Home,Y,Tired,4,1,Most Games
+2021-11-22,7,CAR,SJS,Away,Y,,4,2,Most Games
+2021-11-22,7,CBJ,BUF,Away,Y,Tired Opposition,4,1,Most Games
+2021-11-22,7,CGY,,,,,2,1,Least Games
+2021-11-22,7,CHI,,,,,3,2,
+2021-11-22,7,COL,OTT,Home,Y,,4,1,Most Games
+2021-11-22,7,DAL,,,,,3,1,
+2021-11-22,7,DET,,,,,2,0,Least Games
+2021-11-22,7,EDM,,,,,3,1,
+2021-11-22,7,FLA,,,,,3,0,
+2021-11-22,7,LAK,,,,,2,0,Least Games
+2021-11-22,7,MIN,,,,,3,1,
+2021-11-22,7,MTL,,,,,3,0,
+2021-11-22,7,NJD,,,,,3,1,
+2021-11-22,7,NSH,ANA,Home,Y,,4,1,Most Games
+2021-11-22,7,NYI,,,,,3,1,
+2021-11-22,7,NYR,,,,,3,1,
+2021-11-22,7,OTT,COL,Away,Y,,4,1,Most Games
+2021-11-22,7,PHI,,,,,4,2,Most Games
+2021-11-22,7,PIT,WPG,Away,Y,,4,1,Most Games
+2021-11-22,7,SEA,,,,,3,0,
+2021-11-22,7,SJS,CAR,Home,Y,,4,2,Most Games
+2021-11-22,7,STL,VGK,Home,Y,,4,1,Most Games
+2021-11-22,7,TBL,,,,,3,2,
+2021-11-22,7,TOR,,,,,3,1,
+2021-11-22,7,VAN,,,,,3,1,
+2021-11-22,7,VGK,STL,Away,Y,,3,1,
+2021-11-22,7,WPG,PIT,Home,Y,,4,1,Most Games
+2021-11-22,7,WSH,,,,,3,1,
+2021-11-23,7,ANA,,,,,4,2,Most Games
+2021-11-23,7,ARI,,,,,2,0,Least Games
 2021-11-23,7,BOS,,,,,3,1,
 2021-11-23,7,BUF,,,,,4,1,Most Games
-2021-11-23,7,CAR,,,,,3,1,
-2021-11-23,7,CBJ,,,,,3,0,
-2021-11-23,7,CGY,CHI,Home,Y,,3,2,
+2021-11-23,7,CAR,,,,,4,2,Most Games
+2021-11-23,7,CBJ,,,,,4,1,Most Games
+2021-11-23,7,CGY,CHI,Home,Y,,2,1,Least Games
 2021-11-23,7,CHI,CGY,Away,Y,,3,2,
-2021-11-23,7,COL,,,,,3,0,
+2021-11-23,7,COL,,,,,4,1,Most Games
 2021-11-23,7,DAL,EDM,Home,Y,,3,1,
 2021-11-23,7,DET,,,,,2,0,Least Games
 2021-11-23,7,EDM,DAL,Away,Y,,3,1,
 2021-11-23,7,FLA,,,,,3,0,
 2021-11-23,7,LAK,,,,,2,0,Least Games
 2021-11-23,7,MIN,,,,,3,1,
-2021-11-23,7,MTL,,,,,4,1,Most Games
+2021-11-23,7,MTL,,,,,3,0,
 2021-11-23,7,NJD,,,,,3,1,
-2021-11-23,7,NSH,,,,,3,0,
+2021-11-23,7,NSH,,,,,4,1,Most Games
 2021-11-23,7,NYI,,,,,3,1,
 2021-11-23,7,NYR,,,,,3,1,
-2021-11-23,7,OTT,,,,,3,0,
+2021-11-23,7,OTT,,,,,4,1,Most Games
 2021-11-23,7,PHI,TBL,Away,Y,,4,2,Most Games
 2021-11-23,7,PIT,,,,,4,1,Most Games
-2021-11-23,7,SEA,,,,,4,1,Most Games
-2021-11-23,7,SJS,,,,,3,1,
-2021-11-23,7,STL,,,,,3,0,
+2021-11-23,7,SEA,,,,,3,0,
+2021-11-23,7,SJS,,,,,4,2,Most Games
+2021-11-23,7,STL,,,,,4,1,Most Games
 2021-11-23,7,TBL,PHI,Home,Y,,3,2,
 2021-11-23,7,TOR,,,,,3,1,
-2021-11-23,7,VAN,,,,,4,2,Most Games
-2021-11-23,7,VGK,,,,,2,0,Least Games
+2021-11-23,7,VAN,,,,,3,1,
+2021-11-23,7,VGK,,,,,3,1,
 2021-11-23,7,WPG,,,,,4,1,Most Games
 2021-11-23,7,WSH,,,,,3,1,
-2021-11-24,7,ANA,COL,Away,N,,3,1,
-2021-11-24,7,ARI,EDM,Home,N,Tired Opposition,3,1,
+2021-11-24,7,ANA,COL,Away,N,,4,2,Most Games
+2021-11-24,7,ARI,EDM,Home,N,Tired Opposition,2,0,Least Games
 2021-11-24,7,BOS,BUF,Away,N,,3,1,
 2021-11-24,7,BUF,BOS,Home,N,,4,1,Most Games
-2021-11-24,7,CAR,SEA,Away,N,,3,1,
-2021-11-24,7,CBJ,WPG,Home,N,,3,0,
-2021-11-24,7,CGY,,,,,3,2,
+2021-11-24,7,CAR,SEA,Away,N,,4,2,Most Games
+2021-11-24,7,CBJ,WPG,Home,N,,4,1,Most Games
+2021-11-24,7,CGY,,,,,2,1,Least Games
 2021-11-24,7,CHI,,,,,3,2,
-2021-11-24,7,COL,ANA,Home,N,,3,0,
+2021-11-24,7,COL,ANA,Home,N,,4,1,Most Games
 2021-11-24,7,DAL,,,,,3,1,
 2021-11-24,7,DET,STL,Home,N,,2,0,Least Games
 2021-11-24,7,EDM,ARI,Away,N,Tired,3,1,
 2021-11-24,7,FLA,PHI,Home,N,Tired Opposition,3,0,
 2021-11-24,7,LAK,TOR,Home,N,,2,0,Least Games
 2021-11-24,7,MIN,NJD,Away,N,,3,1,
-2021-11-24,7,MTL,WSH,Away,N,,4,1,Most Games
+2021-11-24,7,MTL,WSH,Away,N,,3,0,
 2021-11-24,7,NJD,MIN,Home,N,,3,1,
-2021-11-24,7,NSH,VGK,Home,N,,3,0,
+2021-11-24,7,NSH,VGK,Home,N,,4,1,Most Games
 2021-11-24,7,NYI,NYR,Home,N,,3,1,
 2021-11-24,7,NYR,NYI,Away,N,,3,1,
-2021-11-24,7,OTT,SJS,Away,N,,3,0,
+2021-11-24,7,OTT,SJS,Away,N,,4,1,Most Games
 2021-11-24,7,PHI,FLA,Away,N,Tired,4,2,Most Games
 2021-11-24,7,PIT,VAN,Home,N,,4,1,Most Games
-2021-11-24,7,SEA,CAR,Home,N,,4,1,Most Games
-2021-11-24,7,SJS,OTT,Home,N,,3,1,
-2021-11-24,7,STL,DET,Away,N,,3,0,
+2021-11-24,7,SEA,CAR,Home,N,,3,0,
+2021-11-24,7,SJS,OTT,Home,N,,4,2,Most Games
+2021-11-24,7,STL,DET,Away,N,,4,1,Most Games
 2021-11-24,7,TBL,,,,,3,2,
 2021-11-24,7,TOR,LAK,Away,N,,3,1,
-2021-11-24,7,VAN,PIT,Away,N,,4,2,Most Games
-2021-11-24,7,VGK,NSH,Away,N,,2,0,Least Games
+2021-11-24,7,VAN,PIT,Away,N,,3,1,
+2021-11-24,7,VGK,NSH,Away,N,,3,1,
 2021-11-24,7,WPG,CBJ,Away,N,,4,1,Most Games
 2021-11-24,7,WSH,MTL,Home,N,,3,1,
-2021-11-25,7,ANA,,,,,3,1,
-2021-11-25,7,ARI,,,,,3,1,
+2021-11-25,7,ANA,,,,,4,2,Most Games
+2021-11-25,7,ARI,,,,,2,0,Least Games
 2021-11-25,7,BOS,,,,,3,1,
 2021-11-25,7,BUF,,,,,4,1,Most Games
-2021-11-25,7,CAR,,,,,3,1,
-2021-11-25,7,CBJ,,,,,3,0,
-2021-11-25,7,CGY,,,,,3,2,
+2021-11-25,7,CAR,,,,,4,2,Most Games
+2021-11-25,7,CBJ,,,,,4,1,Most Games
+2021-11-25,7,CGY,,,,,2,1,Least Games
 2021-11-25,7,CHI,,,,,3,2,
-2021-11-25,7,COL,,,,,3,0,
+2021-11-25,7,COL,,,,,4,1,Most Games
 2021-11-25,7,DAL,,,,,3,1,
 2021-11-25,7,DET,,,,,2,0,Least Games
 2021-11-25,7,EDM,,,,,3,1,
 2021-11-25,7,FLA,,,,,3,0,
 2021-11-25,7,LAK,,,,,2,0,Least Games
 2021-11-25,7,MIN,,,,,3,1,
-2021-11-25,7,MTL,,,,,4,1,Most Games
+2021-11-25,7,MTL,,,,,3,0,
 2021-11-25,7,NJD,,,,,3,1,
-2021-11-25,7,NSH,,,,,3,0,
+2021-11-25,7,NSH,,,,,4,1,Most Games
 2021-11-25,7,NYI,,,,,3,1,
 2021-11-25,7,NYR,,,,,3,1,
-2021-11-25,7,OTT,,,,,3,0,
+2021-11-25,7,OTT,,,,,4,1,Most Games
 2021-11-25,7,PHI,,,,,4,2,Most Games
 2021-11-25,7,PIT,,,,,4,1,Most Games
-2021-11-25,7,SEA,,,,,4,1,Most Games
-2021-11-25,7,SJS,,,,,3,1,
-2021-11-25,7,STL,,,,,3,0,
+2021-11-25,7,SEA,,,,,3,0,
+2021-11-25,7,SJS,,,,,4,2,Most Games
+2021-11-25,7,STL,,,,,4,1,Most Games
 2021-11-25,7,TBL,,,,,3,2,
 2021-11-25,7,TOR,,,,,3,1,
-2021-11-25,7,VAN,,,,,4,2,Most Games
-2021-11-25,7,VGK,,,,,2,0,Least Games
+2021-11-25,7,VAN,,,,,3,1,
+2021-11-25,7,VGK,,,,,3,1,
 2021-11-25,7,WPG,,,,,4,1,Most Games
 2021-11-25,7,WSH,,,,,3,1,
-2021-11-26,7,ANA,OTT,Home,N,,3,1,
-2021-11-26,7,ARI,,,,,3,1,
+2021-11-26,7,ANA,OTT,Home,N,,4,2,Most Games
+2021-11-26,7,ARI,,,,,2,0,Least Games
 2021-11-26,7,BOS,NYR,Home,N,,3,1,
 2021-11-26,7,BUF,MTL,Home,N,,4,1,Most Games
-2021-11-26,7,CAR,PHI,Away,N,,3,1,
-2021-11-26,7,CBJ,VAN,Home,N,,3,0,
-2021-11-26,7,CGY,,,,,3,2,
+2021-11-26,7,CAR,PHI,Away,N,,4,2,Most Games
+2021-11-26,7,CBJ,VAN,Home,N,,4,1,Most Games
+2021-11-26,7,CGY,,,,,2,1,Least Games
 2021-11-26,7,CHI,STL,Home,N,,3,2,
-2021-11-26,7,COL,DAL,Away,N,,3,0,
+2021-11-26,7,COL,DAL,Away,N,,4,1,Most Games
 2021-11-26,7,DAL,COL,Home,N,,3,1,
 2021-11-26,7,DET,,,,,2,0,Least Games
 2021-11-26,7,EDM,,,,,3,1,
 2021-11-26,7,FLA,WSH,Away,N,,3,0,
 2021-11-26,7,LAK,,,,,2,0,Least Games
 2021-11-26,7,MIN,WPG,Home,N,,3,1,
-2021-11-26,7,MTL,BUF,Away,N,,4,1,Most Games
+2021-11-26,7,MTL,BUF,Away,N,,3,0,
 2021-11-26,7,NJD,NSH,Away,N,,3,1,
-2021-11-26,7,NSH,NJD,Home,N,,3,0,
+2021-11-26,7,NSH,NJD,Home,N,,4,1,Most Games
 2021-11-26,7,NYI,PIT,Home,N,,3,1,
 2021-11-26,7,NYR,BOS,Away,N,,3,1,
-2021-11-26,7,OTT,ANA,Away,N,,3,0,
+2021-11-26,7,OTT,ANA,Away,N,,4,1,Most Games
 2021-11-26,7,PHI,CAR,Home,N,,4,2,Most Games
 2021-11-26,7,PIT,NYI,Away,N,,4,1,Most Games
-2021-11-26,7,SEA,TBL,Away,N,,4,1,Most Games
-2021-11-26,7,SJS,TOR,Home,N,,3,1,
-2021-11-26,7,STL,CHI,Away,N,,3,0,
+2021-11-26,7,SEA,TBL,Away,N,,3,0,
+2021-11-26,7,SJS,TOR,Home,N,,4,2,Most Games
+2021-11-26,7,STL,CHI,Away,N,,4,1,Most Games
 2021-11-26,7,TBL,SEA,Home,N,,3,2,
 2021-11-26,7,TOR,SJS,Away,N,,3,1,
-2021-11-26,7,VAN,CBJ,Away,N,,4,2,Most Games
-2021-11-26,7,VGK,,,,,2,0,Least Games
+2021-11-26,7,VAN,CBJ,Away,N,,3,1,
+2021-11-26,7,VGK,,,,,3,1,
 2021-11-26,7,WPG,MIN,Away,N,,4,1,Most Games
 2021-11-26,7,WSH,FLA,Home,N,,3,1,
-2021-11-27,7,ANA,,,,,3,1,
-2021-11-27,7,ARI,DAL,Home,N,Tired Opposition,3,1,
+2021-11-27,7,ANA,,,,,4,2,Most Games
+2021-11-27,7,ARI,DAL,Home,N,Tired Opposition,2,0,Least Games
 2021-11-27,7,BOS,,,,,3,1,
 2021-11-27,7,BUF,DET,Away,N,Tired,4,1,Most Games
-2021-11-27,7,CAR,,,,,3,1,
-2021-11-27,7,CBJ,STL,Away,N,Both Tired,3,0,
-2021-11-27,7,CGY,WPG,Home,N,Tired Opposition,3,2,
+2021-11-27,7,CAR,,,,,4,2,Most Games
+2021-11-27,7,CBJ,STL,Away,N,Both Tired,4,1,Most Games
+2021-11-27,7,CGY,WPG,Home,N,Tired Opposition,2,1,Least Games
 2021-11-27,7,CHI,,,,,3,2,
-2021-11-27,7,COL,NSH,Home,N,Both Tired,3,0,
+2021-11-27,7,COL,NSH,Home,N,Both Tired,4,1,Most Games
 2021-11-27,7,DAL,ARI,Away,N,Tired,3,1,
 2021-11-27,7,DET,BUF,Home,N,Tired Opposition,2,0,Least Games
 2021-11-27,7,EDM,VGK,Away,N,,3,1,
 2021-11-27,7,FLA,SEA,Home,N,Both Tired,3,0,
 2021-11-27,7,LAK,OTT,Home,N,Tired Opposition,2,0,Least Games
 2021-11-27,7,MIN,,,,,3,1,
-2021-11-27,7,MTL,PIT,Away,N,Both Tired,4,1,Most Games
+2021-11-27,7,MTL,PIT,Away,N,Both Tired,3,0,
 2021-11-27,7,NJD,,,,,3,1,
-2021-11-27,7,NSH,COL,Away,N,Both Tired,3,0,
+2021-11-27,7,NSH,COL,Away,N,Both Tired,4,1,Most Games
 2021-11-27,7,NYI,,,,,3,1,
 2021-11-27,7,NYR,,,,,3,1,
-2021-11-27,7,OTT,LAK,Away,N,Tired,3,0,
+2021-11-27,7,OTT,LAK,Away,N,Tired,4,1,Most Games
 2021-11-27,7,PHI,,,,,4,2,Most Games
 2021-11-27,7,PIT,MTL,Home,N,Both Tired,4,1,Most Games
-2021-11-27,7,SEA,FLA,Away,N,Both Tired,4,1,Most Games
-2021-11-27,7,SJS,,,,,3,1,
-2021-11-27,7,STL,CBJ,Home,N,Both Tired,3,0,
+2021-11-27,7,SEA,FLA,Away,N,Both Tired,3,0,
+2021-11-27,7,SJS,,,,,4,2,Most Games
+2021-11-27,7,STL,CBJ,Home,N,Both Tired,4,1,Most Games
 2021-11-27,7,TBL,,,,,3,2,
 2021-11-27,7,TOR,,,,,3,1,
-2021-11-27,7,VAN,,,,,4,2,Most Games
-2021-11-27,7,VGK,EDM,Home,N,,2,0,Least Games
+2021-11-27,7,VAN,,,,,3,1,
+2021-11-27,7,VGK,EDM,Home,N,,3,1,
 2021-11-27,7,WPG,CGY,Away,N,Tired,4,1,Most Games
 2021-11-27,7,WSH,,,,,3,1,
-2021-11-28,7,ANA,TOR,Home,Y,,3,1,
-2021-11-28,7,ARI,,,,,3,1,
+2021-11-28,7,ANA,TOR,Home,Y,,4,2,Most Games
+2021-11-28,7,ARI,,,,,2,0,Least Games
 2021-11-28,7,BOS,VAN,Home,Y,,3,1,
 2021-11-28,7,BUF,,,,,4,1,Most Games
-2021-11-28,7,CAR,WSH,Home,Y,,3,1,
-2021-11-28,7,CBJ,,,,,3,0,
-2021-11-28,7,CGY,,,,,3,2,
+2021-11-28,7,CAR,WSH,Home,Y,,4,2,Most Games
+2021-11-28,7,CBJ,,,,,4,1,Most Games
+2021-11-28,7,CGY,,,,,2,1,Least Games
 2021-11-28,7,CHI,SJS,Home,Y,,3,2,
-2021-11-28,7,COL,,,,,3,0,
+2021-11-28,7,COL,,,,,4,1,Most Games
 2021-11-28,7,DAL,,,,,3,1,
 2021-11-28,7,DET,,,,,2,0,Least Games
 2021-11-28,7,EDM,,,,,3,1,
 2021-11-28,7,FLA,,,,,3,0,
 2021-11-28,7,LAK,,,,,2,0,Least Games
 2021-11-28,7,MIN,TBL,Home,Y,,3,1,
-2021-11-28,7,MTL,,,,,4,1,Most Games
+2021-11-28,7,MTL,,,,,3,0,
 2021-11-28,7,NJD,PHI,Home,Y,,3,1,
-2021-11-28,7,NSH,,,,,3,0,
+2021-11-28,7,NSH,,,,,4,1,Most Games
 2021-11-28,7,NYI,NYR,Away,Y,,3,1,
 2021-11-28,7,NYR,NYI,Home,Y,,3,1,
-2021-11-28,7,OTT,,,,,3,0,
+2021-11-28,7,OTT,,,,,4,1,Most Games
 2021-11-28,7,PHI,NJD,Away,Y,,4,2,Most Games
 2021-11-28,7,PIT,,,,,4,1,Most Games
-2021-11-28,7,SEA,,,,,4,1,Most Games
-2021-11-28,7,SJS,CHI,Away,Y,,3,1,
-2021-11-28,7,STL,,,,,3,0,
+2021-11-28,7,SEA,,,,,3,0,
+2021-11-28,7,SJS,CHI,Away,Y,,4,2,Most Games
+2021-11-28,7,STL,,,,,4,1,Most Games
 2021-11-28,7,TBL,MIN,Away,Y,,3,2,
 2021-11-28,7,TOR,ANA,Away,Y,,3,1,
-2021-11-28,7,VAN,BOS,Away,Y,,4,2,Most Games
-2021-11-28,7,VGK,,,,,2,0,Least Games
+2021-11-28,7,VAN,BOS,Away,Y,,3,1,
+2021-11-28,7,VGK,,,,,3,1,
 2021-11-28,7,WPG,,,,,4,1,Most Games
 2021-11-28,7,WSH,CAR,Away,Y,,3,1,
-2021-11-29,7,ANA,,,,,3,1,
-2021-11-29,7,ARI,WPG,Away,Y,,3,1,
-2021-11-29,7,BOS,,,,,3,1,
-2021-11-29,7,BUF,SEA,Home,Y,,4,1,Most Games
-2021-11-29,7,CAR,,,,,3,1,
-2021-11-29,7,CBJ,,,,,3,0,
-2021-11-29,7,CGY,PIT,Home,Y,,3,2,
-2021-11-29,7,CHI,,,,,3,2,
-2021-11-29,7,COL,,,,,3,0,
-2021-11-29,7,DAL,,,,,3,1,
-2021-11-29,7,DET,,,,,2,0,Least Games
-2021-11-29,7,EDM,,,,,3,1,
-2021-11-29,7,FLA,,,,,3,0,
-2021-11-29,7,LAK,,,,,2,0,Least Games
-2021-11-29,7,MIN,,,,,3,1,
-2021-11-29,7,MTL,VAN,Home,Y,Tired Opposition,4,1,Most Games
-2021-11-29,7,NJD,,,,,3,1,
-2021-11-29,7,NSH,,,,,3,0,
-2021-11-29,7,NYI,,,,,3,1,
-2021-11-29,7,NYR,,,,,3,1,
-2021-11-29,7,OTT,,,,,3,0,
-2021-11-29,7,PHI,,,,,4,2,Most Games
-2021-11-29,7,PIT,CGY,Away,Y,,4,1,Most Games
-2021-11-29,7,SEA,BUF,Away,Y,,4,1,Most Games
-2021-11-29,7,SJS,,,,,3,1,
-2021-11-29,7,STL,,,,,3,0,
-2021-11-29,7,TBL,,,,,3,2,
-2021-11-29,7,TOR,,,,,3,1,
-2021-11-29,7,VAN,MTL,Away,Y,Tired,4,2,Most Games
-2021-11-29,7,VGK,,,,,2,0,Least Games
-2021-11-29,7,WPG,ARI,Home,Y,,4,1,Most Games
-2021-11-29,7,WSH,,,,,3,1,
-2021-11-30,8,ANA,LAK,Away,N,,4,3,Most Games
+2021-11-29,8,ANA,,,,,3,2,
+2021-11-29,8,ARI,WPG,Away,Y,,3,2,
+2021-11-29,8,BOS,,,,,3,0,
+2021-11-29,8,BUF,SEA,Home,Y,,3,1,
+2021-11-29,8,CAR,,,,,3,0,
+2021-11-29,8,CBJ,,,,,4,1,Most Games
+2021-11-29,8,CGY,PIT,Home,Y,,4,3,Most Games
+2021-11-29,8,CHI,,,,,3,1,
+2021-11-29,8,COL,,,,,3,1,
+2021-11-29,8,DAL,,,,,2,0,Least Games
+2021-11-29,8,DET,,,,,3,1,
+2021-11-29,8,EDM,,,,,3,3,
+2021-11-29,8,FLA,,,,,3,0,
+2021-11-29,8,LAK,,,,,3,1,
+2021-11-29,8,MIN,,,,,3,0,
+2021-11-29,8,MTL,VAN,Home,Y,Tired Opposition,3,1,
+2021-11-29,8,NJD,,,,,3,1,
+2021-11-29,8,NSH,,,,,3,0,
+2021-11-29,8,NYI,,,,,4,1,Most Games
+2021-11-29,8,NYR,,,,,3,2,
+2021-11-29,8,OTT,,,,,3,1,
+2021-11-29,8,PHI,,,,,3,2,
+2021-11-29,8,PIT,CGY,Away,Y,,3,2,
+2021-11-29,8,SEA,BUF,Away,Y,,3,3,
+2021-11-29,8,SJS,,,,,4,2,Most Games
+2021-11-29,8,STL,,,,,3,0,
+2021-11-29,8,TBL,,,,,4,1,Most Games
+2021-11-29,8,TOR,,,,,3,2,
+2021-11-29,8,VAN,MTL,Away,Y,Tired,3,2,
+2021-11-29,8,VGK,,,,,3,3,
+2021-11-29,8,WPG,ARI,Home,Y,,3,3,
+2021-11-29,8,WSH,,,,,3,0,
+2021-11-30,8,ANA,LAK,Away,N,,3,2,
 2021-11-30,8,ARI,MIN,Away,N,Tired,3,2,
 2021-11-30,8,BOS,DET,Home,N,,3,0,
-2021-11-30,8,BUF,,,,,2,0,Least Games
+2021-11-30,8,BUF,,,,,3,1,
 2021-11-30,8,CAR,DAL,Away,N,,3,0,
 2021-11-30,8,CBJ,NSH,Away,N,,4,1,Most Games
-2021-11-30,8,CGY,,,,,3,2,
+2021-11-30,8,CGY,,,,,4,3,Most Games
 2021-11-30,8,CHI,,,,,3,1,
-2021-11-30,8,COL,,,,,4,2,Most Games
-2021-11-30,8,DAL,CAR,Home,N,,3,1,
+2021-11-30,8,COL,,,,,3,1,
+2021-11-30,8,DAL,CAR,Home,N,,2,0,Least Games
 2021-11-30,8,DET,BOS,Away,N,,3,1,
 2021-11-30,8,EDM,,,,,3,3,
 2021-11-30,8,FLA,WSH,Home,N,,3,0,
-2021-11-30,8,LAK,ANA,Home,N,,4,2,Most Games
+2021-11-30,8,LAK,ANA,Home,N,,3,1,
 2021-11-30,8,MIN,ARI,Home,N,Tired Opposition,3,0,
-2021-11-30,8,MTL,,,,,2,0,Least Games
+2021-11-30,8,MTL,,,,,3,1,
 2021-11-30,8,NJD,SJS,Home,N,,3,1,
 2021-11-30,8,NSH,CBJ,Home,N,,3,0,
 2021-11-30,8,NYI,PHI,Away,N,,4,1,Most Games
 2021-11-30,8,NYR,,,,,3,2,
 2021-11-30,8,OTT,,,,,3,1,
-2021-11-30,8,PHI,NYI,Home,N,,4,3,Most Games
+2021-11-30,8,PHI,NYI,Home,N,,3,2,
 2021-11-30,8,PIT,,,,,3,2,
 2021-11-30,8,SEA,,,,,3,3,
 2021-11-30,8,SJS,NJD,Away,N,,4,2,Most Games
@@ -1597,30 +1597,30 @@
 2021-11-30,8,TOR,,,,,3,2,
 2021-11-30,8,VAN,,,,,3,2,
 2021-11-30,8,VGK,,,,,3,3,
-2021-11-30,8,WPG,,,,,2,2,Least Games
-2021-11-30,8,WSH,FLA,Away,N,,4,1,Most Games
-2021-12-01,8,ANA,VGK,Home,Y,,4,3,Most Games
+2021-11-30,8,WPG,,,,,3,3,
+2021-11-30,8,WSH,FLA,Away,N,,3,0,
+2021-12-01,8,ANA,VGK,Home,Y,,3,2,
 2021-12-01,8,ARI,,,,,3,2,
 2021-12-01,8,BOS,,,,,3,0,
-2021-12-01,8,BUF,,,,,2,0,Least Games
+2021-12-01,8,BUF,,,,,3,1,
 2021-12-01,8,CAR,,,,,3,0,
 2021-12-01,8,CBJ,,,,,4,1,Most Games
-2021-12-01,8,CGY,,,,,3,2,
+2021-12-01,8,CGY,,,,,4,3,Most Games
 2021-12-01,8,CHI,,,,,3,1,
-2021-12-01,8,COL,TOR,Away,Y,,4,2,Most Games
-2021-12-01,8,DAL,,,,,3,1,
+2021-12-01,8,COL,TOR,Away,Y,,3,1,
+2021-12-01,8,DAL,,,,,2,0,Least Games
 2021-12-01,8,DET,SEA,Home,Y,,3,1,
 2021-12-01,8,EDM,PIT,Home,Y,,3,3,
 2021-12-01,8,FLA,,,,,3,0,
-2021-12-01,8,LAK,,,,,4,2,Most Games
+2021-12-01,8,LAK,,,,,3,1,
 2021-12-01,8,MIN,,,,,3,0,
-2021-12-01,8,MTL,,,,,2,0,Least Games
+2021-12-01,8,MTL,,,,,3,1,
 2021-12-01,8,NJD,,,,,3,1,
 2021-12-01,8,NSH,,,,,3,0,
 2021-12-01,8,NYI,,,,,4,1,Most Games
 2021-12-01,8,NYR,PHI,Home,Y,,3,2,
 2021-12-01,8,OTT,VAN,Home,Y,,3,1,
-2021-12-01,8,PHI,NYR,Away,Y,,4,3,Most Games
+2021-12-01,8,PHI,NYR,Away,Y,,3,2,
 2021-12-01,8,PIT,EDM,Away,Y,,3,2,
 2021-12-01,8,SEA,DET,Away,Y,,3,3,
 2021-12-01,8,SJS,,,,,4,2,Most Games
@@ -1629,30 +1629,30 @@
 2021-12-01,8,TOR,COL,Home,Y,,3,2,
 2021-12-01,8,VAN,OTT,Away,Y,,3,2,
 2021-12-01,8,VGK,ANA,Away,Y,,3,3,
-2021-12-01,8,WPG,,,,,2,2,Least Games
-2021-12-01,8,WSH,,,,,4,1,Most Games
-2021-12-02,8,ANA,,,,,4,3,Most Games
+2021-12-01,8,WPG,,,,,3,3,
+2021-12-01,8,WSH,,,,,3,0,
+2021-12-02,8,ANA,,,,,3,2,
 2021-12-02,8,ARI,,,,,3,2,
 2021-12-02,8,BOS,NSH,Away,N,,3,0,
-2021-12-02,8,BUF,FLA,Away,N,,2,0,Least Games
+2021-12-02,8,BUF,FLA,Away,N,,3,1,
 2021-12-02,8,CAR,OTT,Home,N,Tired Opposition,3,0,
 2021-12-02,8,CBJ,DAL,Away,N,,4,1,Most Games
-2021-12-02,8,CGY,LAK,Away,N,,3,2,
+2021-12-02,8,CGY,LAK,Away,N,,4,3,Most Games
 2021-12-02,8,CHI,WSH,Away,N,,3,1,
-2021-12-02,8,COL,MTL,Away,N,Tired,4,2,Most Games
-2021-12-02,8,DAL,CBJ,Home,N,,3,1,
+2021-12-02,8,COL,MTL,Away,N,Tired,3,1,
+2021-12-02,8,DAL,CBJ,Home,N,,2,0,Least Games
 2021-12-02,8,DET,,,,,3,1,
 2021-12-02,8,EDM,,,,,3,3,
 2021-12-02,8,FLA,BUF,Home,N,,3,0,
-2021-12-02,8,LAK,CGY,Home,N,,4,2,Most Games
+2021-12-02,8,LAK,CGY,Home,N,,3,1,
 2021-12-02,8,MIN,NJD,Home,N,,3,0,
-2021-12-02,8,MTL,COL,Home,N,Tired Opposition,2,0,Least Games
+2021-12-02,8,MTL,COL,Home,N,Tired Opposition,3,1,
 2021-12-02,8,NJD,MIN,Away,N,,3,1,
 2021-12-02,8,NSH,BOS,Home,N,,3,0,
 2021-12-02,8,NYI,SJS,Home,N,,4,1,Most Games
 2021-12-02,8,NYR,,,,,3,2,
 2021-12-02,8,OTT,CAR,Away,N,Tired,3,1,
-2021-12-02,8,PHI,,,,,4,3,Most Games
+2021-12-02,8,PHI,,,,,3,2,
 2021-12-02,8,PIT,,,,,3,2,
 2021-12-02,8,SEA,,,,,3,3,
 2021-12-02,8,SJS,NYI,Away,N,,4,2,Most Games
@@ -1661,30 +1661,30 @@
 2021-12-02,8,TOR,,,,,3,2,
 2021-12-02,8,VAN,,,,,3,2,
 2021-12-02,8,VGK,,,,,3,3,
-2021-12-02,8,WPG,,,,,2,2,Least Games
-2021-12-02,8,WSH,CHI,Home,N,,4,1,Most Games
-2021-12-03,8,ANA,CGY,Home,Y,Tired Opposition,4,3,Most Games
+2021-12-02,8,WPG,,,,,3,3,
+2021-12-02,8,WSH,CHI,Home,N,,3,0,
+2021-12-03,8,ANA,CGY,Home,Y,Tired Opposition,3,2,
 2021-12-03,8,ARI,VGK,Home,Y,,3,2,
 2021-12-03,8,BOS,,,,,3,0,
-2021-12-03,8,BUF,,,,,2,0,Least Games
+2021-12-03,8,BUF,,,,,3,1,
 2021-12-03,8,CAR,,,,,3,0,
 2021-12-03,8,CBJ,,,,,4,1,Most Games
-2021-12-03,8,CGY,ANA,Away,Y,Tired,3,2,
+2021-12-03,8,CGY,ANA,Away,Y,Tired,4,3,Most Games
 2021-12-03,8,CHI,,,,,3,1,
-2021-12-03,8,COL,,,,,4,2,Most Games
-2021-12-03,8,DAL,,,,,3,1,
+2021-12-03,8,COL,,,,,3,1,
+2021-12-03,8,DAL,,,,,2,0,Least Games
 2021-12-03,8,DET,,,,,3,1,
 2021-12-03,8,EDM,SEA,Away,Y,,3,3,
 2021-12-03,8,FLA,,,,,3,0,
-2021-12-03,8,LAK,,,,,4,2,Most Games
+2021-12-03,8,LAK,,,,,3,1,
 2021-12-03,8,MIN,,,,,3,0,
-2021-12-03,8,MTL,,,,,2,0,Least Games
+2021-12-03,8,MTL,,,,,3,1,
 2021-12-03,8,NJD,WPG,Away,Y,Tired,3,1,
 2021-12-03,8,NSH,,,,,3,0,
 2021-12-03,8,NYI,,,,,4,1,Most Games
 2021-12-03,8,NYR,SJS,Home,Y,Tired Opposition,3,2,
 2021-12-03,8,OTT,,,,,3,1,
-2021-12-03,8,PHI,,,,,4,3,Most Games
+2021-12-03,8,PHI,,,,,3,2,
 2021-12-03,8,PIT,,,,,3,2,
 2021-12-03,8,SEA,EDM,Home,Y,,3,3,
 2021-12-03,8,SJS,NYR,Away,Y,Tired,4,2,Most Games
@@ -1693,30 +1693,30 @@
 2021-12-03,8,TOR,,,,,3,2,
 2021-12-03,8,VAN,,,,,3,2,
 2021-12-03,8,VGK,ARI,Away,Y,,3,3,
-2021-12-03,8,WPG,NJD,Home,Y,Tired Opposition,2,2,Least Games
-2021-12-03,8,WSH,,,,,4,1,Most Games
-2021-12-04,8,ANA,,,,,4,3,Most Games
+2021-12-03,8,WPG,NJD,Home,Y,Tired Opposition,3,3,
+2021-12-03,8,WSH,,,,,3,0,
+2021-12-04,8,ANA,,,,,3,2,
 2021-12-04,8,ARI,,,,,3,2,
 2021-12-04,8,BOS,TBL,Home,N,,3,0,
-2021-12-04,8,BUF,CAR,Away,N,,2,0,Least Games
+2021-12-04,8,BUF,CAR,Away,N,,3,1,
 2021-12-04,8,CAR,BUF,Home,N,,3,0,
 2021-12-04,8,CBJ,WSH,Away,N,,4,1,Most Games
-2021-12-04,8,CGY,,,,,3,2,
+2021-12-04,8,CGY,,,,,4,3,Most Games
 2021-12-04,8,CHI,NYR,Away,N,Tired Opposition,3,1,
-2021-12-04,8,COL,OTT,Away,N,,4,2,Most Games
-2021-12-04,8,DAL,,,,,3,1,
+2021-12-04,8,COL,OTT,Away,N,,3,1,
+2021-12-04,8,DAL,,,,,2,0,Least Games
 2021-12-04,8,DET,NYI,Home,N,,3,1,
 2021-12-04,8,EDM,,,,,3,3,
 2021-12-04,8,FLA,STL,Home,N,,3,0,
-2021-12-04,8,LAK,,,,,4,2,Most Games
+2021-12-04,8,LAK,,,,,3,1,
 2021-12-04,8,MIN,TOR,Home,N,,3,0,
-2021-12-04,8,MTL,NSH,Away,N,,2,0,Least Games
+2021-12-04,8,MTL,NSH,Away,N,,3,1,
 2021-12-04,8,NJD,,,,,3,1,
 2021-12-04,8,NSH,MTL,Home,N,,3,0,
 2021-12-04,8,NYI,DET,Away,N,,4,1,Most Games
 2021-12-04,8,NYR,CHI,Home,N,Tired,3,2,
 2021-12-04,8,OTT,COL,Home,N,,3,1,
-2021-12-04,8,PHI,,,,,4,3,Most Games
+2021-12-04,8,PHI,,,,,3,2,
 2021-12-04,8,PIT,VAN,Away,N,,3,2,
 2021-12-04,8,SEA,,,,,3,3,
 2021-12-04,8,SJS,,,,,4,2,Most Games
@@ -1725,30 +1725,30 @@
 2021-12-04,8,TOR,MIN,Away,N,,3,2,
 2021-12-04,8,VAN,PIT,Home,N,,3,2,
 2021-12-04,8,VGK,,,,,3,3,
-2021-12-04,8,WPG,,,,,2,2,Least Games
-2021-12-04,8,WSH,CBJ,Home,N,,4,1,Most Games
-2021-12-05,8,ANA,,,,,4,3,Most Games
+2021-12-04,8,WPG,,,,,3,3,
+2021-12-04,8,WSH,CBJ,Home,N,,3,0,
+2021-12-05,8,ANA,,,,,3,2,
 2021-12-05,8,ARI,,,,,3,2,
 2021-12-05,8,BOS,,,,,3,0,
-2021-12-05,8,BUF,,,,,2,0,Least Games
+2021-12-05,8,BUF,,,,,3,1,
 2021-12-05,8,CAR,,,,,3,0,
 2021-12-05,8,CBJ,SJS,Home,Y,Tired,4,1,Most Games
-2021-12-05,8,CGY,VGK,Away,Y,,3,2,
+2021-12-05,8,CGY,VGK,Away,Y,,4,3,Most Games
 2021-12-05,8,CHI,NYI,Away,Y,Both Tired,3,1,
-2021-12-05,8,COL,,,,,4,2,Most Games
-2021-12-05,8,DAL,,,,,3,1,
+2021-12-05,8,COL,,,,,3,1,
+2021-12-05,8,DAL,,,,,2,0,Least Games
 2021-12-05,8,DET,,,,,3,1,
 2021-12-05,8,EDM,LAK,Home,Y,,3,3,
 2021-12-05,8,FLA,,,,,3,0,
-2021-12-05,8,LAK,EDM,Away,Y,,4,2,Most Games
+2021-12-05,8,LAK,EDM,Away,Y,,3,1,
 2021-12-05,8,MIN,,,,,3,0,
-2021-12-05,8,MTL,,,,,2,0,Least Games
+2021-12-05,8,MTL,,,,,3,1,
 2021-12-05,8,NJD,,,,,3,1,
 2021-12-05,8,NSH,,,,,3,0,
 2021-12-05,8,NYI,CHI,Home,Y,Both Tired,4,1,Most Games
 2021-12-05,8,NYR,,,,,3,2,
 2021-12-05,8,OTT,,,,,3,1,
-2021-12-05,8,PHI,TBL,Home,Y,Tired Opposition,4,3,Most Games
+2021-12-05,8,PHI,TBL,Home,Y,Tired Opposition,3,2,
 2021-12-05,8,PIT,,,,,3,2,
 2021-12-05,8,SEA,,,,,3,3,
 2021-12-05,8,SJS,CBJ,Away,Y,Tired Opposition,4,2,Most Games
@@ -1757,283 +1757,283 @@
 2021-12-05,8,TOR,WPG,Away,Y,Tired,3,2,
 2021-12-05,8,VAN,,,,,3,2,
 2021-12-05,8,VGK,CGY,Home,Y,,3,3,
-2021-12-05,8,WPG,TOR,Home,Y,Tired Opposition,2,2,Least Games
-2021-12-05,8,WSH,,,,,4,1,Most Games
-2021-12-06,8,ANA,WSH,Away,Y,,4,3,Most Games
-2021-12-06,8,ARI,DAL,Away,Y,,3,2,
-2021-12-06,8,BOS,,,,,3,0,
-2021-12-06,8,BUF,,,,,2,0,Least Games
-2021-12-06,8,CAR,,,,,3,0,
-2021-12-06,8,CBJ,,,,,4,1,Most Games
-2021-12-06,8,CGY,,,,,3,2,
-2021-12-06,8,CHI,,,,,3,1,
-2021-12-06,8,COL,PHI,Away,Y,Tired Opposition,4,2,Most Games
-2021-12-06,8,DAL,ARI,Home,Y,,3,1,
-2021-12-06,8,DET,,,,,3,1,
-2021-12-06,8,EDM,,,,,3,3,
-2021-12-06,8,FLA,,,,,3,0,
-2021-12-06,8,LAK,VAN,Away,Y,Tired,4,2,Most Games
-2021-12-06,8,MIN,,,,,3,0,
-2021-12-06,8,MTL,,,,,2,0,Least Games
-2021-12-06,8,NJD,,,,,3,1,
-2021-12-06,8,NSH,,,,,3,0,
-2021-12-06,8,NYI,,,,,4,1,Most Games
-2021-12-06,8,NYR,,,,,3,2,
-2021-12-06,8,OTT,,,,,3,1,
-2021-12-06,8,PHI,COL,Home,Y,Tired,4,3,Most Games
-2021-12-06,8,PIT,SEA,Away,Y,,3,2,
-2021-12-06,8,SEA,PIT,Home,Y,,3,3,
-2021-12-06,8,SJS,,,,,4,2,Most Games
-2021-12-06,8,STL,,,,,3,0,
-2021-12-06,8,TBL,,,,,4,1,Most Games
-2021-12-06,8,TOR,,,,,3,2,
-2021-12-06,8,VAN,LAK,Home,Y,Tired Opposition,3,2,
-2021-12-06,8,VGK,,,,,3,3,
-2021-12-06,8,WPG,,,,,2,2,Least Games
-2021-12-06,8,WSH,ANA,Home,Y,,4,1,Most Games
-2021-12-07,9,ANA,BUF,Away,N,Tired,4,1,Most Games
-2021-12-07,9,ARI,,,,,2,1,Least Games
+2021-12-05,8,WPG,TOR,Home,Y,Tired Opposition,3,3,
+2021-12-05,8,WSH,,,,,3,0,
+2021-12-06,9,ANA,WSH,Away,Y,,5,2,Most Games
+2021-12-06,9,ARI,DAL,Away,Y,,3,2,
+2021-12-06,9,BOS,,,,,3,1,
+2021-12-06,9,BUF,,,,,3,1,
+2021-12-06,9,CAR,,,,,4,1,
+2021-12-06,9,CBJ,,,,,3,0,
+2021-12-06,9,CGY,,,,,3,0,
+2021-12-06,9,CHI,,,,,3,0,
+2021-12-06,9,COL,PHI,Away,Y,Tired Opposition,4,4,
+2021-12-06,9,DAL,ARI,Home,Y,,4,2,
+2021-12-06,9,DET,,,,,3,1,
+2021-12-06,9,EDM,,,,,3,0,
+2021-12-06,9,FLA,,,,,3,2,
+2021-12-06,9,LAK,VAN,Away,Y,Tired,3,1,
+2021-12-06,9,MIN,,,,,4,1,
+2021-12-06,9,MTL,,,,,3,0,
+2021-12-06,9,NJD,,,,,3,2,
+2021-12-06,9,NSH,,,,,4,2,
+2021-12-06,9,NYI,,,,,3,0,
+2021-12-06,9,NYR,,,,,4,3,
+2021-12-06,9,OTT,,,,,2,0,Least Games
+2021-12-06,9,PHI,COL,Home,Y,Tired,4,3,
+2021-12-06,9,PIT,SEA,Away,Y,,3,2,
+2021-12-06,9,SEA,PIT,Home,Y,,3,1,
+2021-12-06,9,SJS,,,,,3,0,
+2021-12-06,9,STL,,,,,4,1,
+2021-12-06,9,TBL,,,,,3,0,
+2021-12-06,9,TOR,,,,,3,0,
+2021-12-06,9,VAN,LAK,Home,Y,Tired Opposition,4,4,
+2021-12-06,9,VGK,,,,,3,3,
+2021-12-06,9,WPG,,,,,3,1,
+2021-12-06,9,WSH,ANA,Home,Y,,3,2,
+2021-12-07,9,ANA,BUF,Away,N,Tired,5,2,Most Games
+2021-12-07,9,ARI,,,,,3,2,
 2021-12-07,9,BOS,,,,,3,1,
 2021-12-07,9,BUF,ANA,Home,N,Tired Opposition,3,1,
-2021-12-07,9,CAR,WPG,Away,N,,4,1,Most Games
+2021-12-07,9,CAR,WPG,Away,N,,4,1,
 2021-12-07,9,CBJ,TOR,Away,N,,3,0,
-2021-12-07,9,CGY,SJS,Away,N,,4,1,Most Games
-2021-12-07,9,CHI,NYR,Home,N,,4,1,Most Games
-2021-12-07,9,COL,,,,,3,3,
-2021-12-07,9,DAL,,,,,3,1,
+2021-12-07,9,CGY,SJS,Away,N,,3,0,
+2021-12-07,9,CHI,NYR,Home,N,,3,0,
+2021-12-07,9,COL,,,,,4,4,
+2021-12-07,9,DAL,,,,,4,2,
 2021-12-07,9,DET,NSH,Home,N,,3,1,
 2021-12-07,9,EDM,MIN,Home,N,,3,0,
 2021-12-07,9,FLA,STL,Away,N,,3,2,
-2021-12-07,9,LAK,,,,,2,0,Least Games
-2021-12-07,9,MIN,EDM,Away,N,,4,1,Most Games
+2021-12-07,9,LAK,,,,,3,1,
+2021-12-07,9,MIN,EDM,Away,N,,4,1,
 2021-12-07,9,MTL,TBL,Home,N,,3,0,
 2021-12-07,9,NJD,,,,,3,2,
-2021-12-07,9,NSH,DET,Away,N,,4,2,Most Games
+2021-12-07,9,NSH,DET,Away,N,,4,2,
 2021-12-07,9,NYI,OTT,Away,N,,3,0,
-2021-12-07,9,NYR,CHI,Away,N,,4,3,Most Games
+2021-12-07,9,NYR,CHI,Away,N,,4,3,
 2021-12-07,9,OTT,NYI,Home,N,,2,0,Least Games
-2021-12-07,9,PHI,,,,,3,2,
-2021-12-07,9,PIT,,,,,2,1,Least Games
-2021-12-07,9,SEA,,,,,2,0,Least Games
+2021-12-07,9,PHI,,,,,4,3,
+2021-12-07,9,PIT,,,,,3,2,
+2021-12-07,9,SEA,,,,,3,1,
 2021-12-07,9,SJS,CGY,Home,N,,3,0,
-2021-12-07,9,STL,FLA,Home,N,,4,1,Most Games
+2021-12-07,9,STL,FLA,Home,N,,4,1,
 2021-12-07,9,TBL,MTL,Away,N,,3,0,
 2021-12-07,9,TOR,CBJ,Home,N,,3,0,
-2021-12-07,9,VAN,,,,,3,3,
+2021-12-07,9,VAN,,,,,4,4,
 2021-12-07,9,VGK,,,,,3,3,
 2021-12-07,9,WPG,CAR,Home,N,,3,1,
-2021-12-07,9,WSH,,,,,2,1,Least Games
-2021-12-08,9,ANA,,,,,4,1,Most Games
-2021-12-08,9,ARI,,,,,2,1,Least Games
+2021-12-07,9,WSH,,,,,3,2,
+2021-12-08,9,ANA,,,,,5,2,Most Games
+2021-12-08,9,ARI,,,,,3,2,
 2021-12-08,9,BOS,VAN,Away,Y,,3,1,
 2021-12-08,9,BUF,,,,,3,1,
-2021-12-08,9,CAR,,,,,4,1,Most Games
+2021-12-08,9,CAR,,,,,4,1,
 2021-12-08,9,CBJ,,,,,3,0,
-2021-12-08,9,CGY,,,,,4,1,Most Games
-2021-12-08,9,CHI,,,,,4,1,Most Games
-2021-12-08,9,COL,NYR,Away,Y,Tired Opposition,3,3,
-2021-12-08,9,DAL,VGK,Away,Y,,3,1,
+2021-12-08,9,CGY,,,,,3,0,
+2021-12-08,9,CHI,,,,,3,0,
+2021-12-08,9,COL,NYR,Away,Y,Tired Opposition,4,4,
+2021-12-08,9,DAL,VGK,Away,Y,,4,2,
 2021-12-08,9,DET,,,,,3,1,
 2021-12-08,9,EDM,,,,,3,0,
 2021-12-08,9,FLA,,,,,3,2,
-2021-12-08,9,LAK,,,,,2,0,Least Games
-2021-12-08,9,MIN,,,,,4,1,Most Games
+2021-12-08,9,LAK,,,,,3,1,
+2021-12-08,9,MIN,,,,,4,1,
 2021-12-08,9,MTL,,,,,3,0,
 2021-12-08,9,NJD,PHI,Home,Y,,3,2,
-2021-12-08,9,NSH,,,,,4,2,Most Games
+2021-12-08,9,NSH,,,,,4,2,
 2021-12-08,9,NYI,,,,,3,0,
-2021-12-08,9,NYR,COL,Home,Y,Tired,4,3,Most Games
+2021-12-08,9,NYR,COL,Home,Y,Tired,4,3,
 2021-12-08,9,OTT,,,,,2,0,Least Games
-2021-12-08,9,PHI,NJD,Away,Y,,3,2,
-2021-12-08,9,PIT,,,,,2,1,Least Games
-2021-12-08,9,SEA,,,,,2,0,Least Games
+2021-12-08,9,PHI,NJD,Away,Y,,4,3,
+2021-12-08,9,PIT,,,,,3,2,
+2021-12-08,9,SEA,,,,,3,1,
 2021-12-08,9,SJS,,,,,3,0,
-2021-12-08,9,STL,,,,,4,1,Most Games
+2021-12-08,9,STL,,,,,4,1,
 2021-12-08,9,TBL,,,,,3,0,
 2021-12-08,9,TOR,,,,,3,0,
-2021-12-08,9,VAN,BOS,Home,Y,,3,3,
+2021-12-08,9,VAN,BOS,Home,Y,,4,4,
 2021-12-08,9,VGK,DAL,Home,Y,,3,3,
 2021-12-08,9,WPG,,,,,3,1,
-2021-12-08,9,WSH,,,,,2,1,Least Games
-2021-12-09,9,ANA,CBJ,Away,N,,4,1,Most Games
-2021-12-09,9,ARI,,,,,2,1,Least Games
+2021-12-08,9,WSH,,,,,3,2,
+2021-12-09,9,ANA,CBJ,Away,N,,5,2,Most Games
+2021-12-09,9,ARI,,,,,3,2,
 2021-12-09,9,BOS,EDM,Away,N,Tired,3,1,
 2021-12-09,9,BUF,,,,,3,1,
-2021-12-09,9,CAR,CGY,Away,N,,4,1,Most Games
+2021-12-09,9,CAR,CGY,Away,N,,4,1,
 2021-12-09,9,CBJ,ANA,Home,N,,3,0,
-2021-12-09,9,CGY,CAR,Home,N,,4,1,Most Games
-2021-12-09,9,CHI,MTL,Away,N,,4,1,Most Games
-2021-12-09,9,COL,,,,,3,3,
-2021-12-09,9,DAL,LAK,Away,N,Tired,3,1,
+2021-12-09,9,CGY,CAR,Home,N,,3,0,
+2021-12-09,9,CHI,MTL,Away,N,,3,0,
+2021-12-09,9,COL,,,,,4,4,
+2021-12-09,9,DAL,LAK,Away,N,Tired,4,2,
 2021-12-09,9,DET,STL,Away,N,,3,1,
 2021-12-09,9,EDM,BOS,Home,N,Tired Opposition,3,0,
 2021-12-09,9,FLA,,,,,3,2,
-2021-12-09,9,LAK,DAL,Home,N,Tired Opposition,2,0,Least Games
-2021-12-09,9,MIN,SJS,Away,N,,4,1,Most Games
+2021-12-09,9,LAK,DAL,Home,N,Tired Opposition,3,1,
+2021-12-09,9,MIN,SJS,Away,N,,4,1,
 2021-12-09,9,MTL,CHI,Home,N,,3,0,
 2021-12-09,9,NJD,,,,,3,2,
-2021-12-09,9,NSH,NYI,Away,N,,4,2,Most Games
+2021-12-09,9,NSH,NYI,Away,N,,4,2,
 2021-12-09,9,NYI,NSH,Home,N,,3,0,
-2021-12-09,9,NYR,,,,,4,3,Most Games
+2021-12-09,9,NYR,,,,,4,3,
 2021-12-09,9,OTT,,,,,2,0,Least Games
-2021-12-09,9,PHI,,,,,3,2,
-2021-12-09,9,PIT,,,,,2,1,Least Games
-2021-12-09,9,SEA,WPG,Home,N,,2,0,Least Games
+2021-12-09,9,PHI,,,,,4,3,
+2021-12-09,9,PIT,,,,,3,2,
+2021-12-09,9,SEA,WPG,Home,N,,3,1,
 2021-12-09,9,SJS,MIN,Home,N,,3,0,
-2021-12-09,9,STL,DET,Home,N,,4,1,Most Games
+2021-12-09,9,STL,DET,Home,N,,4,1,
 2021-12-09,9,TBL,TOR,Away,N,,3,0,
 2021-12-09,9,TOR,TBL,Home,N,,3,0,
-2021-12-09,9,VAN,,,,,3,3,
+2021-12-09,9,VAN,,,,,4,4,
 2021-12-09,9,VGK,,,,,3,3,
 2021-12-09,9,WPG,SEA,Away,N,,3,1,
-2021-12-09,9,WSH,,,,,2,1,Least Games
-2021-12-10,9,ANA,,,,,4,1,Most Games
-2021-12-10,9,ARI,FLA,Home,Y,,2,1,Least Games
+2021-12-09,9,WSH,,,,,3,2,
+2021-12-10,9,ANA,,,,,5,2,Most Games
+2021-12-10,9,ARI,FLA,Home,Y,,3,2,
 2021-12-10,9,BOS,,,,,3,1,
 2021-12-10,9,BUF,NYR,Home,Y,,3,1,
-2021-12-10,9,CAR,,,,,4,1,Most Games
+2021-12-10,9,CAR,,,,,4,1,
 2021-12-10,9,CBJ,,,,,3,0,
-2021-12-10,9,CGY,,,,,4,1,Most Games
-2021-12-10,9,CHI,,,,,4,1,Most Games
-2021-12-10,9,COL,DET,Home,Y,Tired Opposition,3,3,
-2021-12-10,9,DAL,,,,,3,1,
+2021-12-10,9,CGY,,,,,3,0,
+2021-12-10,9,CHI,,,,,3,0,
+2021-12-10,9,COL,DET,Home,Y,Tired Opposition,4,4,
+2021-12-10,9,DAL,,,,,4,2,
 2021-12-10,9,DET,COL,Away,Y,Tired,3,1,
 2021-12-10,9,EDM,,,,,3,0,
 2021-12-10,9,FLA,ARI,Away,Y,,3,2,
-2021-12-10,9,LAK,,,,,2,0,Least Games
-2021-12-10,9,MIN,,,,,4,1,Most Games
+2021-12-10,9,LAK,,,,,3,1,
+2021-12-10,9,MIN,,,,,4,1,
 2021-12-10,9,MTL,,,,,3,0,
 2021-12-10,9,NJD,NSH,Home,Y,Tired Opposition,3,2,
-2021-12-10,9,NSH,NJD,Away,Y,Tired,4,2,Most Games
+2021-12-10,9,NSH,NJD,Away,Y,Tired,4,2,
 2021-12-10,9,NYI,,,,,3,0,
-2021-12-10,9,NYR,BUF,Away,Y,,4,3,Most Games
+2021-12-10,9,NYR,BUF,Away,Y,,4,3,
 2021-12-10,9,OTT,,,,,2,0,Least Games
-2021-12-10,9,PHI,VGK,Away,Y,,3,2,
-2021-12-10,9,PIT,WSH,Away,Y,,2,1,Least Games
-2021-12-10,9,SEA,,,,,2,0,Least Games
+2021-12-10,9,PHI,VGK,Away,Y,,4,3,
+2021-12-10,9,PIT,WSH,Away,Y,,3,2,
+2021-12-10,9,SEA,,,,,3,1,
 2021-12-10,9,SJS,,,,,3,0,
-2021-12-10,9,STL,,,,,4,1,Most Games
+2021-12-10,9,STL,,,,,4,1,
 2021-12-10,9,TBL,,,,,3,0,
 2021-12-10,9,TOR,,,,,3,0,
-2021-12-10,9,VAN,WPG,Home,Y,Tired Opposition,3,3,
+2021-12-10,9,VAN,WPG,Home,Y,Tired Opposition,4,4,
 2021-12-10,9,VGK,PHI,Home,Y,,3,3,
 2021-12-10,9,WPG,VAN,Away,Y,Tired,3,1,
-2021-12-10,9,WSH,PIT,Home,Y,,2,1,Least Games
-2021-12-11,9,ANA,PIT,Away,N,Tired Opposition,4,1,Most Games
-2021-12-11,9,ARI,PHI,Home,N,Both Tired,2,1,Least Games
+2021-12-10,9,WSH,PIT,Home,Y,,3,2,
+2021-12-11,9,ANA,PIT,Away,N,Tired Opposition,5,2,Most Games
+2021-12-11,9,ARI,PHI,Home,N,Both Tired,3,2,
 2021-12-11,9,BOS,CGY,Away,N,,3,1,
 2021-12-11,9,BUF,WSH,Home,N,Both Tired,3,1,
-2021-12-11,9,CAR,EDM,Away,N,,4,1,Most Games
+2021-12-11,9,CAR,EDM,Away,N,,4,1,
 2021-12-11,9,CBJ,SEA,Away,N,,3,0,
-2021-12-11,9,CGY,BOS,Home,N,,4,1,Most Games
-2021-12-11,9,CHI,TOR,Away,N,,4,1,Most Games
-2021-12-11,9,COL,,,,,3,3,
-2021-12-11,9,DAL,SJS,Away,N,,3,1,
+2021-12-11,9,CGY,BOS,Home,N,,3,0,
+2021-12-11,9,CHI,TOR,Away,N,,3,0,
+2021-12-11,9,COL,,,,,4,4,
+2021-12-11,9,DAL,SJS,Away,N,,4,2,
 2021-12-11,9,DET,,,,,3,1,
 2021-12-11,9,EDM,CAR,Home,N,,3,0,
 2021-12-11,9,FLA,,,,,3,2,
-2021-12-11,9,LAK,MIN,Home,N,,2,0,Least Games
-2021-12-11,9,MIN,LAK,Away,N,,4,1,Most Games
+2021-12-11,9,LAK,MIN,Home,N,,3,1,
+2021-12-11,9,MIN,LAK,Away,N,,4,1,
 2021-12-11,9,MTL,STL,Away,N,,3,0,
 2021-12-11,9,NJD,NYI,Away,N,Tired,3,2,
-2021-12-11,9,NSH,,,,,4,2,Most Games
+2021-12-11,9,NSH,,,,,4,2,
 2021-12-11,9,NYI,NJD,Home,N,Tired Opposition,3,0,
-2021-12-11,9,NYR,,,,,4,3,Most Games
+2021-12-11,9,NYR,,,,,4,3,
 2021-12-11,9,OTT,TBL,Home,N,,2,0,Least Games
-2021-12-11,9,PHI,ARI,Away,N,Both Tired,3,2,
-2021-12-11,9,PIT,ANA,Home,N,Tired,2,1,Least Games
-2021-12-11,9,SEA,CBJ,Home,N,,2,0,Least Games
+2021-12-11,9,PHI,ARI,Away,N,Both Tired,4,3,
+2021-12-11,9,PIT,ANA,Home,N,Tired,3,2,
+2021-12-11,9,SEA,CBJ,Home,N,,3,1,
 2021-12-11,9,SJS,DAL,Home,N,,3,0,
-2021-12-11,9,STL,MTL,Home,N,,4,1,Most Games
+2021-12-11,9,STL,MTL,Home,N,,4,1,
 2021-12-11,9,TBL,OTT,Away,N,,3,0,
 2021-12-11,9,TOR,CHI,Home,N,,3,0,
-2021-12-11,9,VAN,,,,,3,3,
+2021-12-11,9,VAN,,,,,4,4,
 2021-12-11,9,VGK,,,,,3,3,
 2021-12-11,9,WPG,,,,,3,1,
-2021-12-11,9,WSH,BUF,Away,N,Both Tired,2,1,Least Games
-2021-12-12,9,ANA,STL,Away,Y,Both Tired,4,1,Most Games
-2021-12-12,9,ARI,,,,,2,1,Least Games
+2021-12-11,9,WSH,BUF,Away,N,Both Tired,3,2,
+2021-12-12,9,ANA,STL,Away,Y,Both Tired,5,2,Most Games
+2021-12-12,9,ARI,,,,,3,2,
 2021-12-12,9,BOS,,,,,3,1,
 2021-12-12,9,BUF,,,,,3,1,
-2021-12-12,9,CAR,VAN,Away,Y,Tired,4,1,Most Games
+2021-12-12,9,CAR,VAN,Away,Y,Tired,4,1,
 2021-12-12,9,CBJ,,,,,3,0,
-2021-12-12,9,CGY,,,,,4,1,Most Games
-2021-12-12,9,CHI,,,,,4,1,Most Games
-2021-12-12,9,COL,FLA,Home,Y,,3,3,
-2021-12-12,9,DAL,,,,,3,1,
+2021-12-12,9,CGY,,,,,3,0,
+2021-12-12,9,CHI,,,,,3,0,
+2021-12-12,9,COL,FLA,Home,Y,,4,4,
+2021-12-12,9,DAL,,,,,4,2,
 2021-12-12,9,DET,,,,,3,1,
 2021-12-12,9,EDM,,,,,3,0,
 2021-12-12,9,FLA,COL,Away,Y,,3,2,
-2021-12-12,9,LAK,,,,,2,0,Least Games
-2021-12-12,9,MIN,VGK,Away,Y,Tired,4,1,Most Games
+2021-12-12,9,LAK,,,,,3,1,
+2021-12-12,9,MIN,VGK,Away,Y,Tired,4,1,
 2021-12-12,9,MTL,,,,,3,0,
 2021-12-12,9,NJD,,,,,3,2,
-2021-12-12,9,NSH,NYR,Away,Y,,4,2,Most Games
+2021-12-12,9,NSH,NYR,Away,Y,,4,2,
 2021-12-12,9,NYI,,,,,3,0,
-2021-12-12,9,NYR,NSH,Home,Y,,4,3,Most Games
+2021-12-12,9,NYR,NSH,Home,Y,,4,3,
 2021-12-12,9,OTT,,,,,2,0,Least Games
-2021-12-12,9,PHI,,,,,3,2,
-2021-12-12,9,PIT,,,,,2,1,Least Games
-2021-12-12,9,SEA,,,,,2,0,Least Games
+2021-12-12,9,PHI,,,,,4,3,
+2021-12-12,9,PIT,,,,,3,2,
+2021-12-12,9,SEA,,,,,3,1,
 2021-12-12,9,SJS,,,,,3,0,
-2021-12-12,9,STL,ANA,Home,Y,Both Tired,4,1,Most Games
+2021-12-12,9,STL,ANA,Home,Y,Both Tired,4,1,
 2021-12-12,9,TBL,,,,,3,0,
 2021-12-12,9,TOR,,,,,3,0,
-2021-12-12,9,VAN,CAR,Home,Y,Tired Opposition,3,3,
+2021-12-12,9,VAN,CAR,Home,Y,Tired Opposition,4,4,
 2021-12-12,9,VGK,MIN,Home,Y,Tired Opposition,3,3,
 2021-12-12,9,WPG,,,,,3,1,
-2021-12-12,9,WSH,,,,,2,1,Least Games
-2021-12-13,9,ANA,,,,,4,1,Most Games
-2021-12-13,9,ARI,,,,,2,1,Least Games
-2021-12-13,9,BOS,,,,,3,1,
-2021-12-13,9,BUF,,,,,3,1,
-2021-12-13,9,CAR,,,,,4,1,Most Games
-2021-12-13,9,CBJ,,,,,3,0,
-2021-12-13,9,CGY,CHI,Away,Y,,4,1,Most Games
-2021-12-13,9,CHI,CGY,Home,Y,,4,1,Most Games
-2021-12-13,9,COL,,,,,3,3,
-2021-12-13,9,DAL,,,,,3,1,
-2021-12-13,9,DET,,,,,3,1,
-2021-12-13,9,EDM,,,,,3,0,
-2021-12-13,9,FLA,,,,,3,2,
-2021-12-13,9,LAK,,,,,2,0,Least Games
-2021-12-13,9,MIN,,,,,4,1,Most Games
-2021-12-13,9,MTL,,,,,3,0,
-2021-12-13,9,NJD,,,,,3,2,
-2021-12-13,9,NSH,,,,,4,2,Most Games
-2021-12-13,9,NYI,,,,,3,0,
-2021-12-13,9,NYR,,,,,4,3,Most Games
-2021-12-13,9,OTT,,,,,2,0,Least Games
-2021-12-13,9,PHI,,,,,3,2,
-2021-12-13,9,PIT,,,,,2,1,Least Games
-2021-12-13,9,SEA,,,,,2,0,Least Games
-2021-12-13,9,SJS,,,,,3,0,
-2021-12-13,9,STL,,,,,4,1,Most Games
-2021-12-13,9,TBL,,,,,3,0,
-2021-12-13,9,TOR,,,,,3,0,
-2021-12-13,9,VAN,,,,,3,3,
-2021-12-13,9,VGK,,,,,3,3,
-2021-12-13,9,WPG,,,,,3,1,
-2021-12-13,9,WSH,,,,,2,1,Least Games
-2021-12-14,10,ANA,,,,,3,3,
+2021-12-12,9,WSH,,,,,3,2,
+2021-12-13,10,ANA,,,,,2,2,Least Games
+2021-12-13,10,ARI,,,,,3,3,
+2021-12-13,10,BOS,,,,,4,1,Most Games
+2021-12-13,10,BUF,,,,,3,1,
+2021-12-13,10,CAR,,,,,4,1,Most Games
+2021-12-13,10,CBJ,,,,,3,0,
+2021-12-13,10,CGY,CHI,Away,Y,,4,1,Most Games
+2021-12-13,10,CHI,CGY,Home,Y,,4,3,Most Games
+2021-12-13,10,COL,,,,,3,0,
+2021-12-13,10,DAL,,,,,3,1,
+2021-12-13,10,DET,,,,,3,0,
+2021-12-13,10,EDM,,,,,3,0,
+2021-12-13,10,FLA,,,,,3,0,
+2021-12-13,10,LAK,,,,,4,1,Most Games
+2021-12-13,10,MIN,,,,,3,0,
+2021-12-13,10,MTL,,,,,3,0,
+2021-12-13,10,NJD,,,,,4,1,Most Games
+2021-12-13,10,NSH,,,,,4,2,Most Games
+2021-12-13,10,NYI,,,,,3,1,
+2021-12-13,10,NYR,,,,,3,2,
+2021-12-13,10,OTT,,,,,4,1,Most Games
+2021-12-13,10,PHI,,,,,3,0,
+2021-12-13,10,PIT,,,,,3,2,
+2021-12-13,10,SEA,,,,,4,2,Most Games
+2021-12-13,10,SJS,,,,,2,0,Least Games
+2021-12-13,10,STL,,,,,3,2,
+2021-12-13,10,TBL,,,,,3,0,
+2021-12-13,10,TOR,,,,,4,1,Most Games
+2021-12-13,10,VAN,,,,,4,1,Most Games
+2021-12-13,10,VGK,,,,,4,2,Most Games
+2021-12-13,10,WPG,,,,,3,2,
+2021-12-13,10,WSH,,,,,3,3,
+2021-12-14,10,ANA,,,,,2,2,Least Games
 2021-12-14,10,ARI,,,,,3,3,
 2021-12-14,10,BOS,VGK,Home,N,,4,1,Most Games
-2021-12-14,10,BUF,WPG,Away,N,,4,2,Most Games
+2021-12-14,10,BUF,WPG,Away,N,,3,1,
 2021-12-14,10,CAR,MIN,Away,N,,4,1,Most Games
-2021-12-14,10,CBJ,VAN,Away,N,,4,1,Most Games
-2021-12-14,10,CGY,NSH,Away,N,Tired,3,0,
-2021-12-14,10,CHI,,,,,3,2,
-2021-12-14,10,COL,NYR,Home,N,,4,1,Most Games
-2021-12-14,10,DAL,STL,Home,N,,4,2,Most Games
-2021-12-14,10,DET,NYI,Home,N,,4,1,Most Games
-2021-12-14,10,EDM,TOR,Home,N,,4,1,Most Games
+2021-12-14,10,CBJ,VAN,Away,N,,3,0,
+2021-12-14,10,CGY,NSH,Away,N,Tired,4,1,Most Games
+2021-12-14,10,CHI,,,,,4,3,Most Games
+2021-12-14,10,COL,NYR,Home,N,,3,0,
+2021-12-14,10,DAL,STL,Home,N,,3,1,
+2021-12-14,10,DET,NYI,Home,N,,3,0,
+2021-12-14,10,EDM,TOR,Home,N,,3,0,
 2021-12-14,10,FLA,OTT,Home,N,,3,0,
 2021-12-14,10,LAK,TBL,Away,N,,4,1,Most Games
-2021-12-14,10,MIN,CAR,Home,N,,4,1,Most Games
-2021-12-14,10,MTL,PIT,Away,N,,4,1,Most Games
+2021-12-14,10,MIN,CAR,Home,N,,3,0,
+2021-12-14,10,MTL,PIT,Away,N,,3,0,
 2021-12-14,10,NJD,PHI,Away,N,,4,1,Most Games
 2021-12-14,10,NSH,CGY,Home,N,Tired Opposition,4,2,Most Games
-2021-12-14,10,NYI,DET,Away,N,,4,2,Most Games
+2021-12-14,10,NYI,DET,Away,N,,3,1,
 2021-12-14,10,NYR,COL,Away,N,,3,2,
 2021-12-14,10,OTT,FLA,Away,N,,4,1,Most Games
 2021-12-14,10,PHI,NJD,Home,N,,3,0,
@@ -2047,25 +2047,25 @@
 2021-12-14,10,VGK,BOS,Away,N,,4,2,Most Games
 2021-12-14,10,WPG,BUF,Home,N,,3,2,
 2021-12-14,10,WSH,,,,,3,3,
-2021-12-15,10,ANA,SEA,Home,Y,Tired Opposition,3,3,
+2021-12-15,10,ANA,SEA,Home,Y,Tired Opposition,2,2,Least Games
 2021-12-15,10,ARI,NYR,Home,Y,Tired Opposition,3,3,
 2021-12-15,10,BOS,,,,,4,1,Most Games
-2021-12-15,10,BUF,,,,,4,2,Most Games
+2021-12-15,10,BUF,,,,,3,1,
 2021-12-15,10,CAR,,,,,4,1,Most Games
-2021-12-15,10,CBJ,,,,,4,1,Most Games
-2021-12-15,10,CGY,,,,,3,0,
-2021-12-15,10,CHI,WSH,Home,Y,,3,2,
-2021-12-15,10,COL,,,,,4,1,Most Games
-2021-12-15,10,DAL,,,,,4,2,Most Games
-2021-12-15,10,DET,,,,,4,1,Most Games
-2021-12-15,10,EDM,,,,,4,1,Most Games
+2021-12-15,10,CBJ,,,,,3,0,
+2021-12-15,10,CGY,,,,,4,1,Most Games
+2021-12-15,10,CHI,WSH,Home,Y,,4,3,Most Games
+2021-12-15,10,COL,,,,,3,0,
+2021-12-15,10,DAL,,,,,3,1,
+2021-12-15,10,DET,,,,,3,0,
+2021-12-15,10,EDM,,,,,3,0,
 2021-12-15,10,FLA,,,,,3,0,
 2021-12-15,10,LAK,,,,,4,1,Most Games
-2021-12-15,10,MIN,,,,,4,1,Most Games
-2021-12-15,10,MTL,,,,,4,1,Most Games
+2021-12-15,10,MIN,,,,,3,0,
+2021-12-15,10,MTL,,,,,3,0,
 2021-12-15,10,NJD,,,,,4,1,Most Games
 2021-12-15,10,NSH,,,,,4,2,Most Games
-2021-12-15,10,NYI,,,,,4,2,Most Games
+2021-12-15,10,NYI,,,,,3,1,
 2021-12-15,10,NYR,ARI,Away,Y,Tired,3,2,
 2021-12-15,10,OTT,,,,,4,1,Most Games
 2021-12-15,10,PHI,,,,,3,0,
@@ -2079,25 +2079,25 @@
 2021-12-15,10,VGK,,,,,4,2,Most Games
 2021-12-15,10,WPG,,,,,3,2,
 2021-12-15,10,WSH,CHI,Away,Y,,3,3,
-2021-12-16,10,ANA,,,,,3,3,
+2021-12-16,10,ANA,,,,,2,2,Least Games
 2021-12-16,10,ARI,,,,,3,3,
 2021-12-16,10,BOS,NYI,Away,N,,4,1,Most Games
-2021-12-16,10,BUF,MIN,Away,N,,4,2,Most Games
+2021-12-16,10,BUF,MIN,Away,N,,3,1,
 2021-12-16,10,CAR,DET,Home,N,,4,1,Most Games
-2021-12-16,10,CBJ,EDM,Away,N,,4,1,Most Games
-2021-12-16,10,CGY,TOR,Home,N,,3,0,
-2021-12-16,10,CHI,,,,,3,2,
-2021-12-16,10,COL,NSH,Away,N,,4,1,Most Games
-2021-12-16,10,DAL,,,,,4,2,Most Games
-2021-12-16,10,DET,CAR,Away,N,,4,1,Most Games
-2021-12-16,10,EDM,CBJ,Home,N,,4,1,Most Games
+2021-12-16,10,CBJ,EDM,Away,N,,3,0,
+2021-12-16,10,CGY,TOR,Home,N,,4,1,Most Games
+2021-12-16,10,CHI,,,,,4,3,Most Games
+2021-12-16,10,COL,NSH,Away,N,,3,0,
+2021-12-16,10,DAL,,,,,3,1,
+2021-12-16,10,DET,CAR,Away,N,,3,0,
+2021-12-16,10,EDM,CBJ,Home,N,,3,0,
 2021-12-16,10,FLA,LAK,Home,N,,3,0,
 2021-12-16,10,LAK,FLA,Away,N,,4,1,Most Games
-2021-12-16,10,MIN,BUF,Home,N,,4,1,Most Games
-2021-12-16,10,MTL,PHI,Home,N,,4,1,Most Games
+2021-12-16,10,MIN,BUF,Home,N,,3,0,
+2021-12-16,10,MTL,PHI,Home,N,,3,0,
 2021-12-16,10,NJD,VGK,Home,N,,4,1,Most Games
 2021-12-16,10,NSH,COL,Home,N,,4,2,Most Games
-2021-12-16,10,NYI,BOS,Home,N,,4,2,Most Games
+2021-12-16,10,NYI,BOS,Home,N,,3,1,
 2021-12-16,10,NYR,,,,,3,2,
 2021-12-16,10,OTT,TBL,Away,N,,4,1,Most Games
 2021-12-16,10,PHI,MTL,Away,N,,3,0,
@@ -2111,25 +2111,25 @@
 2021-12-16,10,VGK,NJD,Away,N,,4,2,Most Games
 2021-12-16,10,WPG,,,,,3,2,
 2021-12-16,10,WSH,,,,,3,3,
-2021-12-17,10,ANA,ARI,Home,Y,,3,3,
+2021-12-17,10,ANA,ARI,Home,Y,,2,2,Least Games
 2021-12-17,10,ARI,ANA,Away,Y,,3,3,
 2021-12-17,10,BOS,,,,,4,1,Most Games
-2021-12-17,10,BUF,PIT,Away,Y,Tired,4,2,Most Games
+2021-12-17,10,BUF,PIT,Away,Y,Tired,3,1,
 2021-12-17,10,CAR,,,,,4,1,Most Games
-2021-12-17,10,CBJ,,,,,4,1,Most Games
-2021-12-17,10,CGY,,,,,3,0,
-2021-12-17,10,CHI,NSH,Home,Y,Tired Opposition,3,2,
-2021-12-17,10,COL,,,,,4,1,Most Games
-2021-12-17,10,DAL,STL,Away,Y,,4,2,Most Games
-2021-12-17,10,DET,,,,,4,1,Most Games
-2021-12-17,10,EDM,,,,,4,1,Most Games
+2021-12-17,10,CBJ,,,,,3,0,
+2021-12-17,10,CGY,,,,,4,1,Most Games
+2021-12-17,10,CHI,NSH,Home,Y,Tired Opposition,4,3,Most Games
+2021-12-17,10,COL,,,,,3,0,
+2021-12-17,10,DAL,STL,Away,Y,,3,1,
+2021-12-17,10,DET,,,,,3,0,
+2021-12-17,10,EDM,,,,,3,0,
 2021-12-17,10,FLA,,,,,3,0,
 2021-12-17,10,LAK,,,,,4,1,Most Games
-2021-12-17,10,MIN,,,,,4,1,Most Games
-2021-12-17,10,MTL,,,,,4,1,Most Games
+2021-12-17,10,MIN,,,,,3,0,
+2021-12-17,10,MTL,,,,,3,0,
 2021-12-17,10,NJD,,,,,4,1,Most Games
 2021-12-17,10,NSH,CHI,Away,Y,Tired,4,2,Most Games
-2021-12-17,10,NYI,,,,,4,2,Most Games
+2021-12-17,10,NYI,,,,,3,1,
 2021-12-17,10,NYR,VGK,Home,Y,Tired Opposition,3,2,
 2021-12-17,10,OTT,,,,,4,1,Most Games
 2021-12-17,10,PHI,,,,,3,0,
@@ -2143,25 +2143,25 @@
 2021-12-17,10,VGK,NYR,Away,Y,Tired,4,2,Most Games
 2021-12-17,10,WPG,WSH,Home,Y,,3,2,
 2021-12-17,10,WSH,WPG,Away,Y,,3,3,
-2021-12-18,10,ANA,,,,,3,3,
+2021-12-18,10,ANA,,,,,2,2,Least Games
 2021-12-18,10,ARI,,,,,3,3,
 2021-12-18,10,BOS,MTL,Away,N,,4,1,Most Games
-2021-12-18,10,BUF,,,,,4,2,Most Games
+2021-12-18,10,BUF,,,,,3,1,
 2021-12-18,10,CAR,LAK,Home,N,,4,1,Most Games
-2021-12-18,10,CBJ,CGY,Away,N,,4,1,Most Games
-2021-12-18,10,CGY,CBJ,Home,N,,3,0,
-2021-12-18,10,CHI,DAL,Away,N,Both Tired,3,2,
-2021-12-18,10,COL,TBL,Home,N,,4,1,Most Games
-2021-12-18,10,DAL,CHI,Home,N,Both Tired,4,2,Most Games
-2021-12-18,10,DET,NJD,Home,N,,4,1,Most Games
-2021-12-18,10,EDM,SEA,Away,N,,4,1,Most Games
+2021-12-18,10,CBJ,CGY,Away,N,,3,0,
+2021-12-18,10,CGY,CBJ,Home,N,,4,1,Most Games
+2021-12-18,10,CHI,DAL,Away,N,Both Tired,4,3,Most Games
+2021-12-18,10,COL,TBL,Home,N,,3,0,
+2021-12-18,10,DAL,CHI,Home,N,Both Tired,3,1,
+2021-12-18,10,DET,NJD,Home,N,,3,0,
+2021-12-18,10,EDM,SEA,Away,N,,3,0,
 2021-12-18,10,FLA,MIN,Away,N,,3,0,
 2021-12-18,10,LAK,CAR,Away,N,,4,1,Most Games
-2021-12-18,10,MIN,FLA,Home,N,,4,1,Most Games
-2021-12-18,10,MTL,BOS,Home,N,,4,1,Most Games
+2021-12-18,10,MIN,FLA,Home,N,,3,0,
+2021-12-18,10,MTL,BOS,Home,N,,3,0,
 2021-12-18,10,NJD,DET,Away,N,,4,1,Most Games
 2021-12-18,10,NSH,,,,,4,2,Most Games
-2021-12-18,10,NYI,,,,,4,2,Most Games
+2021-12-18,10,NYI,,,,,3,1,
 2021-12-18,10,NYR,,,,,3,2,
 2021-12-18,10,OTT,PHI,Away,N,,4,1,Most Games
 2021-12-18,10,PHI,OTT,Home,N,,3,0,
@@ -2175,25 +2175,25 @@
 2021-12-18,10,VGK,,,,,4,2,Most Games
 2021-12-18,10,WPG,,,,,3,2,
 2021-12-18,10,WSH,,,,,3,3,
-2021-12-19,10,ANA,,,,,3,3,
+2021-12-19,10,ANA,,,,,2,2,Least Games
 2021-12-19,10,ARI,VAN,Away,Y,Tired Opposition,3,3,
 2021-12-19,10,BOS,OTT,Away,Y,Both Tired,4,1,Most Games
-2021-12-19,10,BUF,,,,,4,2,Most Games
+2021-12-19,10,BUF,,,,,3,1,
 2021-12-19,10,CAR,NSH,Home,Y,Tired,4,1,Most Games
-2021-12-19,10,CBJ,,,,,4,1,Most Games
-2021-12-19,10,CGY,,,,,3,0,
-2021-12-19,10,CHI,,,,,3,2,
-2021-12-19,10,COL,,,,,4,1,Most Games
-2021-12-19,10,DAL,,,,,4,2,Most Games
-2021-12-19,10,DET,,,,,4,1,Most Games
-2021-12-19,10,EDM,,,,,4,1,Most Games
+2021-12-19,10,CBJ,,,,,3,0,
+2021-12-19,10,CGY,,,,,4,1,Most Games
+2021-12-19,10,CHI,,,,,4,3,Most Games
+2021-12-19,10,COL,,,,,3,0,
+2021-12-19,10,DAL,,,,,3,1,
+2021-12-19,10,DET,,,,,3,0,
+2021-12-19,10,EDM,,,,,3,0,
 2021-12-19,10,FLA,,,,,3,0,
 2021-12-19,10,LAK,WSH,Away,Y,Tired,4,1,Most Games
-2021-12-19,10,MIN,,,,,4,1,Most Games
-2021-12-19,10,MTL,,,,,4,1,Most Games
+2021-12-19,10,MIN,,,,,3,0,
+2021-12-19,10,MTL,,,,,3,0,
 2021-12-19,10,NJD,PIT,Home,Y,Tired,4,1,Most Games
 2021-12-19,10,NSH,CAR,Away,Y,Tired Opposition,4,2,Most Games
-2021-12-19,10,NYI,VGK,Home,Y,,4,2,Most Games
+2021-12-19,10,NYI,VGK,Home,Y,,3,1,
 2021-12-19,10,NYR,,,,,3,2,
 2021-12-19,10,OTT,BOS,Home,Y,Both Tired,4,1,Most Games
 2021-12-19,10,PHI,,,,,3,0,
@@ -2207,454 +2207,454 @@
 2021-12-19,10,VGK,NYI,Away,Y,,4,2,Most Games
 2021-12-19,10,WPG,STL,Home,Y,,3,2,
 2021-12-19,10,WSH,LAK,Home,Y,Tired Opposition,3,3,
-2021-12-20,10,ANA,EDM,Away,Y,,3,3,
-2021-12-20,10,ARI,,,,,3,3,
-2021-12-20,10,BOS,,,,,4,1,Most Games
-2021-12-20,10,BUF,CBJ,Home,Y,,4,2,Most Games
-2021-12-20,10,CAR,,,,,4,1,Most Games
-2021-12-20,10,CBJ,BUF,Away,Y,,4,1,Most Games
-2021-12-20,10,CGY,,,,,3,0,
-2021-12-20,10,CHI,,,,,3,2,
-2021-12-20,10,COL,DET,Away,Y,,4,1,Most Games
-2021-12-20,10,DAL,MIN,Home,Y,,4,2,Most Games
-2021-12-20,10,DET,COL,Home,Y,,4,1,Most Games
-2021-12-20,10,EDM,ANA,Home,Y,,4,1,Most Games
-2021-12-20,10,FLA,,,,,3,0,
-2021-12-20,10,LAK,,,,,4,1,Most Games
-2021-12-20,10,MIN,DAL,Away,Y,,4,1,Most Games
-2021-12-20,10,MTL,NYI,Away,Y,Tired Opposition,4,1,Most Games
-2021-12-20,10,NJD,,,,,4,1,Most Games
-2021-12-20,10,NSH,,,,,4,2,Most Games
-2021-12-20,10,NYI,MTL,Home,Y,Tired,4,2,Most Games
-2021-12-20,10,NYR,,,,,3,2,
-2021-12-20,10,OTT,,,,,4,1,Most Games
-2021-12-20,10,PHI,,,,,3,0,
-2021-12-20,10,PIT,,,,,3,2,
-2021-12-20,10,SEA,,,,,4,2,Most Games
-2021-12-20,10,SJS,,,,,2,0,Least Games
-2021-12-20,10,STL,,,,,3,2,
-2021-12-20,10,TBL,,,,,3,0,
-2021-12-20,10,TOR,,,,,4,1,Most Games
-2021-12-20,10,VAN,,,,,4,1,Most Games
-2021-12-20,10,VGK,,,,,4,2,Most Games
-2021-12-20,10,WPG,,,,,3,2,
-2021-12-20,10,WSH,,,,,3,3,
-2021-12-21,11,ANA,CGY,Away,N,Tired,6,2,Most Games
+2021-12-20,11,ANA,EDM,Away,Y,,7,3,Most Games
+2021-12-20,11,ARI,,,,,5,2,
+2021-12-20,11,BOS,,,,,6,1,
+2021-12-20,11,BUF,CBJ,Home,Y,,7,3,Most Games
+2021-12-20,11,CAR,,,,,5,1,
+2021-12-20,11,CBJ,BUF,Away,Y,,6,3,
+2021-12-20,11,CGY,,,,,6,3,
+2021-12-20,11,CHI,,,,,6,2,
+2021-12-20,11,COL,DET,Away,Y,,7,4,Most Games
+2021-12-20,11,DAL,MIN,Home,Y,,7,4,Most Games
+2021-12-20,11,DET,COL,Home,Y,,6,3,
+2021-12-20,11,EDM,ANA,Home,Y,,7,3,Most Games
+2021-12-20,11,FLA,,,,,6,1,
+2021-12-20,11,LAK,,,,,6,3,
+2021-12-20,11,MIN,DAL,Away,Y,,4,1,Least Games
+2021-12-20,11,MTL,NYI,Away,Y,Tired Opposition,6,4,
+2021-12-20,11,NJD,,,,,6,2,
+2021-12-20,11,NSH,,,,,6,1,
+2021-12-20,11,NYI,MTL,Home,Y,Tired,6,2,
+2021-12-20,11,NYR,,,,,5,3,
+2021-12-20,11,OTT,,,,,6,1,
+2021-12-20,11,PHI,,,,,5,1,
+2021-12-20,11,PIT,,,,,6,2,
+2021-12-20,11,SEA,,,,,6,1,
+2021-12-20,11,SJS,,,,,6,3,
+2021-12-20,11,STL,,,,,5,0,
+2021-12-20,11,TBL,,,,,6,4,
+2021-12-20,11,TOR,,,,,4,0,Least Games
+2021-12-20,11,VAN,,,,,6,1,
+2021-12-20,11,VGK,,,,,6,3,
+2021-12-20,11,WPG,,,,,6,3,
+2021-12-20,11,WSH,,,,,6,2,
+2021-12-21,11,ANA,CGY,Away,N,Tired,7,3,Most Games
 2021-12-21,11,ARI,SEA,Away,N,,5,2,
-2021-12-21,11,BOS,CAR,Home,N,,6,1,Most Games
-2021-12-21,11,BUF,,,,,6,2,Most Games
+2021-12-21,11,BOS,CAR,Home,N,,6,1,
+2021-12-21,11,BUF,,,,,7,3,Most Games
 2021-12-21,11,CAR,BOS,Away,N,,5,1,
-2021-12-21,11,CBJ,,,,,5,2,
-2021-12-21,11,CGY,ANA,Home,N,Tired Opposition,6,3,Most Games
-2021-12-21,11,CHI,FLA,Home,N,,6,2,Most Games
-2021-12-21,11,COL,,,,,6,3,Most Games
-2021-12-21,11,DAL,,,,,6,3,Most Games
-2021-12-21,11,DET,,,,,5,2,
-2021-12-21,11,EDM,,,,,6,2,Most Games
-2021-12-21,11,FLA,CHI,Away,N,,6,1,Most Games
-2021-12-21,11,LAK,,,,,6,3,Most Games
-2021-12-21,11,MIN,,,,,3,0,Least Games
-2021-12-21,11,MTL,,,,,5,3,
-2021-12-21,11,NJD,PIT,Away,N,,6,2,Most Games
-2021-12-21,11,NSH,WPG,Home,N,,6,1,Most Games
-2021-12-21,11,NYI,,,,,5,1,
+2021-12-21,11,CBJ,,,,,6,3,
+2021-12-21,11,CGY,ANA,Home,N,Tired Opposition,6,3,
+2021-12-21,11,CHI,FLA,Home,N,,6,2,
+2021-12-21,11,COL,,,,,7,4,Most Games
+2021-12-21,11,DAL,,,,,7,4,Most Games
+2021-12-21,11,DET,,,,,6,3,
+2021-12-21,11,EDM,,,,,7,3,Most Games
+2021-12-21,11,FLA,CHI,Away,N,,6,1,
+2021-12-21,11,LAK,,,,,6,3,
+2021-12-21,11,MIN,,,,,4,1,Least Games
+2021-12-21,11,MTL,,,,,6,4,
+2021-12-21,11,NJD,PIT,Away,N,,6,2,
+2021-12-21,11,NSH,WPG,Home,N,,6,1,
+2021-12-21,11,NYI,,,,,6,2,
 2021-12-21,11,NYR,,,,,5,3,
-2021-12-21,11,OTT,STL,Home,N,,6,1,Most Games
+2021-12-21,11,OTT,STL,Home,N,,6,1,
 2021-12-21,11,PHI,WSH,Home,N,,5,1,
-2021-12-21,11,PIT,NJD,Home,N,,6,2,Most Games
-2021-12-21,11,SEA,ARI,Home,N,,6,1,Most Games
-2021-12-21,11,SJS,VAN,Home,N,,6,3,Most Games
+2021-12-21,11,PIT,NJD,Home,N,,6,2,
+2021-12-21,11,SEA,ARI,Home,N,,6,1,
+2021-12-21,11,SJS,VAN,Home,N,,6,3,
 2021-12-21,11,STL,OTT,Away,N,,5,0,
-2021-12-21,11,TBL,VGK,Away,N,,6,4,Most Games
-2021-12-21,11,TOR,,,,,4,0,
-2021-12-21,11,VAN,SJS,Away,N,,6,1,Most Games
-2021-12-21,11,VGK,TBL,Home,N,,6,3,Most Games
-2021-12-21,11,WPG,NSH,Away,N,,6,3,Most Games
-2021-12-21,11,WSH,PHI,Away,N,,6,2,Most Games
-2021-12-22,11,ANA,,,,,6,2,Most Games
+2021-12-21,11,TBL,VGK,Away,N,,6,4,
+2021-12-21,11,TOR,,,,,4,0,Least Games
+2021-12-21,11,VAN,SJS,Away,N,,6,1,
+2021-12-21,11,VGK,TBL,Home,N,,6,3,
+2021-12-21,11,WPG,NSH,Away,N,,6,3,
+2021-12-21,11,WSH,PHI,Away,N,,6,2,
+2021-12-22,11,ANA,,,,,7,3,Most Games
 2021-12-22,11,ARI,,,,,5,2,
-2021-12-22,11,BOS,,,,,6,1,Most Games
-2021-12-22,11,BUF,COL,Home,Y,,6,2,Most Games
+2021-12-22,11,BOS,,,,,6,1,
+2021-12-22,11,BUF,COL,Home,Y,,7,3,Most Games
 2021-12-22,11,CAR,,,,,5,1,
-2021-12-22,11,CBJ,,,,,5,2,
-2021-12-22,11,CGY,,,,,6,3,Most Games
-2021-12-22,11,CHI,,,,,6,2,Most Games
-2021-12-22,11,COL,BUF,Away,Y,,6,3,Most Games
-2021-12-22,11,DAL,WPG,Home,Y,Tired Opposition,6,3,Most Games
-2021-12-22,11,DET,,,,,5,2,
-2021-12-22,11,EDM,LAK,Away,Y,,6,2,Most Games
-2021-12-22,11,FLA,,,,,6,1,Most Games
-2021-12-22,11,LAK,EDM,Home,Y,,6,3,Most Games
-2021-12-22,11,MIN,,,,,3,0,Least Games
-2021-12-22,11,MTL,NYR,Away,Y,,5,3,
-2021-12-22,11,NJD,,,,,6,2,Most Games
-2021-12-22,11,NSH,,,,,6,1,Most Games
-2021-12-22,11,NYI,,,,,5,1,
+2021-12-22,11,CBJ,,,,,6,3,
+2021-12-22,11,CGY,,,,,6,3,
+2021-12-22,11,CHI,,,,,6,2,
+2021-12-22,11,COL,BUF,Away,Y,,7,4,Most Games
+2021-12-22,11,DAL,WPG,Home,Y,Tired Opposition,7,4,Most Games
+2021-12-22,11,DET,,,,,6,3,
+2021-12-22,11,EDM,LAK,Away,Y,,7,3,Most Games
+2021-12-22,11,FLA,,,,,6,1,
+2021-12-22,11,LAK,EDM,Home,Y,,6,3,
+2021-12-22,11,MIN,,,,,4,1,Least Games
+2021-12-22,11,MTL,NYR,Away,Y,,6,4,
+2021-12-22,11,NJD,,,,,6,2,
+2021-12-22,11,NSH,,,,,6,1,
+2021-12-22,11,NYI,,,,,6,2,
 2021-12-22,11,NYR,MTL,Home,Y,,5,3,
-2021-12-22,11,OTT,,,,,6,1,Most Games
+2021-12-22,11,OTT,,,,,6,1,
 2021-12-22,11,PHI,,,,,5,1,
-2021-12-22,11,PIT,,,,,6,2,Most Games
-2021-12-22,11,SEA,,,,,6,1,Most Games
-2021-12-22,11,SJS,,,,,6,3,Most Games
+2021-12-22,11,PIT,,,,,6,2,
+2021-12-22,11,SEA,,,,,6,1,
+2021-12-22,11,SJS,,,,,6,3,
 2021-12-22,11,STL,,,,,5,0,
-2021-12-22,11,TBL,,,,,6,4,Most Games
-2021-12-22,11,TOR,,,,,4,0,
-2021-12-22,11,VAN,,,,,6,1,Most Games
-2021-12-22,11,VGK,,,,,6,3,Most Games
-2021-12-22,11,WPG,DAL,Away,Y,Tired,6,3,Most Games
-2021-12-22,11,WSH,,,,,6,2,Most Games
-2021-12-23,11,ANA,VAN,Away,N,,6,2,Most Games
+2021-12-22,11,TBL,,,,,6,4,
+2021-12-22,11,TOR,,,,,4,0,Least Games
+2021-12-22,11,VAN,,,,,6,1,
+2021-12-22,11,VGK,,,,,6,3,
+2021-12-22,11,WPG,DAL,Away,Y,Tired,6,3,
+2021-12-22,11,WSH,,,,,6,2,
+2021-12-23,11,ANA,VAN,Away,N,,7,3,Most Games
 2021-12-23,11,ARI,TBL,Home,N,,5,2,
-2021-12-23,11,BOS,COL,Home,N,Tired Opposition,6,1,Most Games
-2021-12-23,11,BUF,CBJ,Away,N,Tired,6,2,Most Games
+2021-12-23,11,BOS,COL,Home,N,Tired Opposition,6,1,
+2021-12-23,11,BUF,CBJ,Away,N,Tired,7,3,Most Games
 2021-12-23,11,CAR,OTT,Away,N,,5,1,
-2021-12-23,11,CBJ,BUF,Home,N,Tired Opposition,5,2,
-2021-12-23,11,CGY,SEA,Home,N,,6,3,Most Games
-2021-12-23,11,CHI,DAL,Home,N,Tired Opposition,6,2,Most Games
-2021-12-23,11,COL,BOS,Away,N,Tired,6,3,Most Games
-2021-12-23,11,DAL,CHI,Away,N,Tired,6,3,Most Games
-2021-12-23,11,DET,MIN,Away,N,,5,2,
-2021-12-23,11,EDM,SJS,Away,N,Tired,6,2,Most Games
-2021-12-23,11,FLA,NSH,Home,N,,6,1,Most Games
-2021-12-23,11,LAK,VGK,Away,N,Tired,6,3,Most Games
-2021-12-23,11,MIN,DET,Home,N,,3,0,Least Games
-2021-12-23,11,MTL,NJD,Away,N,Tired,5,3,
-2021-12-23,11,NJD,MTL,Home,N,Tired Opposition,6,2,Most Games
-2021-12-23,11,NSH,FLA,Away,N,,6,1,Most Games
-2021-12-23,11,NYI,WSH,Home,N,,5,1,
+2021-12-23,11,CBJ,BUF,Home,N,Tired Opposition,6,3,
+2021-12-23,11,CGY,SEA,Home,N,,6,3,
+2021-12-23,11,CHI,DAL,Home,N,Tired Opposition,6,2,
+2021-12-23,11,COL,BOS,Away,N,Tired,7,4,Most Games
+2021-12-23,11,DAL,CHI,Away,N,Tired,7,4,Most Games
+2021-12-23,11,DET,MIN,Away,N,,6,3,
+2021-12-23,11,EDM,SJS,Away,N,Tired,7,3,Most Games
+2021-12-23,11,FLA,NSH,Home,N,,6,1,
+2021-12-23,11,LAK,VGK,Away,N,Tired,6,3,
+2021-12-23,11,MIN,DET,Home,N,,4,1,Least Games
+2021-12-23,11,MTL,NJD,Away,N,Tired,6,4,
+2021-12-23,11,NJD,MTL,Home,N,Tired Opposition,6,2,
+2021-12-23,11,NSH,FLA,Away,N,,6,1,
+2021-12-23,11,NYI,WSH,Home,N,,6,2,
 2021-12-23,11,NYR,,,,,5,3,
-2021-12-23,11,OTT,CAR,Home,N,,6,1,Most Games
+2021-12-23,11,OTT,CAR,Home,N,,6,1,
 2021-12-23,11,PHI,PIT,Away,N,,5,1,
-2021-12-23,11,PIT,PHI,Home,N,,6,2,Most Games
-2021-12-23,11,SEA,CGY,Away,N,,6,1,Most Games
-2021-12-23,11,SJS,EDM,Home,N,Tired Opposition,6,3,Most Games
+2021-12-23,11,PIT,PHI,Home,N,,6,2,
+2021-12-23,11,SEA,CGY,Away,N,,6,1,
+2021-12-23,11,SJS,EDM,Home,N,Tired Opposition,6,3,
 2021-12-23,11,STL,TOR,Away,N,,5,0,
-2021-12-23,11,TBL,ARI,Away,N,,6,4,Most Games
-2021-12-23,11,TOR,STL,Home,N,,4,0,
-2021-12-23,11,VAN,ANA,Home,N,,6,1,Most Games
-2021-12-23,11,VGK,LAK,Home,N,Tired Opposition,6,3,Most Games
-2021-12-23,11,WPG,,,,,6,3,Most Games
-2021-12-23,11,WSH,NYI,Away,N,,6,2,Most Games
-2021-12-24,11,ANA,,,,,6,2,Most Games
+2021-12-23,11,TBL,ARI,Away,N,,6,4,
+2021-12-23,11,TOR,STL,Home,N,,4,0,Least Games
+2021-12-23,11,VAN,ANA,Home,N,,6,1,
+2021-12-23,11,VGK,LAK,Home,N,Tired Opposition,6,3,
+2021-12-23,11,WPG,,,,,6,3,
+2021-12-23,11,WSH,NYI,Away,N,,6,2,
+2021-12-24,11,ANA,,,,,7,3,Most Games
 2021-12-24,11,ARI,,,,,5,2,
-2021-12-24,11,BOS,,,,,6,1,Most Games
-2021-12-24,11,BUF,,,,,6,2,Most Games
+2021-12-24,11,BOS,,,,,6,1,
+2021-12-24,11,BUF,,,,,7,3,Most Games
 2021-12-24,11,CAR,,,,,5,1,
-2021-12-24,11,CBJ,,,,,5,2,
-2021-12-24,11,CGY,,,,,6,3,Most Games
-2021-12-24,11,CHI,,,,,6,2,Most Games
-2021-12-24,11,COL,,,,,6,3,Most Games
-2021-12-24,11,DAL,,,,,6,3,Most Games
-2021-12-24,11,DET,,,,,5,2,
-2021-12-24,11,EDM,,,,,6,2,Most Games
-2021-12-24,11,FLA,,,,,6,1,Most Games
-2021-12-24,11,LAK,,,,,6,3,Most Games
-2021-12-24,11,MIN,,,,,3,0,Least Games
-2021-12-24,11,MTL,,,,,5,3,
-2021-12-24,11,NJD,,,,,6,2,Most Games
-2021-12-24,11,NSH,,,,,6,1,Most Games
-2021-12-24,11,NYI,,,,,5,1,
+2021-12-24,11,CBJ,,,,,6,3,
+2021-12-24,11,CGY,,,,,6,3,
+2021-12-24,11,CHI,,,,,6,2,
+2021-12-24,11,COL,,,,,7,4,Most Games
+2021-12-24,11,DAL,,,,,7,4,Most Games
+2021-12-24,11,DET,,,,,6,3,
+2021-12-24,11,EDM,,,,,7,3,Most Games
+2021-12-24,11,FLA,,,,,6,1,
+2021-12-24,11,LAK,,,,,6,3,
+2021-12-24,11,MIN,,,,,4,1,Least Games
+2021-12-24,11,MTL,,,,,6,4,
+2021-12-24,11,NJD,,,,,6,2,
+2021-12-24,11,NSH,,,,,6,1,
+2021-12-24,11,NYI,,,,,6,2,
 2021-12-24,11,NYR,,,,,5,3,
-2021-12-24,11,OTT,,,,,6,1,Most Games
+2021-12-24,11,OTT,,,,,6,1,
 2021-12-24,11,PHI,,,,,5,1,
-2021-12-24,11,PIT,,,,,6,2,Most Games
-2021-12-24,11,SEA,,,,,6,1,Most Games
-2021-12-24,11,SJS,,,,,6,3,Most Games
+2021-12-24,11,PIT,,,,,6,2,
+2021-12-24,11,SEA,,,,,6,1,
+2021-12-24,11,SJS,,,,,6,3,
 2021-12-24,11,STL,,,,,5,0,
-2021-12-24,11,TBL,,,,,6,4,Most Games
-2021-12-24,11,TOR,,,,,4,0,
-2021-12-24,11,VAN,,,,,6,1,Most Games
-2021-12-24,11,VGK,,,,,6,3,Most Games
-2021-12-24,11,WPG,,,,,6,3,Most Games
-2021-12-24,11,WSH,,,,,6,2,Most Games
-2021-12-25,11,ANA,,,,,6,2,Most Games
+2021-12-24,11,TBL,,,,,6,4,
+2021-12-24,11,TOR,,,,,4,0,Least Games
+2021-12-24,11,VAN,,,,,6,1,
+2021-12-24,11,VGK,,,,,6,3,
+2021-12-24,11,WPG,,,,,6,3,
+2021-12-24,11,WSH,,,,,6,2,
+2021-12-25,11,ANA,,,,,7,3,Most Games
 2021-12-25,11,ARI,,,,,5,2,
-2021-12-25,11,BOS,,,,,6,1,Most Games
-2021-12-25,11,BUF,,,,,6,2,Most Games
+2021-12-25,11,BOS,,,,,6,1,
+2021-12-25,11,BUF,,,,,7,3,Most Games
 2021-12-25,11,CAR,,,,,5,1,
-2021-12-25,11,CBJ,,,,,5,2,
-2021-12-25,11,CGY,,,,,6,3,Most Games
-2021-12-25,11,CHI,,,,,6,2,Most Games
-2021-12-25,11,COL,,,,,6,3,Most Games
-2021-12-25,11,DAL,,,,,6,3,Most Games
-2021-12-25,11,DET,,,,,5,2,
-2021-12-25,11,EDM,,,,,6,2,Most Games
-2021-12-25,11,FLA,,,,,6,1,Most Games
-2021-12-25,11,LAK,,,,,6,3,Most Games
-2021-12-25,11,MIN,,,,,3,0,Least Games
-2021-12-25,11,MTL,,,,,5,3,
-2021-12-25,11,NJD,,,,,6,2,Most Games
-2021-12-25,11,NSH,,,,,6,1,Most Games
-2021-12-25,11,NYI,,,,,5,1,
+2021-12-25,11,CBJ,,,,,6,3,
+2021-12-25,11,CGY,,,,,6,3,
+2021-12-25,11,CHI,,,,,6,2,
+2021-12-25,11,COL,,,,,7,4,Most Games
+2021-12-25,11,DAL,,,,,7,4,Most Games
+2021-12-25,11,DET,,,,,6,3,
+2021-12-25,11,EDM,,,,,7,3,Most Games
+2021-12-25,11,FLA,,,,,6,1,
+2021-12-25,11,LAK,,,,,6,3,
+2021-12-25,11,MIN,,,,,4,1,Least Games
+2021-12-25,11,MTL,,,,,6,4,
+2021-12-25,11,NJD,,,,,6,2,
+2021-12-25,11,NSH,,,,,6,1,
+2021-12-25,11,NYI,,,,,6,2,
 2021-12-25,11,NYR,,,,,5,3,
-2021-12-25,11,OTT,,,,,6,1,Most Games
+2021-12-25,11,OTT,,,,,6,1,
 2021-12-25,11,PHI,,,,,5,1,
-2021-12-25,11,PIT,,,,,6,2,Most Games
-2021-12-25,11,SEA,,,,,6,1,Most Games
-2021-12-25,11,SJS,,,,,6,3,Most Games
+2021-12-25,11,PIT,,,,,6,2,
+2021-12-25,11,SEA,,,,,6,1,
+2021-12-25,11,SJS,,,,,6,3,
 2021-12-25,11,STL,,,,,5,0,
-2021-12-25,11,TBL,,,,,6,4,Most Games
-2021-12-25,11,TOR,,,,,4,0,
-2021-12-25,11,VAN,,,,,6,1,Most Games
-2021-12-25,11,VGK,,,,,6,3,Most Games
-2021-12-25,11,WPG,,,,,6,3,Most Games
-2021-12-25,11,WSH,,,,,6,2,Most Games
-2021-12-26,11,ANA,,,,,6,2,Most Games
+2021-12-25,11,TBL,,,,,6,4,
+2021-12-25,11,TOR,,,,,4,0,Least Games
+2021-12-25,11,VAN,,,,,6,1,
+2021-12-25,11,VGK,,,,,6,3,
+2021-12-25,11,WPG,,,,,6,3,
+2021-12-25,11,WSH,,,,,6,2,
+2021-12-26,11,ANA,,,,,7,3,Most Games
 2021-12-26,11,ARI,,,,,5,2,
-2021-12-26,11,BOS,,,,,6,1,Most Games
-2021-12-26,11,BUF,,,,,6,2,Most Games
+2021-12-26,11,BOS,,,,,6,1,
+2021-12-26,11,BUF,,,,,7,3,Most Games
 2021-12-26,11,CAR,,,,,5,1,
-2021-12-26,11,CBJ,,,,,5,2,
-2021-12-26,11,CGY,,,,,6,3,Most Games
-2021-12-26,11,CHI,,,,,6,2,Most Games
-2021-12-26,11,COL,,,,,6,3,Most Games
-2021-12-26,11,DAL,,,,,6,3,Most Games
-2021-12-26,11,DET,,,,,5,2,
-2021-12-26,11,EDM,,,,,6,2,Most Games
-2021-12-26,11,FLA,,,,,6,1,Most Games
-2021-12-26,11,LAK,,,,,6,3,Most Games
-2021-12-26,11,MIN,,,,,3,0,Least Games
-2021-12-26,11,MTL,,,,,5,3,
-2021-12-26,11,NJD,,,,,6,2,Most Games
-2021-12-26,11,NSH,,,,,6,1,Most Games
-2021-12-26,11,NYI,,,,,5,1,
+2021-12-26,11,CBJ,,,,,6,3,
+2021-12-26,11,CGY,,,,,6,3,
+2021-12-26,11,CHI,,,,,6,2,
+2021-12-26,11,COL,,,,,7,4,Most Games
+2021-12-26,11,DAL,,,,,7,4,Most Games
+2021-12-26,11,DET,,,,,6,3,
+2021-12-26,11,EDM,,,,,7,3,Most Games
+2021-12-26,11,FLA,,,,,6,1,
+2021-12-26,11,LAK,,,,,6,3,
+2021-12-26,11,MIN,,,,,4,1,Least Games
+2021-12-26,11,MTL,,,,,6,4,
+2021-12-26,11,NJD,,,,,6,2,
+2021-12-26,11,NSH,,,,,6,1,
+2021-12-26,11,NYI,,,,,6,2,
 2021-12-26,11,NYR,,,,,5,3,
-2021-12-26,11,OTT,,,,,6,1,Most Games
+2021-12-26,11,OTT,,,,,6,1,
 2021-12-26,11,PHI,,,,,5,1,
-2021-12-26,11,PIT,,,,,6,2,Most Games
-2021-12-26,11,SEA,,,,,6,1,Most Games
-2021-12-26,11,SJS,,,,,6,3,Most Games
+2021-12-26,11,PIT,,,,,6,2,
+2021-12-26,11,SEA,,,,,6,1,
+2021-12-26,11,SJS,,,,,6,3,
 2021-12-26,11,STL,,,,,5,0,
-2021-12-26,11,TBL,,,,,6,4,Most Games
-2021-12-26,11,TOR,,,,,4,0,
-2021-12-26,11,VAN,,,,,6,1,Most Games
-2021-12-26,11,VGK,,,,,6,3,Most Games
-2021-12-26,11,WPG,,,,,6,3,Most Games
-2021-12-26,11,WSH,,,,,6,2,Most Games
-2021-12-27,11,ANA,SJS,Home,N,,6,2,Most Games
+2021-12-26,11,TBL,,,,,6,4,
+2021-12-26,11,TOR,,,,,4,0,Least Games
+2021-12-26,11,VAN,,,,,6,1,
+2021-12-26,11,VGK,,,,,6,3,
+2021-12-26,11,WPG,,,,,6,3,
+2021-12-26,11,WSH,,,,,6,2,
+2021-12-27,11,ANA,SJS,Home,N,,7,3,Most Games
 2021-12-27,11,ARI,LAK,Home,N,,5,2,
-2021-12-27,11,BOS,PIT,Home,N,,6,1,Most Games
-2021-12-27,11,BUF,NYI,Home,N,,6,2,Most Games
+2021-12-27,11,BOS,PIT,Home,N,,6,1,
+2021-12-27,11,BUF,NYI,Home,N,,7,3,Most Games
 2021-12-27,11,CAR,FLA,Home,N,,5,1,
-2021-12-27,11,CBJ,TOR,Home,N,,5,2,
-2021-12-27,11,CGY,EDM,Home,N,,6,3,Most Games
-2021-12-27,11,CHI,,,,,6,2,Most Games
-2021-12-27,11,COL,VGK,Away,N,,6,3,Most Games
-2021-12-27,11,DAL,NSH,Home,N,,6,3,Most Games
-2021-12-27,11,DET,NYR,Away,N,,5,2,
-2021-12-27,11,EDM,CGY,Away,N,,6,2,Most Games
-2021-12-27,11,FLA,CAR,Away,N,,6,1,Most Games
-2021-12-27,11,LAK,ARI,Away,N,,6,3,Most Games
-2021-12-27,11,MIN,WPG,Away,N,,3,0,Least Games
-2021-12-27,11,MTL,,,,,5,3,
-2021-12-27,11,NJD,STL,Away,N,,6,2,Most Games
-2021-12-27,11,NSH,DAL,Away,N,,6,1,Most Games
-2021-12-27,11,NYI,BUF,Away,N,,5,1,
+2021-12-27,11,CBJ,TOR,Home,N,,6,3,
+2021-12-27,11,CGY,EDM,Home,N,,6,3,
+2021-12-27,11,CHI,,,,,6,2,
+2021-12-27,11,COL,VGK,Away,N,,7,4,Most Games
+2021-12-27,11,DAL,NSH,Home,N,,7,4,Most Games
+2021-12-27,11,DET,NYR,Away,N,,6,3,
+2021-12-27,11,EDM,CGY,Away,N,,7,3,Most Games
+2021-12-27,11,FLA,CAR,Away,N,,6,1,
+2021-12-27,11,LAK,ARI,Away,N,,6,3,
+2021-12-27,11,MIN,WPG,Away,N,,4,1,Least Games
+2021-12-27,11,MTL,,,,,6,4,
+2021-12-27,11,NJD,STL,Away,N,,6,2,
+2021-12-27,11,NSH,DAL,Away,N,,6,1,
+2021-12-27,11,NYI,BUF,Away,N,,6,2,
 2021-12-27,11,NYR,DET,Home,N,,5,3,
-2021-12-27,11,OTT,WSH,Away,N,,6,1,Most Games
+2021-12-27,11,OTT,WSH,Away,N,,6,1,
 2021-12-27,11,PHI,,,,,5,1,
-2021-12-27,11,PIT,BOS,Away,N,,6,2,Most Games
-2021-12-27,11,SEA,VAN,Away,N,,6,1,Most Games
-2021-12-27,11,SJS,ANA,Away,N,,6,3,Most Games
+2021-12-27,11,PIT,BOS,Away,N,,6,2,
+2021-12-27,11,SEA,VAN,Away,N,,6,1,
+2021-12-27,11,SJS,ANA,Away,N,,6,3,
 2021-12-27,11,STL,NJD,Home,N,,5,0,
-2021-12-27,11,TBL,,,,,6,4,Most Games
-2021-12-27,11,TOR,CBJ,Away,N,,4,0,
-2021-12-27,11,VAN,SEA,Home,N,,6,1,Most Games
-2021-12-27,11,VGK,COL,Home,N,,6,3,Most Games
-2021-12-27,11,WPG,MIN,Home,N,,6,3,Most Games
-2021-12-27,11,WSH,OTT,Home,N,,6,2,Most Games
-2021-12-28,11,ANA,,,,,6,2,Most Games
+2021-12-27,11,TBL,,,,,6,4,
+2021-12-27,11,TOR,CBJ,Away,N,,4,0,Least Games
+2021-12-27,11,VAN,SEA,Home,N,,6,1,
+2021-12-27,11,VGK,COL,Home,N,,6,3,
+2021-12-27,11,WPG,MIN,Home,N,,6,3,
+2021-12-27,11,WSH,OTT,Home,N,,6,2,
+2021-12-28,11,ANA,,,,,7,3,Most Games
 2021-12-28,11,ARI,SJS,Away,Y,Both Tired,5,2,
-2021-12-28,11,BOS,,,,,6,1,Most Games
-2021-12-28,11,BUF,,,,,6,2,Most Games
+2021-12-28,11,BOS,,,,,6,1,
+2021-12-28,11,BUF,,,,,7,3,Most Games
 2021-12-28,11,CAR,,,,,5,1,
-2021-12-28,11,CBJ,CHI,Away,Y,Tired,5,2,
-2021-12-28,11,CGY,,,,,6,3,Most Games
-2021-12-28,11,CHI,CBJ,Home,Y,Tired Opposition,6,2,Most Games
-2021-12-28,11,COL,,,,,6,3,Most Games
-2021-12-28,11,DAL,,,,,6,3,Most Games
-2021-12-28,11,DET,,,,,5,2,
-2021-12-28,11,EDM,,,,,6,2,Most Games
-2021-12-28,11,FLA,,,,,6,1,Most Games
-2021-12-28,11,LAK,VGK,Home,Y,Both Tired,6,3,Most Games
-2021-12-28,11,MIN,,,,,3,0,Least Games
-2021-12-28,11,MTL,TBL,Away,Y,,5,3,
-2021-12-28,11,NJD,,,,,6,2,Most Games
-2021-12-28,11,NSH,,,,,6,1,Most Games
-2021-12-28,11,NYI,,,,,5,1,
+2021-12-28,11,CBJ,CHI,Away,Y,Tired,6,3,
+2021-12-28,11,CGY,,,,,6,3,
+2021-12-28,11,CHI,CBJ,Home,Y,Tired Opposition,6,2,
+2021-12-28,11,COL,,,,,7,4,Most Games
+2021-12-28,11,DAL,,,,,7,4,Most Games
+2021-12-28,11,DET,,,,,6,3,
+2021-12-28,11,EDM,,,,,7,3,Most Games
+2021-12-28,11,FLA,,,,,6,1,
+2021-12-28,11,LAK,VGK,Home,Y,Both Tired,6,3,
+2021-12-28,11,MIN,,,,,4,1,Least Games
+2021-12-28,11,MTL,TBL,Away,Y,,6,4,
+2021-12-28,11,NJD,,,,,6,2,
+2021-12-28,11,NSH,,,,,6,1,
+2021-12-28,11,NYI,,,,,6,2,
 2021-12-28,11,NYR,,,,,5,3,
-2021-12-28,11,OTT,,,,,6,1,Most Games
+2021-12-28,11,OTT,,,,,6,1,
 2021-12-28,11,PHI,,,,,5,1,
-2021-12-28,11,PIT,,,,,6,2,Most Games
-2021-12-28,11,SEA,,,,,6,1,Most Games
-2021-12-28,11,SJS,ARI,Home,Y,Both Tired,6,3,Most Games
+2021-12-28,11,PIT,,,,,6,2,
+2021-12-28,11,SEA,,,,,6,1,
+2021-12-28,11,SJS,ARI,Home,Y,Both Tired,6,3,
 2021-12-28,11,STL,,,,,5,0,
-2021-12-28,11,TBL,MTL,Home,Y,,6,4,Most Games
-2021-12-28,11,TOR,,,,,4,0,
-2021-12-28,11,VAN,,,,,6,1,Most Games
-2021-12-28,11,VGK,LAK,Away,Y,Both Tired,6,3,Most Games
-2021-12-28,11,WPG,,,,,6,3,Most Games
-2021-12-28,11,WSH,,,,,6,2,Most Games
-2021-12-29,11,ANA,VAN,Home,N,,6,2,Most Games
+2021-12-28,11,TBL,MTL,Home,Y,,6,4,
+2021-12-28,11,TOR,,,,,4,0,Least Games
+2021-12-28,11,VAN,,,,,6,1,
+2021-12-28,11,VGK,LAK,Away,Y,Both Tired,6,3,
+2021-12-28,11,WPG,,,,,6,3,
+2021-12-28,11,WSH,,,,,6,2,
+2021-12-29,11,ANA,VAN,Home,N,,7,3,Most Games
 2021-12-29,11,ARI,,,,,5,2,
-2021-12-29,11,BOS,OTT,Away,N,,6,1,Most Games
-2021-12-29,11,BUF,NJD,Home,N,,6,2,Most Games
+2021-12-29,11,BOS,OTT,Away,N,,6,1,
+2021-12-29,11,BUF,NJD,Home,N,,7,3,Most Games
 2021-12-29,11,CAR,,,,,5,1,
-2021-12-29,11,CBJ,,,,,5,2,
-2021-12-29,11,CGY,,,,,6,3,Most Games
-2021-12-29,11,CHI,WPG,Away,N,Tired,6,2,Most Games
-2021-12-29,11,COL,DAL,Home,N,,6,3,Most Games
-2021-12-29,11,DAL,COL,Away,N,,6,3,Most Games
-2021-12-29,11,DET,NYI,Away,N,,5,2,
-2021-12-29,11,EDM,STL,Away,N,,6,2,Most Games
-2021-12-29,11,FLA,NYR,Home,N,,6,1,Most Games
-2021-12-29,11,LAK,,,,,6,3,Most Games
-2021-12-29,11,MIN,,,,,3,0,Least Games
-2021-12-29,11,MTL,,,,,5,3,
-2021-12-29,11,NJD,BUF,Away,N,,6,2,Most Games
-2021-12-29,11,NSH,WSH,Away,N,,6,1,Most Games
-2021-12-29,11,NYI,DET,Home,N,,5,1,
+2021-12-29,11,CBJ,,,,,6,3,
+2021-12-29,11,CGY,,,,,6,3,
+2021-12-29,11,CHI,WPG,Away,N,Tired,6,2,
+2021-12-29,11,COL,DAL,Home,N,,7,4,Most Games
+2021-12-29,11,DAL,COL,Away,N,,7,4,Most Games
+2021-12-29,11,DET,NYI,Away,N,,6,3,
+2021-12-29,11,EDM,STL,Away,N,,7,3,Most Games
+2021-12-29,11,FLA,NYR,Home,N,,6,1,
+2021-12-29,11,LAK,,,,,6,3,
+2021-12-29,11,MIN,,,,,4,1,Least Games
+2021-12-29,11,MTL,,,,,6,4,
+2021-12-29,11,NJD,BUF,Away,N,,6,2,
+2021-12-29,11,NSH,WSH,Away,N,,6,1,
+2021-12-29,11,NYI,DET,Home,N,,6,2,
 2021-12-29,11,NYR,FLA,Away,N,,5,3,
-2021-12-29,11,OTT,BOS,Home,N,,6,1,Most Games
+2021-12-29,11,OTT,BOS,Home,N,,6,1,
 2021-12-29,11,PHI,SEA,Away,N,,5,1,
-2021-12-29,11,PIT,TOR,Away,N,,6,2,Most Games
-2021-12-29,11,SEA,PHI,Home,N,,6,1,Most Games
-2021-12-29,11,SJS,,,,,6,3,Most Games
+2021-12-29,11,PIT,TOR,Away,N,,6,2,
+2021-12-29,11,SEA,PHI,Home,N,,6,1,
+2021-12-29,11,SJS,,,,,6,3,
 2021-12-29,11,STL,EDM,Home,N,,5,0,
-2021-12-29,11,TBL,,,,,6,4,Most Games
-2021-12-29,11,TOR,PIT,Home,N,,4,0,
-2021-12-29,11,VAN,ANA,Away,N,,6,1,Most Games
-2021-12-29,11,VGK,,,,,6,3,Most Games
-2021-12-29,11,WPG,CHI,Home,N,Tired Opposition,6,3,Most Games
-2021-12-29,11,WSH,NSH,Home,N,,6,2,Most Games
-2021-12-30,11,ANA,,,,,6,2,Most Games
+2021-12-29,11,TBL,,,,,6,4,
+2021-12-29,11,TOR,PIT,Home,N,,4,0,Least Games
+2021-12-29,11,VAN,ANA,Away,N,,6,1,
+2021-12-29,11,VGK,,,,,6,3,
+2021-12-29,11,WPG,CHI,Home,N,Tired Opposition,6,3,
+2021-12-29,11,WSH,NSH,Home,N,,6,2,
+2021-12-30,11,ANA,,,,,7,3,Most Games
 2021-12-30,11,ARI,,,,,5,2,
-2021-12-30,11,BOS,,,,,6,1,Most Games
-2021-12-30,11,BUF,NYI,Away,Y,Both Tired,6,2,Most Games
+2021-12-30,11,BOS,,,,,6,1,
+2021-12-30,11,BUF,NYI,Away,Y,Both Tired,7,3,Most Games
 2021-12-30,11,CAR,MTL,Home,Y,,5,1,
-2021-12-30,11,CBJ,NSH,Home,Y,Tired Opposition,5,2,
-2021-12-30,11,CGY,SEA,Away,Y,Tired Opposition,6,3,Most Games
-2021-12-30,11,CHI,,,,,6,2,Most Games
-2021-12-30,11,COL,,,,,6,3,Most Games
-2021-12-30,11,DAL,,,,,6,3,Most Games
-2021-12-30,11,DET,,,,,5,2,
-2021-12-30,11,EDM,,,,,6,2,Most Games
-2021-12-30,11,FLA,TBL,Home,Y,Tired,6,1,Most Games
-2021-12-30,11,LAK,VAN,Home,Y,Tired Opposition,6,3,Most Games
-2021-12-30,11,MIN,,,,,3,0,Least Games
-2021-12-30,11,MTL,CAR,Away,Y,,5,3,
-2021-12-30,11,NJD,,,,,6,2,Most Games
-2021-12-30,11,NSH,CBJ,Away,Y,Tired,6,1,Most Games
-2021-12-30,11,NYI,BUF,Home,Y,Both Tired,5,1,
+2021-12-30,11,CBJ,NSH,Home,Y,Tired Opposition,6,3,
+2021-12-30,11,CGY,SEA,Away,Y,Tired Opposition,6,3,
+2021-12-30,11,CHI,,,,,6,2,
+2021-12-30,11,COL,,,,,7,4,Most Games
+2021-12-30,11,DAL,,,,,7,4,Most Games
+2021-12-30,11,DET,,,,,6,3,
+2021-12-30,11,EDM,,,,,7,3,Most Games
+2021-12-30,11,FLA,TBL,Home,Y,Tired,6,1,
+2021-12-30,11,LAK,VAN,Home,Y,Tired Opposition,6,3,
+2021-12-30,11,MIN,,,,,4,1,Least Games
+2021-12-30,11,MTL,CAR,Away,Y,,6,4,
+2021-12-30,11,NJD,,,,,6,2,
+2021-12-30,11,NSH,CBJ,Away,Y,Tired,6,1,
+2021-12-30,11,NYI,BUF,Home,Y,Both Tired,6,2,
 2021-12-30,11,NYR,,,,,5,3,
-2021-12-30,11,OTT,,,,,6,1,Most Games
+2021-12-30,11,OTT,,,,,6,1,
 2021-12-30,11,PHI,SJS,Away,Y,Tired,5,1,
-2021-12-30,11,PIT,,,,,6,2,Most Games
-2021-12-30,11,SEA,CGY,Home,Y,Tired,6,1,Most Games
-2021-12-30,11,SJS,PHI,Home,Y,Tired Opposition,6,3,Most Games
+2021-12-30,11,PIT,,,,,6,2,
+2021-12-30,11,SEA,CGY,Home,Y,Tired,6,1,
+2021-12-30,11,SJS,PHI,Home,Y,Tired Opposition,6,3,
 2021-12-30,11,STL,,,,,5,0,
-2021-12-30,11,TBL,FLA,Away,Y,Tired Opposition,6,4,Most Games
-2021-12-30,11,TOR,,,,,4,0,
-2021-12-30,11,VAN,LAK,Away,Y,Tired,6,1,Most Games
-2021-12-30,11,VGK,,,,,6,3,Most Games
-2021-12-30,11,WPG,,,,,6,3,Most Games
-2021-12-30,11,WSH,,,,,6,2,Most Games
-2021-12-31,11,ANA,VGK,Away,Y,,6,2,Most Games
+2021-12-30,11,TBL,FLA,Away,Y,Tired Opposition,6,4,
+2021-12-30,11,TOR,,,,,4,0,Least Games
+2021-12-30,11,VAN,LAK,Away,Y,Tired,6,1,
+2021-12-30,11,VGK,,,,,6,3,
+2021-12-30,11,WPG,,,,,6,3,
+2021-12-30,11,WSH,,,,,6,2,
+2021-12-31,11,ANA,VGK,Away,Y,,7,3,Most Games
 2021-12-31,11,ARI,,,,,5,2,
-2021-12-31,11,BOS,,,,,6,1,Most Games
-2021-12-31,11,BUF,,,,,6,2,Most Games
+2021-12-31,11,BOS,,,,,6,1,
+2021-12-31,11,BUF,,,,,7,3,Most Games
 2021-12-31,11,CAR,,,,,5,1,
-2021-12-31,11,CBJ,,,,,5,2,
-2021-12-31,11,CGY,WPG,Home,Y,Tired,6,3,Most Games
-2021-12-31,11,CHI,,,,,6,2,Most Games
-2021-12-31,11,COL,DAL,Away,Y,,6,3,Most Games
-2021-12-31,11,DAL,COL,Home,Y,,6,3,Most Games
-2021-12-31,11,DET,WSH,Home,Y,,5,2,
-2021-12-31,11,EDM,NJD,Away,Y,,6,2,Most Games
-2021-12-31,11,FLA,,,,,6,1,Most Games
-2021-12-31,11,LAK,,,,,6,3,Most Games
-2021-12-31,11,MIN,,,,,3,0,Least Games
-2021-12-31,11,MTL,,,,,5,3,
-2021-12-31,11,NJD,EDM,Home,Y,,6,2,Most Games
-2021-12-31,11,NSH,,,,,6,1,Most Games
-2021-12-31,11,NYI,,,,,5,1,
+2021-12-31,11,CBJ,,,,,6,3,
+2021-12-31,11,CGY,WPG,Home,Y,Tired,6,3,
+2021-12-31,11,CHI,,,,,6,2,
+2021-12-31,11,COL,DAL,Away,Y,,7,4,Most Games
+2021-12-31,11,DAL,COL,Home,Y,,7,4,Most Games
+2021-12-31,11,DET,WSH,Home,Y,,6,3,
+2021-12-31,11,EDM,NJD,Away,Y,,7,3,Most Games
+2021-12-31,11,FLA,,,,,6,1,
+2021-12-31,11,LAK,,,,,6,3,
+2021-12-31,11,MIN,,,,,4,1,Least Games
+2021-12-31,11,MTL,,,,,6,4,
+2021-12-31,11,NJD,EDM,Home,Y,,6,2,
+2021-12-31,11,NSH,,,,,6,1,
+2021-12-31,11,NYI,,,,,6,2,
 2021-12-31,11,NYR,TBL,Away,Y,Tired Opposition,5,3,
-2021-12-31,11,OTT,PIT,Home,Y,,6,1,Most Games
+2021-12-31,11,OTT,PIT,Home,Y,,6,1,
 2021-12-31,11,PHI,,,,,5,1,
-2021-12-31,11,PIT,OTT,Away,Y,,6,2,Most Games
-2021-12-31,11,SEA,,,,,6,1,Most Games
-2021-12-31,11,SJS,,,,,6,3,Most Games
+2021-12-31,11,PIT,OTT,Away,Y,,6,2,
+2021-12-31,11,SEA,,,,,6,1,
+2021-12-31,11,SJS,,,,,6,3,
 2021-12-31,11,STL,,,,,5,0,
-2021-12-31,11,TBL,NYR,Home,Y,Tired,6,4,Most Games
-2021-12-31,11,TOR,,,,,4,0,
-2021-12-31,11,VAN,,,,,6,1,Most Games
-2021-12-31,11,VGK,ANA,Home,Y,,6,3,Most Games
-2021-12-31,11,WPG,CGY,Away,Y,Tired Opposition,6,3,Most Games
-2021-12-31,11,WSH,DET,Away,Y,,6,2,Most Games
-2022-01-01,11,ANA,,,,,6,2,Most Games
+2021-12-31,11,TBL,NYR,Home,Y,Tired,6,4,
+2021-12-31,11,TOR,,,,,4,0,Least Games
+2021-12-31,11,VAN,,,,,6,1,
+2021-12-31,11,VGK,ANA,Home,Y,,6,3,
+2021-12-31,11,WPG,CGY,Away,Y,Tired Opposition,6,3,
+2021-12-31,11,WSH,DET,Away,Y,,6,2,
+2022-01-01,11,ANA,,,,,7,3,Most Games
 2022-01-01,11,ARI,,,,,5,2,
-2022-01-01,11,BOS,BUF,Home,N,,6,1,Most Games
-2022-01-01,11,BUF,BOS,Away,N,,6,2,Most Games
+2022-01-01,11,BOS,BUF,Home,N,,6,1,
+2022-01-01,11,BUF,BOS,Away,N,,7,3,Most Games
 2022-01-01,11,CAR,CBJ,Away,N,,5,1,
-2022-01-01,11,CBJ,CAR,Home,N,,5,2,
-2022-01-01,11,CGY,,,,,6,3,Most Games
-2022-01-01,11,CHI,NSH,Away,N,,6,2,Most Games
-2022-01-01,11,COL,,,,,6,3,Most Games
-2022-01-01,11,DAL,,,,,6,3,Most Games
-2022-01-01,11,DET,,,,,5,2,
-2022-01-01,11,EDM,NYI,Away,N,,6,2,Most Games
-2022-01-01,11,FLA,MTL,Home,N,,6,1,Most Games
-2022-01-01,11,LAK,PHI,Home,N,,6,3,Most Games
-2022-01-01,11,MIN,STL,Home,N,,3,0,Least Games
-2022-01-01,11,MTL,FLA,Away,N,,5,3,
-2022-01-01,11,NJD,,,,,6,2,Most Games
-2022-01-01,11,NSH,CHI,Home,N,,6,1,Most Games
-2022-01-01,11,NYI,EDM,Home,N,,5,1,
+2022-01-01,11,CBJ,CAR,Home,N,,6,3,
+2022-01-01,11,CGY,,,,,6,3,
+2022-01-01,11,CHI,NSH,Away,N,,6,2,
+2022-01-01,11,COL,,,,,7,4,Most Games
+2022-01-01,11,DAL,,,,,7,4,Most Games
+2022-01-01,11,DET,,,,,6,3,
+2022-01-01,11,EDM,NYI,Away,N,,7,3,Most Games
+2022-01-01,11,FLA,MTL,Home,N,,6,1,
+2022-01-01,11,LAK,PHI,Home,N,,6,3,
+2022-01-01,11,MIN,STL,Home,N,,4,1,Least Games
+2022-01-01,11,MTL,FLA,Away,N,,6,4,
+2022-01-01,11,NJD,,,,,6,2,
+2022-01-01,11,NSH,CHI,Home,N,,6,1,
+2022-01-01,11,NYI,EDM,Home,N,,6,2,
 2022-01-01,11,NYR,,,,,5,3,
-2022-01-01,11,OTT,TOR,Away,N,,6,1,Most Games
+2022-01-01,11,OTT,TOR,Away,N,,6,1,
 2022-01-01,11,PHI,LAK,Away,N,,5,1,
-2022-01-01,11,PIT,,,,,6,2,Most Games
-2022-01-01,11,SEA,VAN,Home,N,,6,1,Most Games
-2022-01-01,11,SJS,,,,,6,3,Most Games
+2022-01-01,11,PIT,,,,,6,2,
+2022-01-01,11,SEA,VAN,Home,N,,6,1,
+2022-01-01,11,SJS,,,,,6,3,
 2022-01-01,11,STL,MIN,Away,N,,5,0,
-2022-01-01,11,TBL,,,,,6,4,Most Games
-2022-01-01,11,TOR,OTT,Home,N,,4,0,
-2022-01-01,11,VAN,SEA,Away,N,,6,1,Most Games
-2022-01-01,11,VGK,,,,,6,3,Most Games
-2022-01-01,11,WPG,,,,,6,3,Most Games
-2022-01-01,11,WSH,,,,,6,2,Most Games
-2022-01-02,11,ANA,COL,Away,Y,,6,2,Most Games
+2022-01-01,11,TBL,,,,,6,4,
+2022-01-01,11,TOR,OTT,Home,N,,4,0,Least Games
+2022-01-01,11,VAN,SEA,Away,N,,6,1,
+2022-01-01,11,VGK,,,,,6,3,
+2022-01-01,11,WPG,,,,,6,3,
+2022-01-01,11,WSH,,,,,6,2,
+2022-01-02,11,ANA,COL,Away,Y,,7,3,Most Games
 2022-01-02,11,ARI,DAL,Home,Y,,5,2,
-2022-01-02,11,BOS,DET,Away,Y,Tired,6,1,Most Games
-2022-01-02,11,BUF,,,,,6,2,Most Games
+2022-01-02,11,BOS,DET,Away,Y,Tired,6,1,
+2022-01-02,11,BUF,,,,,7,3,Most Games
 2022-01-02,11,CAR,,,,,5,1,
-2022-01-02,11,CBJ,,,,,5,2,
-2022-01-02,11,CGY,CHI,Away,Y,Tired Opposition,6,3,Most Games
-2022-01-02,11,CHI,CGY,Home,Y,Tired,6,2,Most Games
-2022-01-02,11,COL,ANA,Home,Y,,6,3,Most Games
-2022-01-02,11,DAL,ARI,Away,Y,,6,3,Most Games
-2022-01-02,11,DET,BOS,Home,Y,Tired Opposition,5,2,
-2022-01-02,11,EDM,,,,,6,2,Most Games
-2022-01-02,11,FLA,,,,,6,1,Most Games
-2022-01-02,11,LAK,,,,,6,3,Most Games
-2022-01-02,11,MIN,,,,,3,0,Least Games
-2022-01-02,11,MTL,,,,,5,3,
-2022-01-02,11,NJD,WSH,Away,Y,,6,2,Most Games
-2022-01-02,11,NSH,,,,,6,1,Most Games
-2022-01-02,11,NYI,,,,,5,1,
+2022-01-02,11,CBJ,,,,,6,3,
+2022-01-02,11,CGY,CHI,Away,Y,Tired Opposition,6,3,
+2022-01-02,11,CHI,CGY,Home,Y,Tired,6,2,
+2022-01-02,11,COL,ANA,Home,Y,,7,4,Most Games
+2022-01-02,11,DAL,ARI,Away,Y,,7,4,Most Games
+2022-01-02,11,DET,BOS,Home,Y,Tired Opposition,6,3,
+2022-01-02,11,EDM,,,,,7,3,Most Games
+2022-01-02,11,FLA,,,,,6,1,
+2022-01-02,11,LAK,,,,,6,3,
+2022-01-02,11,MIN,,,,,4,1,Least Games
+2022-01-02,11,MTL,,,,,6,4,
+2022-01-02,11,NJD,WSH,Away,Y,,6,2,
+2022-01-02,11,NSH,,,,,6,1,
+2022-01-02,11,NYI,,,,,6,2,
 2022-01-02,11,NYR,TBL,Home,Y,,5,3,
-2022-01-02,11,OTT,,,,,6,1,Most Games
+2022-01-02,11,OTT,,,,,6,1,
 2022-01-02,11,PHI,,,,,5,1,
-2022-01-02,11,PIT,SJS,Home,Y,,6,2,Most Games
-2022-01-02,11,SEA,,,,,6,1,Most Games
-2022-01-02,11,SJS,PIT,Away,Y,,6,3,Most Games
+2022-01-02,11,PIT,SJS,Home,Y,,6,2,
+2022-01-02,11,SEA,,,,,6,1,
+2022-01-02,11,SJS,PIT,Away,Y,,6,3,
 2022-01-02,11,STL,,,,,5,0,
-2022-01-02,11,TBL,NYR,Away,Y,,6,4,Most Games
-2022-01-02,11,TOR,,,,,4,0,
-2022-01-02,11,VAN,,,,,6,1,Most Games
-2022-01-02,11,VGK,WPG,Home,Y,,6,3,Most Games
-2022-01-02,11,WPG,VGK,Away,Y,,6,3,Most Games
-2022-01-02,11,WSH,NJD,Home,Y,,6,2,Most Games
+2022-01-02,11,TBL,NYR,Away,Y,,6,4,
+2022-01-02,11,TOR,,,,,4,0,Least Games
+2022-01-02,11,VAN,,,,,6,1,
+2022-01-02,11,VGK,WPG,Home,Y,,6,3,
+2022-01-02,11,WPG,VGK,Away,Y,,6,3,
+2022-01-02,11,WSH,NJD,Home,Y,,6,2,
 2022-01-03,12,ANA,,,,,3,0,
 2022-01-03,12,ARI,,,,,3,0,
 2022-01-03,12,BOS,,,,,3,0,
