@@ -80,7 +80,9 @@ select
 	summary.total_games,
 	summary.off_nights,
 	case when week_info.most_games = summary.total_games then 'Most Games'
-		 when week_info.least_games = summary.total_games then 'Least Games' else null end as week_info
+		 when week_info.least_games = summary.total_games then 'Least Games' else null end as week_info,
+	next_matchup.total_games as games_next_matchup,
+	next_matchup.off_nights as off_nights_next_matchup
 from
 	schedule_helper sh
 	left outer join
@@ -94,6 +96,17 @@ from
 		group by
 			matchup,
 			team) summary on summary.matchup = sh.matchup and summary.team = sh.team
+	left outer join
+		(select
+			matchup,
+			team,
+			count(opposition) as total_games,
+			sum(case when off_night = 'Y' then 1 else 0 end) as off_nights
+		from 
+			schedule_helper
+		group by
+			matchup,
+			team) next_matchup on next_matchup.matchup = sh.matchup+1 and next_matchup.team = sh.team
 	left outer join
 		(select
 			matchup,
